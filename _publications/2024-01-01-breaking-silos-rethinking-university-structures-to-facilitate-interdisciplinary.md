@@ -2,7 +2,7 @@
 title: "Breaking Silos: Rethinking University Structures to Facilitate Interdisciplinary Engineering Graduate Education"
 author: "Webb, M.E.B., Menon, M., Deters, J.R., & Paretti, M.C."
 collection: publications
-category: manuscripts
+category: conference
 permalink: /publication/2024-01-01-breaking-silos-rethinking-university-structures-to-facilitate-interdisciplinary
 date: 2024-01-01
 venue: 'European Journal of Engineering Education'
