@@ -1,8 +1,9 @@
 {
   "basics": {
-    "name": "Mitchell Gerhardt",
-    "email": "mitchg@vt.edu",
-    "summary": "Ph.D. candidate in Engineering Education with expertise in AI in education, STEM graduate engineering education, human-computer interaction, natural language processing, epistemic thinking, epistemic cultures, and collaborative learning.",
+    "name": "Margaret E. B. Webb",
+    "email": "mew329@cornell.edu",
+    "phone": "504.460.2980",
+    "summary": "Postdoctoral Associate in Disciplinary-Based Education Research with expertise in systems thinking, identity, motivation, and learning theory as applied to STEM graduate education. Research focuses on how institutional structures, disciplinary cultures, and funding mechanisms impact faculty and student development, interdisciplinary collaboration, and engineering education ecosystems.",
     "location": {
       "city": "Ithaca",
       "region": "New York",
@@ -10,360 +11,922 @@
     },
     "profiles": [
       {
-        "network": "GitHub",
-        "username": "mitchg10",
-        "url": "https://github.com/mitchg10/"
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/margaret-webb"
       },
       {
-        "network": "LinkedIn",
-        "username": "mitchell-gerhardt",
-        "url": "https://linkedin.com/in/mitchell-gerhardt"
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com"
+      },
+      {
+        "network": "ORCID",
+        "url": "https://orcid.org/0000-0002-3925-2120"
+      },
+      {
+        "network": "ResearchGate",
+        "url": "https://www.researchgate.net"
       }
     ]
   },
   "research_interests": [
-    "AI in education",
-    "STEM graduate engineering education", 
-    "human-computer interaction",
-    "natural language processing",
-    "epistemic thinking",
-    "epistemic cultures",
-    "collaborative learning"
+    "Systems thinking in STEM education",
+    "Identity and motivation in engineering",
+    "STEM graduate education",
+    "Interdisciplinary collaboration",
+    "Postdoctoral professional development",
+    "Generative AI in qualitative assessment",
+    "Active learning and instructional change",
+    "Participatory action research",
+    "Digital justice",
+    "Disaster resilience"
   ],
   "education": [
     {
       "institution": "Virginia Tech",
       "area": "Engineering Education",
       "studyType": "Ph.D.",
-      "startDate": "2023-08",
-      "endDate": "2027-05",
-      "gpa": "4.00/4.00",
-      "details": [
-        "Committee: Courtney Faber, Andrew Katz (Chair), Holly Matusovich, and Nicole Pitterson",
-        "2025 NSF GRFP Honorable Mention",
-        "2023-2024 Davenport Fellowship Awardee"
-      ]
-    },
-    {
-      "institution": "Virginia Tech",
-      "area": "Computer Science",
-      "studyType": "M.S.",
-      "startDate": "2023-08",
-      "endDate": "2026-05",
-      "gpa": "3.77/4.00",
-      "details": [
-        "Committee: Sara Hooshangi (Chair), Andrew Katz, Naren Ramakrishnan"
-      ],
-      "courses": [
-        "Machine Learning",
-        "Natural Language Processing", 
-        "Computer Education Research",
-        "AI Tools for Software Engineering",
-        "Applied Design and Assessment of Educational Environments in Engineering"
-      ]
-    },
-    {
-      "institution": "Virginia Tech",
-      "area": "Cognition and Education",
-      "studyType": "Graduate Certificate",
-      "startDate": "2024-08",
       "endDate": "2025-05",
-      "gpa": "4.00/4.00"
+      "location": "Blacksburg, VA",
+      "details": [
+        "Advisor: Dr. Marie C. Paretti",
+        "Dissertation: Exploring Systems Influences on Engineering Graduate Student Interdisciplinary Identity-Based Motivation towards Research Careers"
+      ]
     },
     {
       "institution": "Virginia Tech",
-      "area": "Electrical Engineering",
-      "studyType": "B.S.",
-      "startDate": "2016-08",
-      "endDate": "2020-12",
-      "gpa": "3.69/4.00",
+      "area": "Civil Engineering",
+      "studyType": "M.S.",
+      "endDate": "2024-05",
+      "location": "Blacksburg, VA",
       "details": [
-        "Graduated Magna Cum Laude and on Dean's List",
-        "Pratt Engineering Scholarship, Donald and Madeline Stewart Scholarship, and Konrad-Steinmetz Scholarship for Engineering Leadership Awardee",
-        "Hardware Team Lead for AutoDrive Design Team"
+        "Focus Area: Sustainable Land Development",
+        "Outstanding Capstone Design Project: Bowman Sustainable Land Development CEE M.S. Program, Spring 2023"
+      ]
+    },
+    {
+      "institution": "Virginia Tech",
+      "area": "Disaster Resilience and Risk Management",
+      "studyType": "Graduate Certificate",
+      "location": "Blacksburg, VA"
+    },
+    {
+      "institution": "Rice University",
+      "area": "Mechanical Engineering",
+      "studyType": "B.S.",
+      "location": "Houston, TX",
+      "details": [
+        "Graduated Magna Cum Laude",
+        "President's Honor Roll",
+        "Rice University Willy Revolution Award for Outstanding Innovation: Senior Capstone Award",
+        "Oshman Engineering Design Engineering + Art Competition"
       ]
     }
   ],
   "work": [
     {
-      "company": "Center for Excellence in Teaching and Learning (CETL), Virginia Tech",
-      "position": "Graduate Assistant to the Director for Special Programs",
-      "startDate": "2024-08",
+      "company": "Cornell University, Department of Biomedical Engineering",
+      "position": "Postdoctoral Fellow, Cornell Disciplinary-Based Education Research (CDER)",
+      "startDate": "2025-05",
       "endDate": "current",
+      "location": "Ithaca, NY",
+      "summary": "Conducting DBER research under Dr. Alex Werth and Dr. Alex Coso Strong",
+      "highlights": [
+        "Researching postdoctoral professional development: exploring how structures, systems, and cultures impact postdoctoral associates as scholars and change agents",
+        "Investigating generative AI's role in automating qualitative assessment of student reflection quality in STEM education courses",
+        "Studying Active Learning Initiatives as instructional change models",
+        "Supporting research grant writing",
+        "Planning and coordinating an international DBER conference",
+        "Mentoring graduate and undergraduate students in STEM education research"
+      ]
+    },
+    {
+      "company": "Virginia Tech, Office of the Dean of the College of Engineering",
+      "position": "Graduate Research Assistant for Graduate & Professional Studies",
+      "startDate": "2024-06",
+      "endDate": "2025-05",
       "location": "Blacksburg, VA",
-      "summary": "Work with Dr. Tiffany Shoop on various teaching and learning initiatives",
+      "summary": "Worked under Dr. Holly Matusovich on graduate and professional development programming",
       "highlights": [
-        "Conducted mid-semester feedback sessions across various disciplines",
-        "Developed and presented faculty workshop on Interactive Lecturing with approximately 30 attendees",
-        "Co-led implementation of CIRTL program at Virginia Tech",
-        "Helped organize 17th annual Conference on Higher Education Pedagogy (CHEP)",
-        "Systematically reviewed empirical research on Collaborative Online Interactive Learning (COIL)"
+        "Coordinated and hosted Virginia Tech Dissertation Institute (VTDI) for graduate student writing and research skills support",
+        "Organized College of Engineering Graduate Student Fall Welcome Fair",
+        "Developed and managed 2024-2025 workshop series for professional development targeting graduate students and external fellowship holders",
+        "Evaluated programming effectiveness and prepared formative and summative assessment reports for the Dean",
+        "Initiated and developed a college-level Canvas Site as a repository for engineering graduate student professional development materials",
+        "Developed a peer-mentoring program for external fellowship-holding students, piloting a GPS Student Ambassador Program",
+        "Served on the 2024 search committee for a new Assistant Director of Graduate and Professional Studies",
+        "Organized hire for a computer scientist graduate assistant",
+        "Collaborated in developing a scalable computerized process for addressing COE under-enrolled classes for semesterly audits and reporting"
       ]
     },
     {
-      "company": "General Motors",
-      "position": "Global Product Development Engineering",
-      "startDate": "2021-06",
-      "endDate": "2023-06",
-      "location": "Warren, MI",
-      "summary": "Multiple roles in software-defined vehicle development",
-      "highlights": [
-        "Software Engineer - Software Defined Vehicle: Developed next-gen software infrastructures and technology",
-        "Infotainment Technical Program Manager: Planned, executed, and delivered leading-edge technology",
-        "Complexity Optimization Engineer: Engaged in measuring, managing strategy, and reducing program complexity"
-      ]
-    },
-    {
-      "company": "Caterpillar Inc.",
-      "position": "Autonomy Systems Research - Software Engineer I",
-      "startDate": "2019-05",
-      "endDate": "2020-12",
-      "location": "Peoria, IL and Blacksburg, VA",
-      "summary": "Implemented control interfaces and validated sensor data for autonomous machinery",
-      "highlights": [
-        "Implemented control interface for autonomy simulation platform using ROS",
-        "Validated and integrated sensor data on large-scale machinery into algorithms for mapping and navigation",
-        "Developed CI/CD protocols and workflows for software distribution using Docker, ROS, and C++ testing framework"
-      ]
-    }
-  ],
-  "research_experience": [
-    {
-      "institution": "Department of Engineering Education, Virginia Tech",
-      "position": "Research Assistant",
+      "company": "Virginia Tech, Institute for Creativity, Arts, and Design",
+      "position": "Graduate Research Assistant – Designing Technology for Hospital Education",
       "startDate": "2024-01",
-      "endDate": "2024-07",
+      "endDate": "2025-05",
       "location": "Blacksburg, VA",
-      "supervisor": "Dr. Andrew Katz",
-      "project": "NSF Award #2300977: Design for Sustainability: How Mental Models of Social-Ecological Systems Shape Engineering Design Decisions",
+      "summary": "Supported VT ICAT Virginia Tech Major SEAD Research Grant ($40,000). PIs: Dr. Finda Williams and Dr. Sweta Baniya",
       "highlights": [
-        "Developed novel natural language processing (NLP) methodology for generating qualitative codebooks from large datasets",
-        "Co-authored journal publication in International Journal of Qualitative Methods outlining EECS workflow",
-        "Applied open-source large language models to preserve data security and privacy"
+        "Conducted semi-structured interviews with hospital educators",
+        "Developed a qualitative codebook and analyzed qualitative journal and interview data",
+        "Published and wrote conference papers and journal articles related to this research"
       ]
     },
     {
-      "institution": "Department of Engineering Education, Virginia Tech", 
-      "position": "Research Assistant",
-      "startDate": "2023-08",
+      "company": "Virginia Tech, Engineering Education",
+      "position": "Graduate Research Assistant – Disaster Resilience and Risk Management",
+      "startDate": "2021-01",
       "endDate": "2024-01",
       "location": "Blacksburg, VA",
-      "supervisor": "Dr. Nicole Pitterson",
-      "project": "NSF Award #2217523: Collaborative Research: Collaboration in Engineering Student and Practitioner Teams: A Study of Beliefs about Effective Behaviors",
+      "summary": "Supported NSF Award #1735139. Supervisor: Dr. Marie Paretti; PI: Dr. Robert Weiss",
       "highlights": [
-        "Designed and implemented pilot study examining collaborative behaviors in senior engineering capstone teams",
-        "Co-authored conference paper for 2024 Capstone Design Conference",
-        "Expanded conference paper into accepted journal article"
+        "Designed and conducted program-level and course-level assessments including pre/post concept maps and annual interviews",
+        "Summarized assessment findings for the annual NSF NRT report and presented to the DRRM advisory board",
+        "Conducted semi-structured interviews and focus groups, developed qualitative codebooks, and analyzed data",
+        "Published conference papers and journal articles",
+        "Planned and coordinated graduate student programming for the annual NRT conference 2022-2023",
+        "Mentored junior Engineering Education graduate students in research methods, dissertation ideation, and career development"
       ]
-    }
-  ],
-  "publications": [
-    {
-      "name": "Collaborative (In)decision: A Preliminary Investigation of the Differences in Undergraduate Engineering Capstone Students' Collaborative Behaviors",
-      "publisher": "International Journal of Engineering Education - Special Issue for Capstone Design",
-      "status": "Pending Publication",
-      "authors": "Mitchell Gerhardt, Mayar Madboly, Nicole Pitterson, Emily Dringenberg, and Benjamin Ahn"
     },
     {
-      "name": "Using Generative Text Models to Create Qualitative Codebooks for Student Evaluations of Teaching",
-      "publisher": "International Journal of Qualitative Methods - Volume 23",
-      "releaseDate": "2024-11",
-      "website": "https://doi.org/10.1177/16094069241293283",
-      "authors": "Andrew Katz, Mitchell Gerhardt, and Michelle Soledad"
-    },
-    {
-      "name": "Automated Analysis of Knowledge Types in Computer Science Textbooks: A Natural Language Processing Approach to Understanding Epistemic Climate",
-      "publisher": "2025 ASEE Annual Conference & Exposition",
-      "location": "Montreal, QC, Canada",
-      "status": "Accepted",
-      "authors": "Mitchell Gerhardt and Andrew Katz"
-    },
-    {
-      "name": "Engineering Judgment Through the Lens of Epistemic Cognition: Insights from an Open-Ended Laboratory",
-      "publisher": "2025 ASEE Annual Conference & Exposition",
-      "location": "Montreal, QC, Canada", 
-      "status": "Accepted",
-      "authors": "Mitchell Gerhardt, Michael Robinson, and Brian Faulkner"
-    },
-    {
-      "name": "Reimagining Behavioral Analysis in Engineering Education: A Theoretical Exploration of Reasoned Action Approach",
-      "publisher": "2024 ASEE Annual Conference & Exposition",
-      "location": "Portland, OR",
-      "releaseDate": "2024-06",
-      "website": "https://peer.asee.org/47934",
-      "authors": "Mitchell Gerhardt, Nicole Pitterson, Emily Dringenberg, and Benjamin Ahn"
-    },
-    {
-      "name": "Why do capstone students choose to perform behaviors? Differing prevalence in collaborative choices",
-      "publisher": "Capstone Design Conference",
-      "location": "Knoxville, TN",
-      "releaseDate": "2024-06",
-      "website": "https://capstonedesigncommunity.org/sites/default/files/proceedings_papers/Gerhardt-CDC24.pdf",
-      "authors": "Mitchell Gerhardt, Nicole Pitterson, Emily Dringenberg, and Benjamin Ahn"
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Invited Student Discussion",
-      "event": "Board of Visitors Meeting",
-      "date": "2025-05",
+      "company": "Virginia Tech, Center for Coastal Studies",
+      "position": "Graduate Research Assistant – COVID-19 & Climate Change: Mapping the Effects of Compounding Crisis",
+      "startDate": "2021-01",
+      "endDate": "2024-01",
       "location": "Blacksburg, VA",
-      "description": "Invited to discuss research and ongoing projects during Virginia Tech Board of Visitors meeting"
+      "summary": "PIs: Dr. Andrew Katz and Dr. Sweta Baniya. Center for Coastal Studies, Virginia Tech Major SEAD Research Grant",
+      "highlights": [
+        "Supported development of an end-to-end method leveraging GPT-3.5 for generating qualitative codebooks from disaster-related social media data",
+        "Contributed to interdisciplinary research using NLP for qualitative analysis using transformer-based large language models",
+        "Mentored undergraduate students from Urban Planning, Geography, Communications, and Computer Science in NLP research"
+      ]
     },
     {
-      "name": "Teamwork and Team Formation Panel",
-      "event": "2024 Capstone Design Conference",
-      "date": "2024-06",
-      "location": "Knoxville, TN",
-      "description": "Conference panel discussion about teamwork and team formation in capstone engineering courses"
-    },
-    {
-      "name": "Reimagining Behavioral Analysis in Engineering Education: A Theoretical Exploration of Reasoned Action Approach",
-      "event": "2024 ASEE Annual Conference",
-      "date": "2024-06",
-      "location": "Portland, OR",
-      "description": "Conference presentation in ERM division"
-    },
-    {
-      "name": "Why do capstone students choose to perform behaviors? Differing prevalence in collaborative choices",
-      "event": "2024 Capstone Design Conference",
-      "date": "2024-06",
-      "location": "Knoxville, TN",
-      "description": "Poster presentation during conference poster session"
-    },
-    {
-      "name": "Career Pathways Panel",
-      "event": "Virginia Tech Interdisciplinary Capstone (IDC) course",
-      "date": "2023-10",
+      "company": "Virginia Tech, Center for Refugee, Migrant, and Displacement Studies",
+      "position": "Graduate Research Assistant – Towards Digital Justice: Developing a US Citizenship App & Website",
+      "startDate": "2021-01",
+      "endDate": "2024-01",
       "location": "Blacksburg, VA",
-      "description": "Invited talk to discuss graduating, engineering industry, and career pathways with capstone students"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Graduate Courses Analysis Tool",
-      "category": "Web Application",
-      "startDate": "2023-11",
-      "endDate": "current",
-      "url": "https://course-extractor-rior.onrender.com/",
-      "github": "https://github.com/mitchg10/course-extractor",
-      "description": "Web application that extracts structured course data from PDF timetables, identifying underenrolled graduate courses for enrollment analysis",
-      "technologies": ["React", "Tailwind", "FastAPI", "PyMuPDF", "AWS S3", "Docker"]
+      "summary": "PIs: Dr. Sweta Baniya and Dr. Katrina Powell. American Council of Learned Societies (ACLS) Digital Justice Seed Grant",
+      "highlights": [
+        "Supported a community-engaged participatory action research project reimagining the U.S. naturalization process through a lens of digital justice",
+        "Employed theoretical frameworks of knowledge justice, digital justice, and epistemic integration",
+        "Investigated normative assumptions about migrants embedded in digitized naturalization processes",
+        "Co-designed ICTs with newcomers informed by lived experiences and values of refugee and immigrant communities",
+        "Mentored undergraduate students across Computer Science, Psychology, Technical Communications, and Engineering"
+      ]
     },
     {
-      "name": "Epistemic Climate Analysis in CS Education",
-      "category": "Research Project",
-      "startDate": "2024-09",
-      "endDate": "current",
-      "github": "https://github.com/mitchg10/NLP_FinalProject",
-      "description": "NLP-based analysis of computer science textbook knowledge types using large language models to examine epistemic climate",
-      "technologies": ["Python", "NLP", "Large Language Models", "Retrieval-Augmented Generation"]
-    }
-  ],
-  "service": [
-    {
-      "organization": "Virginia Tech Graduate Honor System",
-      "position": "Panelist & Facilitated Discussion Mediator",
-      "startDate": "2023-08",
-      "endDate": "current",
-      "description": "Serve as trained facilitator for academic integrity discussions and participate in Review Panels"
+      "company": "Virginia Tech, Center for Refugee, Migrant, and Displacement Studies",
+      "position": "Critical Displacement Studies Fellow",
+      "startDate": "2021-08",
+      "endDate": "2024-05",
+      "location": "Blacksburg, VA",
+      "summary": "PIs: Dr. Katrina Powell and Dr. Rebecca Hester. National Endowment for the Humanities in partnership with the Social Science Research Council",
+      "highlights": [
+        "Collaboratively wrote an open-access reader, the Interdisciplinary and Critical Displacement Studies Reader, building a Critical Displacement Studies methodological research approach"
+      ]
     },
     {
-      "organization": "Department of Engineering Education",
-      "position": "Graduate Ambassador", 
-      "startDate": "2024-08",
-      "endDate": "current",
-      "description": "Represent department in recruitment and outreach activities"
+      "company": "ExxonMobil",
+      "position": "Engineer (Multiple Roles)",
+      "startDate": "2019-01",
+      "endDate": "2020-12",
+      "location": "Houston, TX",
+      "highlights": [
+        "Rotating Facilities Engineer to Norman Wells in NWT, Canada: responsible for on-the-ground engineering and operations optimization",
+        "Project Engineer Liza Phase 1 Subsea Pig Launcher: developed, manufactured, and tested a $3M assembly deployed offshore Guyana",
+        "Subsea Hardware Lead Central South Dagi: responsible for design of all subsea hardware for a 14-well tieback offshore Sakhalin, Russia",
+        "Internship Program Coordinator for Upstream Integrated Solutions: planned and executed the internship program for 80 employees",
+        "Subject Matter Expert in Template Manifolds and Elastomer-Sealed Subsea Gaskets",
+        "Designed an enhanced surveillance leak detection tool for potential methanol egress in subsea fields",
+        "Scoped the 2018 cathodic protection survey for Mobil Equatorial Guinea using descriptive analytics in JMP"
+      ]
     },
     {
-      "organization": "College of Engineering",
-      "position": "Reviewer - Torgersen Research Excellence Award",
-      "date": "2025-05"
-    },
-    {
-      "organization": "ASEE Annual Conference",
-      "position": "Reviewer",
-      "dates": ["2024-05", "2025-05"]
-    },
-    {
-      "organization": "International Journal of Qualitative Methods",
-      "position": "Reviewer",
-      "date": "2024-11"
-    },
-    {
-      "organization": "Capstone Design Conference",
-      "position": "Reviewer",
-      "date": "2024-05"
-    },
-    {
-      "organization": "Hillel at Virginia Tech",
-      "position": "President",
-      "startDate": "2018-12",
-      "endDate": "2020-12"
+      "company": "Rice University, Tribomechadynamics Lab",
+      "position": "Undergraduate Research Assistant",
+      "startDate": "2016-01",
+      "endDate": "2019-05",
+      "location": "Houston, TX",
+      "highlights": [
+        "Designed and fabricated fixtures including tensile testing tools, trunnions, and drop testing equipment",
+        "Conducted surface dimpling tests and data analysis in support of a PhD student's dissertation",
+        "Coordinated onboarding of new undergraduate research assistants"
+      ]
     }
   ],
   "teaching": [
     {
-      "organization": "Big Brothers Big Sisters of Metropolitan Detroit",
-      "role": "Academic Tutor",
-      "startDate": "2021-08",
-      "endDate": "2023-06",
-      "location": "Detroit, MI",
-      "description": "Provided one-on-one mentoring sessions and academic assistance, adapted to COVID-19 instruction methods"
+      "institution": "Virginia Tech",
+      "role": "Graduate Teaching Assistant – Intercultural Issues in Professional Writing (ENGL 3834)",
+      "dates": "Spring 2024, Fall 2025",
+      "location": "Blacksburg, VA",
+      "highlights": [
+        "Taught modules on participatory action and community-engaged technical communication and effective conference presentations",
+        "Graded weekly discussion posts and course mid-semester projects"
+      ]
+    },
+    {
+      "institution": "Virginia Tech",
+      "role": "Graduate Teaching Assistant – Interdisciplinary Research Methods in Disaster Resilience (GRAD 5134)",
+      "startDate": "2023-01",
+      "endDate": "2024-05",
+      "highlights": [
+        "Contributed to course design, syllabus development, and assessment development for interdisciplinary undergraduate and graduate courses",
+        "Graded weekly and project assignments, providing detailed feedback to 25 students",
+        "Collaborated with faculty instructors on iterative improvements to course materials"
+      ]
+    },
+    {
+      "institution": "Harmony Public Schools",
+      "role": "Middle and High School Math Teacher",
+      "startDate": "2020-12",
+      "endDate": "2021-06",
+      "highlights": [
+        "Designed lesson plans with active learning pedagogies for in-person and online instruction",
+        "Advanced student learning by contextualizing subject matter to student interests",
+        "Cultivated relationships with 120 students, faculty, and parents",
+        "Collaborated with teaching teams to increase use of active learning pedagogies in the math department",
+        "Texas Education Agency Teaching Certification: TExES 274 Grades 6-12 Mathematics, Physical Science, and Engineering (276/300)"
+      ]
+    },
+    {
+      "institution": "Rice University",
+      "role": "Solids Mechanics Undergraduate Learning Assistant, Mechanical Engineering Department",
+      "startDate": "2017-08",
+      "endDate": "2017-12",
+      "location": "Houston, TX",
+      "highlights": [
+        "Supported recitation sessions",
+        "Collaborated with faculty instructors on improvements to lab materials"
+      ]
     }
+  ],
+  "publications": {
+    "peer_reviewed_conference_papers": [
+      {
+        "authors": "Deters, J. R., Menon, M., Paretti, M. C., & Webb, M.E.B.",
+        "year": 2021,
+        "title": "Imagining the future interdisciplinary scholar: Exploring interdisciplinary identity development using possible selves",
+        "venue": "Proceedings of the joint Research in Engineering Education Symposium (REES) & Australasian Association for Engineering Education Conference",
+        "location": "Perth, Australia [virtual]"
+      },
+      {
+        "authors": "Webb, M.E.B., Deters, J.R., Menon, M., & Paretti, M.C.",
+        "year": 2022,
+        "title": "Building a Sustainable University-Wide Interdisciplinary Graduate Program to Address Disasters",
+        "venue": "Proceedings of the American Society of Engineering Education (ASEE) Conference",
+        "location": "Milwaukee, Wisconsin"
+      },
+      {
+        "authors": "Webb, M.E.B. & Paretti, M.C.",
+        "year": 2022,
+        "title": "Exploring Professional Identity Development Research on Displaced Higher Education Students",
+        "venue": "Proceedings of the Frontiers in Education (FIE) Conference",
+        "location": "Uppsala, Sweden"
+      },
+      {
+        "authors": "Deters, J.R., Webb, M.E.B., & Menon, M.",
+        "year": 2022,
+        "title": "Exploring Mechanical Engineering Student Perspectives of Academic Integrity During COVID-19",
+        "venue": "Proceedings of the Australasian Association for Engineering Education Conference",
+        "location": "Western Sydney University"
+      },
+      {
+        "authors": "Menon, M., Webb, M.E.B., Josiam, M., & Deters, J.R.",
+        "year": 2023,
+        "title": "Sustainable Development Goals in Engineering Curriculum: A Document Analysis on Discourse and Suggestions for Improvement",
+        "venue": "Proceedings of the Engineering Education for Sustainable Development (EESD) Conference",
+        "location": "Colorado"
+      },
+      {
+        "authors": "Webb, M.E.B. & Paretti, M.C.",
+        "year": 2023,
+        "title": "Influences on Displaced Engineering Student Professional Identity Development: A Scoping Literature Review Across Forced Migration Contexts",
+        "venue": "Proceedings of the American Society of Engineering Education (ASEE) Conference",
+        "location": "Bethesda, Maryland"
+      },
+      {
+        "authors": "Webb, M.E.B. & Paretti, M.C.",
+        "year": 2023,
+        "title": "Investigating Graduate Students' Perspectives of Influences on Interdisciplinary Scholar Identity Development: An Ecological Systems Theory Approach",
+        "venue": "Proceedings of the American Society of Engineering Education (ASEE) Conference",
+        "location": "Bethesda, Maryland"
+      },
+      {
+        "authors": "Menon, M., Webb, M.E.B., & Paretti, M.C.",
+        "year": 2023,
+        "title": "Understanding Faculty Perspectives of Interdisciplinary Graduate Programs",
+        "venue": "Proceedings of the American Society of Engineering Education (ASEE) Conference",
+        "location": "Bethesda, Maryland"
+      },
+      {
+        "authors": "Bose, B., Brotherton, H.B., Hopper, T., Oquendo, P.M., Wang, L.M., Webb, M.E.B., & Wilkinson, H.",
+        "year": 2023,
+        "title": "Graduate Student and Postdoctoral Fellow Perspectives on Advancing Women and Gender Equity in Engineering - for the Next 130 Years",
+        "venue": "Proceedings of the American Society of Engineering Education (ASEE) Conference",
+        "location": "Bethesda, Maryland"
+      },
+      {
+        "authors": "Scott, L., Webb, M.E.B., Baniya, S., Powell, K., Salem, A.",
+        "year": 2023,
+        "title": "Towards Digital Justice: Developing US Citizenship Application & Website with Refugees & Immigrants",
+        "venue": "Proceedings of the 2023 Conference on Community Writing",
+        "location": "Denver, Colorado"
+      },
+      {
+        "authors": "Scott, L., Webb, M.E.B., Baniya, S., Schell, E., Powell, K., Salem, A.",
+        "year": 2024,
+        "title": "Expanding Writing Abundance in Partnership with the Community",
+        "venue": "Proceedings of the 2024 Conference on College Composition and Communication",
+        "location": "Spokane, Washington"
+      },
+      {
+        "authors": "Webb, M.E.B., Feng, X., Aarnio, H., Sundman, J., Bilow, F., Taka, M., Paretti, M., Keskinen, M.",
+        "year": 2024,
+        "title": "Finding Common Ground: Comparing Engineering and Design Graduate Students' Conceptualizations of Interdisciplinary Education across Two Institutions",
+        "venue": "Proceedings of the 2024 American Society of Engineering Education (ASEE) Conference",
+        "location": "Portland, Oregon"
+      },
+      {
+        "authors": "Webb, M.E.B. & Paretti, M.C.",
+        "year": 2024,
+        "title": "Understanding Ecosystems of Interdisciplinary Graduate Education through an Ecological Systems Approach",
+        "venue": "Proceedings of the 2024 American Society of Engineering Education (ASEE) Conference",
+        "location": "Portland, Oregon",
+        "award": "ASEE 2024 Graduate Studies Division Best Student Paper Award"
+      },
+      {
+        "authors": "Webb, M.E.B., Baniya, S., Powell, K., El Kadima, M., Drumgold-Smith, M., & Rissler, G.",
+        "year": 2024,
+        "title": "Towards Digital Justice and Consolidated Resettlement Resources for New Americans: A Virginia Database Initiative",
+        "venue": "Proceedings of the 2024 ARNOVA Conference",
+        "location": "Washington, DC"
+      },
+      {
+        "authors": "Webb, M.E.B. & Paretti, M.C.",
+        "year": 2025,
+        "title": "Tracking the Evolution of Interdisciplinary Identity-Based Motivation in Engineering Graduate Students: A Longitudinal Case Study",
+        "venue": "Proceedings of the 2025 American Society of Engineering Education (ASEE) Conference",
+        "location": "Montreal, Canada",
+        "award": "ASEE 2025 Graduate Studies Division Best Student Paper Award"
+      },
+      {
+        "authors": "Webb, M.E.B., Coso Strong, A. & Werth, A.",
+        "year": 2026,
+        "title": "Building Capacity for Instructional Change: A Critical Review and Conceptual Framework for Discipline-Based Education Research (DBER) Postdoctoral Professional Development",
+        "venue": "Proceedings of the 2026 American Society of Engineering Education (ASEE) Conference",
+        "location": "Charlotte, North Carolina",
+        "status": "In Revision"
+      },
+      {
+        "authors": "Webb, M.E.B., McColley, C., Alrizqi, M., Manuel Sanders, G., & Werth, A.",
+        "year": 2026,
+        "title": "Toward Scalable Assessment of Undergraduate Reflective Practice: Comparing Multiple Reflection Quality Codebook Validation Approaches",
+        "venue": "Proceedings of the 2026 American Society of Engineering Education (ASEE) Conference",
+        "location": "Charlotte, North Carolina",
+        "status": "In Revision"
+      },
+      {
+        "authors": "Jaramillo, J., Webb, M.E.B., & Coso Strong, A.",
+        "year": 2026,
+        "title": "Strategies for Hybrid, Hands-on Courses in Robotics, Embedded Systems, and IoT",
+        "venue": "Proceedings of the 2026 American Society of Engineering Education (ASEE) Conference",
+        "location": "Charlotte, North Carolina",
+        "status": "In Revision"
+      },
+      {
+        "authors": "Smith, A., Webb, M.E.B., Rasberry, N., Baniya, S., & Ogbonnaya-Ogburu, I. F.",
+        "year": 2025,
+        "title": "Designing Technology to Support the Hospital Classroom",
+        "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
+      },
+      {
+        "authors": "Baniya, S., Webb, M.E.B., Scott, L., & Powell, K.",
+        "year": 2026,
+        "title": "Implementing Digital Justice to Support Refugee and Immigrant Communities",
+        "venue": "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
+      }
+    ],
+    "peer_reviewed_journal_articles": [
+      {
+        "authors": "Webb, M.E.B., Singh, H., Inman, R., Baniya, S. & Katz, A.",
+        "year": 2025,
+        "title": "An End-to-End Method for Inductively Generating a Qualitative Codebook with Minimal Human Input: A Comparative Study of GPT-3.5 and Traditional Codebook Generation for Scaling up Qualitative Research on Interconnected Crises",
+        "journal": "IEEE Transactions on Technology and Society"
+      },
+      {
+        "authors": "Webb, M.E.B. & Paretti, M.",
+        "year": 2025,
+        "title": "Exploring Ecological Systems Influences on Engineering Graduate Student Interdisciplinary Scholar Development",
+        "journal": "European Journal of Engineering Education",
+        "note": "Special Issue: Interdisciplinary Learning and Transformation of Engineering Education"
+      },
+      {
+        "authors": "Webb, M.E.B., Baniya, S., Smith, A., Williams, I.F.",
+        "year": 2026,
+        "title": "Understanding Virginia, U.S. Hospital Educators' Work Practices and Technology Needs: A Participatory Qualitative Case Study Exploring AI Integration Opportunities",
+        "journal": "IEEE Transactions on Professional Communication",
+        "status": "Accepted"
+      },
+      {
+        "authors": "Webb, M.E.B., Baniya, S., Powell, K., Rizvi, M., Scott, L., Dromgold-Sermen, M., et al.",
+        "year": 2026,
+        "title": "Towards Digital Justice and Consolidated Resettlement Resources for New Americans: Reflections on A Multi-Institutional Virginia Database Initiative",
+        "journal": "Computers and Composition",
+        "status": "Accepted"
+      },
+      {
+        "authors": "Webb, M.E.B. & Paretti, M.",
+        "year": 2026,
+        "title": "Beyond Barriers and Supports: A Systems Interaction Analysis of How Microsystems Work Together to Shape Interdisciplinary Development in Engineering Graduate Education",
+        "journal": "Journal of Engineering Education",
+        "note": "Special Issue on Surrounding Systems' Influences on Engineering Education",
+        "status": "In Revision"
+      }
+    ],
+    "book_chapters": [
+      {
+        "authors": "Baniya, S., Powell, K., Salem, A., Webb, M., Scott, L.",
+        "year": 2025,
+        "title": "Incorporating Community Knowledge in Design: A Reflective Account of Designing Technology with Justice",
+        "book": "Designing for Social Justice: Community-engaged Approaches to Technical and Professional Communication",
+        "editors": "J. Tham & J. Zhang (Eds.)",
+        "publisher": "Routledge ATTW Book Series"
+      },
+      {
+        "authors": "Baniya, S., Powell, K., Salem, A., Webb, M., Scott, L., Williams, C., & East, A.",
+        "year": 2025,
+        "title": "Enacting Digital Justice in Partnership with Displaced Refugee and Immigrant Communities",
+        "book": "Critical Displacement Studies Reader",
+        "editors": "Powell, K., et al. (Eds.)",
+        "publisher": "Virginia Tech Publishing",
+        "status": "In Revisions"
+      },
+      {
+        "authors": "Feng, X., Aarnio, H., Webb, M.E.B., Schiebel, J., Hingle, A.",
+        "year": 2026,
+        "title": "The Hidden Curriculum of a PhD: From Getting Started To Getting It Done in Engineering Education Research",
+        "book": "International Handbook of Engineering Education Research",
+        "status": "In Revisions"
+      }
+    ],
+    "blog_posts": [
+      {
+        "authors": "Webb, M.E.B., Menon, M., Deters, J.R., & Paretti, M.C.",
+        "year": 2024,
+        "title": "Breaking Silos: Rethinking University Structures to Facilitate Interdisciplinary Engineering Graduate Education",
+        "venue": "European Journal of Engineering Education Special Issue: Interdisciplinary Learning and Transformation of Engineering Education"
+      }
+    ]
+  },
+  "presentations": {
+    "invited_talks": [
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2020-03",
+        "title": "Engineering Professional Development Workshop: Time Management Skills, Professional Communication, and the Job Hunt",
+        "event": "Invited talk, Mechanical Engineering Department, Rice University",
+        "location": "Houston, TX",
+        "attendees": 30
+      },
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2022-01",
+        "title": "Engineering Work Abroad and Culture in Engineering",
+        "event": "Virginia Tech Rising Sophomore Abroad (RSAP) Program",
+        "location": "Blacksburg, VA",
+        "attendees": 40
+      },
+      {
+        "authors": "Webb, M.E.B. & Singh, H.",
+        "date": "2022-09",
+        "title": "Diversity Equity and Inclusion Research in Natural Hazards Engineering",
+        "event": "NHERI Graduate Student Council",
+        "attendees": 70
+      },
+      {
+        "authors": "Webb, M.E.B. & Lightner, T.",
+        "date": "2022-10",
+        "title": "Communicating Interdisciplinary Research: Taking Convergent Research Topics to Research Questions",
+        "event": "Virginia Tech Disaster Resilience and Risk Management Program",
+        "attendees": 20
+      },
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2022-10",
+        "title": "Exploring the Professional Identity Development of Displaced Engineering Students",
+        "event": "Ohio State University ENGE Graduate Student Seminar Exchange",
+        "url": "https://eed.osu.edu/events/2022/11/seminar-series-two-one-virginia-tech-eed-phd-candidates",
+        "attendees": 30
+      },
+      {
+        "authors": "Webb, M.E.B., Singh, H., Inman, R., Katz, A., & Baniya, S.",
+        "date": "2022-11",
+        "title": "COVID-19 & Climate Change: Methods for Mapping the Effects of a Compounding Crisis in the Coastal Zone",
+        "event": "Virginia Tech DRRM Program and Center for Coastal Studies",
+        "attendees": 15
+      },
+      {
+        "authors": "Webb, M.E.B. & Singh, H.",
+        "date": "2023-02",
+        "title": "Cultural Competence in Hazards and Disaster Research: CONVERGE Training Module Workshop",
+        "event": "NHERI Graduate Student Council",
+        "url": "https://www.youtube.com/watch?v=a4MKgKWjRjM&t=52s",
+        "attendees": 50
+      },
+      {
+        "authors": "Webb, M.E.B., Baniya, S., East, A., Williams, C., & Powell, K.",
+        "date": "2023-02",
+        "title": "Towards Digital Justice: Participatory Action Research on Structural Barriers to US Citizenship for People Seeking Refuge",
+        "event": "Virginia Tech Introduction to Displacement Studies Program",
+        "attendees": 25
+      },
+      {
+        "authors": "Webb, M.E.B., Baniya, S., & Powell, K.",
+        "date": "2023-03",
+        "title": "Towards Digital Justice: Participatory Action Research on Structural Barriers to US Citizenship for People Seeking Refuge",
+        "event": "VT Center for Refugee, Migrant, and Displacement Studies and VA CRMDS Consortium",
+        "attendees": 50
+      },
+      {
+        "authors": "Webb, M.E.B., Gerhardt, M., & Schibelius, L.",
+        "date": "2023-10",
+        "title": "Navigating Engineering Industry: The Job Search and Beyond",
+        "event": "Virginia Tech Interdisciplinary Senior Capstone Course",
+        "attendees": 60
+      },
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2024-09",
+        "title": "Planning to Apply for Engineering Graduate School Fellowships",
+        "event": "VT College of Engineering Graduate and Professional Studies",
+        "attendees": 25
+      },
+      {
+        "authors": "Webb, M.E.B. and Smith, A.",
+        "date": "2025-02",
+        "title": "Understanding Virginia Hospital Educators' Work Practices and Technology Needs",
+        "event": "VT Institute for Creativity, Arts, and Technology",
+        "attendees": 30
+      },
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2025-04",
+        "title": "Poster Presentations for Research Conferences",
+        "event": "Virginia Tech College of Engineering Graduate and Professional Studies",
+        "attendees": 25
+      },
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2025-05",
+        "title": "Getting the Most Out of Engineering Conferences and Conference Resources",
+        "event": "Virginia Tech College of Engineering Graduate and Professional Studies",
+        "attendees": 25
+      },
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2025-12",
+        "title": "Conference and Poster Planning for Undergraduate Technical Communication Students",
+        "event": "Dr. Baniya's Undergraduate Technical Communication and Documentation Course",
+        "attendees": 30
+      }
+    ],
+    "conference_presentations": [
+      {
+        "authors": "Webb, M.E.B., et al.",
+        "date": "2019-05",
+        "title": "BuoyBots: A Soft-Robotics Approach to Buoyancy Control",
+        "event": "Rice University Oshman Engineering Design Conference"
+      },
+      {
+        "authors": "Webb, M.E.B., Fraser, R., & Davies, H.R.",
+        "date": "2022-03",
+        "title": "Psychosocial Factors in Disaster Research",
+        "event": "PRIMR Conference, University of North Texas",
+        "type": "Roundtable Discussion",
+        "attendees": 10
+      },
+      {
+        "authors": "Fiore, S., Hartley, T., Granados, D., & Webb, M.E.B.",
+        "date": "2022-08",
+        "title": "Understanding and Addressing Interdisciplinary Learning: Perspectives from NSF Funded Research to Improve Team Science Education",
+        "event": "International Network for the Science of Team Science (SciTS) Conference",
+        "type": "Panel Session"
+      },
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2022-10",
+        "title": "Facilitating Interdisciplinary Graduate Education in Disaster Resilience",
+        "event": "NSF Research Traineeship Annual Meeting",
+        "attendees": 100
+      },
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2022-10",
+        "title": "Turning Convergence Research Topics into Convergence Research Questions and Teams",
+        "event": "NSF Research Traineeship Annual Meeting",
+        "attendees": 70
+      },
+      {
+        "authors": "Davies, H.R., Webb, M.E.B., & Fraser, R.",
+        "date": "2023-01",
+        "title": "Psychosocial Factors and Perishable Data Collection in Disasters: Creating Resilience through Research",
+        "event": "Society for Social Work Research (SSWR) Conference",
+        "type": "Roundtable Discussion",
+        "attendees": 10
+      }
+    ]
+  },
+  "awards": [
+    {
+      "title": "SEFI Early Career Researcher's Club",
+      "awarder": "European Society of Engineering Education",
+      "date": "2025-2026"
+    },
+    {
+      "title": "ASEE Graduate Studies Division Best Student Paper Award (2nd year in a row)",
+      "awarder": "American Society of Engineering Education",
+      "date": "2025-06",
+      "url": "https://sites.asee.org/gsd/division-awards/"
+    },
+    {
+      "title": "ASEE Graduate Studies Division Best Student Paper Award",
+      "awarder": "American Society of Engineering Education",
+      "date": "2024-06"
+    },
+    {
+      "title": "1st Place VT COE Torgersen Outstanding Dissertation Award",
+      "awarder": "Virginia Tech",
+      "date": "2025-05",
+      "url": "https://torgersengradaward.vt.domains/2025-winners/"
+    },
+    {
+      "title": "Nominated for VT COE Outstanding Doctoral Student",
+      "awarder": "Virginia Tech",
+      "date": "2025"
+    },
+    {
+      "title": "President's Honor Roll",
+      "awarder": "Virginia Tech",
+      "date": "2021-Present"
+    },
+    {
+      "title": "Pratt Fellowship for Research Excellence",
+      "awarder": "Virginia Tech",
+      "amount": "$2,000",
+      "date": "2021-2022"
+    },
+    {
+      "title": "Outstanding Capstone Design Project: Bowman Sustainable Land Development CEE M.S. Program",
+      "awarder": "Virginia Tech",
+      "date": "2023-05",
+      "url": "https://lddi.cee.vt.edu/content/"
+    },
+    {
+      "title": "President's Honor Roll",
+      "awarder": "Rice University",
+      "date": "2015-2019"
+    },
+    {
+      "title": "Willy Revolution Award for Outstanding Innovation: Senior Capstone Award",
+      "awarder": "Rice University",
+      "date": "2019",
+      "url": "https://oedk.rice.edu/Sys/PublicProfile/47555555/1063096"
+    },
+    {
+      "title": "Oshman Engineering Design Engineering + Art Competition",
+      "awarder": "Rice University",
+      "date": "2019",
+      "url": "https://oedk.rice.edu/news/7213404"
+    }
+  ],
+  "fellowships": [
+    {
+      "title": "Colorado School of Mines Teaching with Heart Program",
+      "date": "2024-2025",
+      "amount": "$500",
+      "description": "Experiential workshops focused on integrating empathy and care into STEM teaching"
+    },
+    {
+      "title": "Roger and Debbie West Student Research Grant – Weaving Weeds: Exploring Human-Plant Relations Through Bio-Fabrication",
+      "awarder": "VT Institute for Creativity, Arts, and Technology",
+      "date": "2023-2024",
+      "amount": "$1,000"
+    },
+    {
+      "title": "Doctoral Student Travel Award",
+      "awarder": "Society for Social Work Research",
+      "date": "2023",
+      "amount": "$1,500"
+    },
+    {
+      "title": "Graduate Student Travel Grant",
+      "awarder": "American Society of Engineering Education: Women in Engineering Division",
+      "date": "2023",
+      "amount": "$1,500"
+    },
+    {
+      "title": "NSF Research Traineeship Fellowship – Disaster Resilience",
+      "awarder": "National Science Foundation in partnership with Virginia Tech",
+      "date": "2022-2023"
+    },
+    {
+      "title": "Travel Grant",
+      "awarder": "Virginia Tech Graduate and Professional Student Senate",
+      "date": "2022-2023",
+      "amount": "$1,500"
+    },
+    {
+      "title": "Travel Grant – Center for Coastal Studies: Disaster Resilience",
+      "awarder": "Virginia Tech",
+      "date": "2022-2023"
+    },
+    {
+      "title": "Rice Engineering Alumni Association Buckley Sartwelle Scholarship",
+      "awarder": "Rice University",
+      "date": "2015-2019",
+      "amount": "$12,000"
+    }
+  ],
+  "grant_writing": [
+    {
+      "title": "NSF STEMEdIPRF Postdoctoral Fellowship Proposal",
+      "date": "2024-12",
+      "role": "PI",
+      "description": "Transforming Graduate Education and Systems Perspectives on Interdisciplinary STEM Graduate Development and Programming",
+      "highlights": [
+        "Led ideation and conceptual development",
+        "Collaborated with mentors across universities",
+        "Completed proposal writing and submission"
+      ]
+    },
+    {
+      "title": "NSF CAREER Award Grant Application",
+      "date": "2024",
+      "role": "Graduate Research Assistant for Dr. Sweta Baniya",
+      "description": "Theorizing Disaster Rhetorics: A Multi-Country Study for Disaster Response and Crisis Communication",
+      "highlights": [
+        "Conducted an extensive literature review to inform the theoretical framework",
+        "Collaborated on writing and editing key sections of the proposal"
+      ]
+    }
+  ],
+  "service": [
+    {
+      "organization": "Rice University Engineering Alumni Association",
+      "position": "Education Research Consultant",
+      "startDate": "2025-05",
+      "endDate": "current"
+    },
+    {
+      "organization": "Virginia Tech Engineering Outstanding Doctoral Student Award Committee",
+      "position": "Committee Member",
+      "date": "Spring 2024"
+    },
+    {
+      "organization": "VT Engineering Dean's Search Committee for Assistant Director of Grad Studies",
+      "position": "Committee Member",
+      "date": "Fall 2024"
+    },
+    {
+      "organization": "Virginia Tech Graduate and Professional Student Senate (GPSS)",
+      "position": "Representative for the Department of Engineering Education; Voting Member of the Commission on Faculty Affairs",
+      "startDate": "2023-01",
+      "endDate": "2024-05"
+    },
+    {
+      "organization": "American Society of Engineering Education Student Division",
+      "position": "Best Paper Chair",
+      "startDate": "2023-01",
+      "endDate": "2024-05"
+    },
+    {
+      "organization": "Virginia Tech Chapter of ASEE (ASEE@VT)",
+      "position": "Vice President",
+      "startDate": "2022-01",
+      "endDate": "2023-05"
+    },
+    {
+      "organization": "Natural Hazards Engineering Research Infrastructure Graduate Student Council",
+      "position": "Chair of DEI and President of Social Science Research Group",
+      "startDate": "2022-01",
+      "endDate": "2024-05"
+    },
+    {
+      "organization": "ExxonMobil, Subsea Engineering Department",
+      "position": "United Way Champion",
+      "startDate": "2019-01",
+      "endDate": "2020-12",
+      "location": "Houston, TX"
+    },
+    {
+      "organization": "Children's Assessment Center (CAC)",
+      "position": "Volunteer Program Coordinator",
+      "startDate": "2018-08",
+      "endDate": "2020-05",
+      "location": "Houston, TX"
+    },
+    {
+      "organization": "Rice University, Department of Mechanical Engineering",
+      "position": "Co-Founder of Mechanical Engineering Undergraduate Advisory Board",
+      "date": "2016-2019"
+    },
+    {
+      "organization": "Rice University",
+      "position": "Student Representative to the Credit Cap Committee",
+      "startDate": "2015-08",
+      "endDate": "2016-05"
+    },
+    {
+      "organization": "Rice University",
+      "position": "Student Ambassador to Rice Engineering",
+      "startDate": "2015-01",
+      "endDate": "2019-05"
+    },
+    {
+      "organization": "Rice University",
+      "position": "Peer Career and Peer Academic Advisor",
+      "startDate": "2015-06",
+      "endDate": "2019-05"
+    }
+  ],
+  "professional_memberships": [
+    { "organization": "VT Community of Practice for Professional Development", "dates": "12/2024 - 5/2025" },
+    { "organization": "AAAS/Science Program for Excellence in Science", "dates": "10/2024 - 10/2024" },
+    { "organization": "American Society for Engineering Education (ASEE) - Graduate Studies, Multidisciplinary Engineering, and Student Divisions", "dates": "8/2021 - Present" },
+    { "organization": "Natural Hazards Research Infrastructure Graduate Student Council - DEI and Social Science Research Committees", "dates": "8/2021 - 5/2024" },
+    { "organization": "Rice University Engineering Alumni Association", "dates": "5/2019 - Present" },
+    { "organization": "Society of Petroleum Engineers", "dates": "8/2021 - 8/2022" },
+    { "organization": "Society of Women Engineers", "dates": "8/2015 - 8/2019" },
+    { "organization": "American Society of Mechanical Engineers", "dates": "8/2015 - 8/2019" }
   ],
   "skills": [
     {
-      "name": "Programming Languages",
-      "keywords": ["Python", "R", "JavaScript", "C++", "MATLAB"]
-    },
-    {
-      "name": "Web Development",
-      "keywords": ["React", "FastAPI", "HTML", "CSS", "Tailwind"]
-    },
-    {
-      "name": "Data Science & Machine Learning",
-      "keywords": ["Natural Language Processing", "Machine Learning", "Large Language Models", "Data Analysis"]
-    },
-    {
       "name": "Research Methods",
-      "keywords": ["Qualitative Research", "Quantitative Analysis", "Mixed Methods", "Survey Design"]
+      "keywords": ["Mixed Methods", "Qualitative Research", "Quantitative Analysis", "Participatory Action Research", "Survey Design", "Thematic Analysis", "Semi-structured Interviews", "Focus Groups", "Ecological Systems Analysis", "Longitudinal Case Study"]
     },
     {
-      "name": "Tools & Technologies",
-      "keywords": ["Docker", "AWS S3", "ROS", "Git", "LaTeX", "CI/CD"]
+      "name": "Theoretical Frameworks",
+      "keywords": ["Systems Thinking", "Identity Theory", "Motivation Theory", "Learning Theory", "Epistemic Cultures", "Ecological Systems Theory", "Digital Justice", "Knowledge Justice"]
+    },
+    {
+      "name": "Technical",
+      "keywords": ["Generative AI", "Natural Language Processing", "GPT-3.5", "Qualitative Data Analysis", "NVivo", "Statistical Analysis", "JMP", "GIS"]
     }
   ],
-  "awards": [
+  "news": [
     {
-      "title": "2025 NSF GRFP Honorable Mention",
-      "date": "2025",
-      "awarder": "National Science Foundation"
+      "title": "Class of 2025: Six students graduate with Ph.D. from Department of Engineering Education",
+      "outlet": "Virginia Tech News",
+      "date": "2025-06",
+      "url": "https://news.vt.edu/articles/2025/06/Classof2025DepartmentofEngineeringEducation.html"
     },
     {
-      "title": "2023-2024 Davenport Fellowship",
+      "title": "Webb wins 1st place VT College of Engineering Torgersen Outstanding Dissertation Award",
+      "outlet": "Virginia Tech News",
+      "date": "2025-05",
+      "url": "https://news.vt.edu/articles/2025/05/eng-coe-torgersen-research-winners-2025.html"
+    },
+    {
+      "title": "NSF-funded postdocs to research education across disciplines",
+      "outlet": "Cornell University",
+      "date": "2024",
+      "url": "https://as.cornell.edu/news/nsf-funded-postdocs-research-education-across-disciplines"
+    },
+    {
+      "title": "SEAD Grant Stories: Weaving Weeds, Exploring human-plant relationships through bio-fabrication",
+      "outlet": "Virginia Tech Institute for Creativity, Arts, and Technology",
       "date": "2023-2024",
-      "awarder": "Virginia Tech"
+      "url": "https://icat.vt.edu/projects/supported-research/sead-grants/2023-2024/student/weaving-weeds.html"
     },
     {
-      "title": "Magna Cum Laude",
-      "date": "2020",
-      "awarder": "Virginia Tech"
+      "title": "Internships help students understand the needs of refugees and migrants",
+      "outlet": "Virginia Tech College of Liberal Arts and Human Sciences",
+      "date": "2022"
     },
     {
-      "title": "Pratt Engineering Scholarship",
-      "date": "2016-2020",
-      "awarder": "Virginia Tech"
+      "title": "Outstanding Civil Engineering Design Team: Bowman Sustainable Land Development Program Holds Annual Winter Meeting",
+      "outlet": "Virginia Tech Bowman Sustainable Land Development Civil Engineering News",
+      "date": "2023"
     },
     {
-      "title": "Donald and Madeline Stewart Scholarship",
-      "date": "2016-2020", 
-      "awarder": "Virginia Tech"
+      "title": "Exxon exodus turns floating 'cube' into Internet meme (mention)",
+      "outlet": "Reuters",
+      "date": "2021",
+      "url": "https://www.reuters.com/business/exxon-exodus-turns-floating-cube-into-internet-meme-2021-10-04/"
     },
     {
-      "title": "Konrad-Steinmetz Scholarship for Engineering Leadership",
-      "date": "2016-2020",
-      "awarder": "Virginia Tech"
+      "title": "Engineering Design Showcase Willy Revolution Award",
+      "outlet": "Rice University Oshman Engineering Design Kitchen News",
+      "date": "2019",
+      "url": "https://oedk.rice.edu/news/8792171"
+    },
+    {
+      "title": "Engineering Art Competition",
+      "outlet": "Rice University Oshman Engineering Design Kitchen News",
+      "date": "2019",
+      "url": "https://oedk.rice.edu/news/7213404"
     }
   ]
 }

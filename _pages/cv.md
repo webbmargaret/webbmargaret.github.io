@@ -9,307 +9,408 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version](/files/Mitch Gerhardt CV Spring 2026.pdf){: .btn .btn--primary}
+[Download PDF version](/files/Webb CV 2025.pdf){: .btn .btn--primary}
 
 Research Interests
 ======
-Sociotechnical studies of generative AI adoption in workplace settings, ethnographic methods, science and technology studies (STS), epistemic cultures, computational approaches to qualitative research, symbolic interactionism, workplace learning and expertise
+Systems thinking, identity-based motivation, and learning theory in STEM graduate education; institutional structures and interdisciplinary collaboration; postdoctoral professional development; generative AI in qualitative assessment; participatory action research; digital justice; disaster resilience; active learning and instructional change
 
 Education
 ======
-* **Ph.D. in Engineering Education**, Virginia Tech, GPA: 4.00/4.00 (May 2027, expected)
-  * PhD Candidate (advanced to candidacy Fall 2025)
-  * Committee: Courtney Faber, Andrew Katz (Chair), Holly Matusovich, and Nicole Pitterson
-  * 2025 NSF GRFP Honorable Mention
-  * 2024 Google PhD Fellowship Nominee
-  * 2023-2024 Davenport Fellowship Awardee
+* **Ph.D. in Engineering Education**, Virginia Tech, Blacksburg, VA (May 2025)
+  * Advisor: Dr. Marie C. Paretti
+  * Dissertation: *Exploring Systems Influences on Engineering Graduate Student Interdisciplinary Identity-Based Motivation towards Research Careers*
 
-* **M.S. in Computer Science**, Virginia Tech, GPA: 3.95/4.00 (December 2026, expected)
-  * Committee: Sara Hooshangi (Chair), Andrew Katz, Sanmay Das
-  * Coursework: *Machine Learning*, *Natural Language Processing*, *Computer Education Research*, *AI Tools for Software Engineering*, *Applied Design and Assessment of Educational Environments in Engineering*
+* **M.S. in Civil Engineering**, Virginia Tech, Blacksburg, VA (May 2024)
+  * Focus Area: Sustainable Land Development
+  * Outstanding Capstone Design Project: Bowman Sustainable Land Development CEE M.S. Program, Spring 2023
 
-* **Graduate Certificate: Cognition and Education**, Virginia Tech, GPA: 4.00/4.00 (May 2025)
+* **Graduate Certificate: Disaster Resilience and Risk Management**, Virginia Tech
 
-* **B.S. in Electrical Engineering**, Virginia Tech, GPA: 3.69/4.00 (December 2020)
-  * Graduated Magna Cum Laude and Dean's List
-  * Pratt Engineering Scholarship, Donald and Madeline Stewart Scholarship, and Konrad-Steinmetz Scholarship for Engineering Leadership Awardee
-  * Hardware Team Lead for [AutoDrive Design Team](https://www.vtautodrive.org/)
+* **B.S. in Mechanical Engineering**, Rice University, Houston, TX
+  * Graduated Magna Cum Laude
+  * President's Honor Roll
+  * Rice University Willy Revolution Award for Outstanding Innovation: Senior Capstone Award
+  * Oshman Engineering Design Engineering + Art Competition
 
 Book Chapters
 ======
-* **Leveraging Large Language Models in Engineering Education Research: Methods and Applications** (Under Revision)
-  * *2026 International Handbook of Engineering Education Research Methods*
-  * **Mitchell Gerhardt**, Gabriella Coloyan Fleming, Siqing Wei, and Andrew Katz
-  * Expected publication: February 2027
+* **Incorporating Community Knowledge in Design: A Reflective Account of Designing Technology with Justice** (2025)
+  * *Designing for Social Justice: Community-engaged Approaches to Technical and Professional Communication*, Routledge ATTW Book Series
+  * Baniya, S., Powell, K., Salem, A., **Webb, M.**, Scott, L.
+  * Eds. J. Tham & J. Zhang
+
+* **Enacting Digital Justice in Partnership with Displaced Refugee and Immigrant Communities** (In Revisions)
+  * *Critical Displacement Studies Reader*, Virginia Tech Publishing
+  * Baniya, S., Powell, K., Salem, A., **Webb, M.**, Scott, L., Williams, C., & East, A.
+  * Eds. Powell, K., et al.
+
+* **The Hidden Curriculum of a PhD: From Getting Started To Getting It Done in Engineering Education Research** (In Revisions, estimated 2026)
+  * *International Handbook of Engineering Education Research*
+  * Feng, X., Aarnio, H., **Webb, M.E.B.**, Schiebel, J., Hingle, A.
 
 Journal Publications
 ======
-* **Collaborative (In)decision: A Preliminary Investigation of the Differences in Undergraduate Engineering Capstone Students' Collaborative Behaviors** (Pending Publication)
-  * *International Journal of Engineering Education* - Special Issue for Capstone Design
-  * **Mitchell Gerhardt**, Mayar Madboly, Nicole Pitterson, Emily Dringenberg, and Benjamin Ahn
+* **An End-to-End Method for Inductively Generating a Qualitative Codebook with Minimal Human Input: A Comparative Study of GPT-3.5 and Traditional Codebook Generation for Scaling up Qualitative Research on Interconnected Crises** (2025)
+  * *IEEE Transactions on Technology and Society*
+  * **Webb, M.E.B.**, Singh, H., Inman, R., Baniya, S. & Katz, A.
 
-* **Improving Engineering Education GAI Qualitative Research Workflow Quality: Techniques and Documentation Strategies** (Submitted)
-  * *Studies in Engineering Education* - Special Issue on GAI in Methods
-  * **Mitchell Gerhardt** and Andrew Katz
+* **Exploring Ecological Systems Influences on Engineering Graduate Student Interdisciplinary Scholar Development** (2025)
+  * *European Journal of Engineering Education* – Special Issue: Interdisciplinary Learning and Transformation of Engineering Education
+  * **Webb, M.E.B.** & Paretti, M.
 
-* **Decade-Long Analysis of Skills in Mechanical Engineering Job Advertisements 2010-2022** (In Preparation)
-  * Targeting: ASME
-  * **Mitchell Gerhardt**, Shawn Sun, Andrew Katz, David Knight, Jessica Deters, Maura Borrego, Riya Budhathoki, and Herman Ronald Clements III
+* **Understanding Virginia, U.S. Hospital Educators' Work Practices and Technology Needs: A Participatory Qualitative Case Study Exploring AI Integration Opportunities** (Accepted, March 2026)
+  * *IEEE Transactions on Professional Communication*
+  * **Webb, M.E.B.**, Baniya, S., Smith, A., Williams, I.F.
 
-* **Addictive GAI Use Among STEM Graduate Students: Dependency-Based Technological Diffusion** (In Preparation)
-  * Targeting: Computers & Education: AI
-  * **Mitchell Gerhardt** and Andrew Katz
+* **Towards Digital Justice and Consolidated Resettlement Resources for New Americans: Reflections on A Multi-Institutional Virginia Database Initiative** (Accepted, estimated 2026)
+  * *Computers and Composition*
+  * **Webb, M.E.B.**, Baniya, S., Powell, K., Rizvi, M., Scott, L., Dromgold-Sermen, M., et al.
 
-* **Using Generative Text Models to Create Qualitative Codebooks for Student Evaluations of Teaching** (November 2024) [[Paper](https://doi.org/10.1177/16094069241293283)]
-  * *International Journal of Qualitative Methods* - Volume 23
-  * Andrew Katz, **Mitchell Gerhardt**, and Michelle Soledad
+* **Beyond Barriers and Supports: A Systems Interaction Analysis of How Microsystems Work Together to Shape Interdisciplinary Development in Engineering Graduate Education** (In Revision, estimated 2026)
+  * *Journal of Engineering Education* – Special Issue on Surrounding Systems' Influences on Engineering Education
+  * **Webb, M.E.B.** & Paretti, M.
 
 Peer-Reviewed Conference Publications
 ======
-* **It's like "X": How Engineering Faculty Metaphors Construct (and Constrain) GAI Understanding in Engineering Education** (Accepted)
-  * *2026 ASEE Annual Conference & Exposition*
-  * **Mitchell Gerhardt**, Kylee Shiekh, Andrew Katz, and Benjamin Chaback
+* **Tracking the Evolution of Interdisciplinary Identity-Based Motivation in Engineering Graduate Students: A Longitudinal Case Study** (June 2025) ⭐ *ASEE 2025 Graduate Studies Division Best Student Paper Award*
+  * *2025 ASEE Annual Conference & Exposition* – Montreal, Canada
+  * **Webb, M.E.B.** & Paretti, M.C.
 
-* **WIP: Unpacking Mechanical Engineering Students' Career Goals, Skill Development, and Perspectives on Industry** (Accepted)
-  * *2026 Frontiers in Education Conference*
-  * Herman Ronald Clements III, **Mitchell Gerhardt**, Jessica Deters, Shawn Sun, David Knight, Maura Borrego, Andrew Katz, and Riya Budhathoki
+* **Designing Technology to Support the Hospital Classroom** (2025)
+  * *Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems*
+  * Smith, A., **Webb, M.E.B.**, Rasberry, N., Baniya, S., & Ogbonnaya-Ogburu, I. F.
 
-* **Understanding the Master's Engineering Workforce Landscape: Employer Demands and Student Goals** (Accepted)
-  * *2026 ASEE Annual Conference & Exposition*
-  * Herman Ronald Clements III, Riya Budhathoki, **Mitchell Gerhardt**, Jessica Deters, Shawn Sun, David Knight, Maura Borrego, and Andrew Katz
+* **Understanding Ecosystems of Interdisciplinary Graduate Education through an Ecological Systems Approach** (June 2024) ⭐ *ASEE 2024 Graduate Studies Division Best Student Paper Award*
+  * *2024 ASEE Annual Conference & Exposition* – Portland, Oregon
+  * **Webb, M.E.B.** & Paretti, M.C.
 
-* **When Can GAI be Used Anyway? An Analysis of Engineering Faculty's Generative AI Policies** (Under Revision)
-  * *2026 ASEE Annual Conference & Exposition*
-  * Benjamin Chaback, **Mitchell Gerhardt**, Andrew Katz, and Kylee Shiekh
+* **Finding Common Ground: Comparing Engineering and Design Graduate Students' Conceptualizations of Interdisciplinary Education across Two Institutions** (June 2024)
+  * *2024 ASEE Annual Conference & Exposition* – Portland, Oregon
+  * **Webb, M.E.B.**, Feng, X., Aarnio, H., Sundman, J., Bilow, F., Taka, M., Paretti, M., Keskinen, M.
 
-* **Automated Analysis of Knowledge Types in Computer Science Textbooks: A Natural Language Processing Approach to Understanding Epistemic Climate** (June 2025) [[Paper](https://peer.asee.org/55491)]
-  * *2025 ASEE Annual Conference & Exposition* - Montreal, QC, Canada
-  * **Mitchell Gerhardt** and Andrew Katz
+* **Towards Digital Justice and Consolidated Resettlement Resources for New Americans: A Virginia Database Initiative** (2024)
+  * *2024 ARNOVA Conference* – Washington, DC
+  * **Webb, M.E.B.**, Baniya, S., Powell, K., El Kadima, M., Drumgold-Smith, M., & Rissler, G.
 
-* **Beyond Calculations: Engineering Judgment as Epistemic Cognition in Engineering Education** (June 2025) [[Paper](https://peer.asee.org/beyond-calculations-engineering-judgment-as-epistemic-cognition-in-engineering-education)]
-  * *2025 ASEE Annual Conference & Exposition* - Montreal, QC, Canada
-  * **Mitchell Gerhardt**, Michael Robinson, and Brian Faulkner
+* **Expanding Writing Abundance in Partnership with the Community** (2024)
+  * *2024 Conference on College Composition and Communication* – Spokane, Washington
+  * Scott, L., **Webb, M.E.B.**, Baniya, S., Schell, E., Powell, K., Salem, A.
 
-* **Reimagining Behavioral Analysis in Engineering Education: A Theoretical Exploration of Reasoned Action Approach** (June 2024) [[Paper](https://peer.asee.org/47934)]
-  * *2024 ASEE Annual Conference & Exposition* - Portland, OR
-  * **Mitchell Gerhardt**, Nicole Pitterson, Emily Dringenberg, and Benjamin Ahn
+* **Investigating Graduate Students' Perspectives of Influences on Interdisciplinary Scholar Identity Development: An Ecological Systems Theory Approach** (2023)
+  * *2023 ASEE Annual Conference & Exposition* – Bethesda, Maryland
+  * **Webb, M.E.B.** & Paretti, M.C.
 
-* **Why do capstone students choose to perform behaviors? Differing prevalence in collaborative choices** (June 2024) [[Paper](https://capstonedesigncommunity.org/sites/default/files/proceedings_papers/Gerhardt-CDC24.pdf)]
-  * *Capstone Design Conference* - Knoxville, TN
-  * **Mitchell Gerhardt**, Nicole Pitterson, Emily Dringenberg, and Benjamin Ahn
+* **Influences on Displaced Engineering Student Professional Identity Development: A Scoping Literature Review Across Forced Migration Contexts** (2023)
+  * *2023 ASEE Annual Conference & Exposition* – Bethesda, Maryland
+  * **Webb, M.E.B.** & Paretti, M.C.
+
+* **Understanding Faculty Perspectives of Interdisciplinary Graduate Programs** (2023)
+  * *2023 ASEE Annual Conference & Exposition* – Bethesda, Maryland
+  * Menon, M., **Webb, M.E.B.**, & Paretti, M.C.
+
+* **Graduate Student and Postdoctoral Fellow Perspectives on Advancing Women and Gender Equity in Engineering - for the Next 130 Years** (2023)
+  * *2023 ASEE Annual Conference & Exposition* – Bethesda, Maryland
+  * Bose, B., Brotherton, H.B., Hopper, T., Oquendo, P.M., Wang, L.M., **Webb, M.E.B.**, & Wilkinson, H.
+
+* **Towards Digital Justice: Developing US Citizenship Application & Website with Refugees & Immigrants** (2023)
+  * *2023 Conference on Community Writing* – Denver, Colorado
+  * Scott, L., **Webb, M.E.B.**, Baniya, S., Powell, K., Salem, A.
+
+* **Sustainable Development Goals in Engineering Curriculum: A Document Analysis on Discourse and Suggestions for Improvement** (2023)
+  * *Engineering Education for Sustainable Development (EESD) Conference* – Colorado
+  * Menon, M., **Webb, M.E.B.**, Josiam, M., & Deters, J.R.
+
+* **Exploring Professional Identity Development Research on Displaced Higher Education Students** (2022)
+  * *Frontiers in Education (FIE) Conference* – Uppsala, Sweden
+  * **Webb, M.E.B.** & Paretti, M.C.
+
+* **Building a Sustainable University-Wide Interdisciplinary Graduate Program to Address Disasters** (2022)
+  * *2022 ASEE Annual Conference & Exposition* – Milwaukee, Wisconsin
+  * **Webb, M.E.B.**, Deters, J.R., Menon, M., & Paretti, M.C.
+
+* **Exploring Mechanical Engineering Student Perspectives of Academic Integrity During COVID-19** (2022)
+  * *Australasian Association for Engineering Education Conference* – Western Sydney University
+  * Deters, J.R., **Webb, M.E.B.**, & Menon, M.
+
+* **Imagining the future interdisciplinary scholar: Exploring interdisciplinary identity development using possible selves** (2021)
+  * *Joint Research in Engineering Education Symposium (REES) & Australasian Association for Engineering Education Conference* – Perth, Australia [virtual]
+  * Deters, J. R., Menon, M., Paretti, M. C., & **Webb, M.E.B.**
+
+* **Building Capacity for Instructional Change: A Critical Review and Conceptual Framework for Discipline-Based Education Research (DBER) Postdoctoral Professional Development** (In Revision, 2026)
+  * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
+  * **Webb, M.E.B.**, Coso Strong, A. & Werth, A.
+
+* **Toward Scalable Assessment of Undergraduate Reflective Practice: Comparing Multiple Reflection Quality Codebook Validation Approaches** (In Revision, 2026)
+  * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
+  * **Webb, M.E.B.**, McColley, C., Alrizqi, M., Manuel Sanders, G., & Werth, A.
+
+* **Strategies for Hybrid, Hands-on Courses in Robotics, Embedded Systems, and IoT** (In Revision, 2026)
+  * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
+  * Jaramillo, J., **Webb, M.E.B.**, & Coso Strong, A.
+
+* **Implementing Digital Justice to Support Refugee and Immigrant Communities** (2026)
+  * *2026 CHI Conference on Human Factors in Computing Systems*
+  * Baniya, S., **Webb, M.E.B.**, Scott, L., & Powell, K.
+
+Blog Posts
+======
+* **Breaking Silos: Rethinking University Structures to Facilitate Interdisciplinary Engineering Graduate Education** (2024)
+  * *European Journal of Engineering Education* – Special Issue: Interdisciplinary Learning and Transformation of Engineering Education
+  * **Webb, M.E.B.**, Menon, M., Deters, J.R., & Paretti, M.C.
 
 Research Experience
 ======
-* August 2025 - Present: **Research Assistant**
-  * [Department of Engineering Education](https://enge.vt.edu/), Virginia Tech, Blacksburg, VA
-  * [NSF Award #2339702](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2339702&HistoricalAwards=false): "CAREER: Minds and Machines: Exploring Engineering Faculty Member Mental Models of Generative AI and Instructional Decisions"
-  * Examining sociotechnical dimensions of GAI adoption in STEM higher education workplace contexts using mental model theory and Theory of Planned Behavior (TPB)
-  * Conducting qualitative interviews with faculty to understand how perceptions of GAI shape instructional decisions, assessment practices, and workplace norms around GAI use
-  * Applying ethnomethodological and symbolic interactionist frameworks to analyze epistemic cultures and expertise recognition in AI-mediated educational environments
-  * Developing LLM-based qualitative workflows to scale aspects of qualitative data analysis and make them available to fellow researchers
+* Present: **Postdoctoral Fellow, Cornell Disciplinary-Based Education Research (CDER)**
+  * Cornell University, Department of Biomedical Engineering, Ithaca, NY
+  * Supervisors: Dr. Alex Werth and Dr. Alex Coso Strong
+  * Researching postdoctoral professional development: exploring how structures, systems, and cultures impact postdoctoral associates as scholars and change agents
+  * Investigating generative AI's role in automating qualitative assessment of student reflection quality in STEM education courses
+  * Studying Active Learning Initiatives as models of instructional change
+  * Supporting research grant writing
+  * Planning and coordinating an international Disciplinary-Based Education Research (DBER) conference
+  * Mentoring graduate and undergraduate students in STEM education research
 
-* May 2025 - Present: **Research Assistant**
-  * [Department of Engineering Education](https://enge.vt.edu/), Virginia Tech, Blacksburg, VA
-  * Assisted [NSF Award #2433099](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2433099&HistoricalAwards=false): "Collaborative Research: Research: The Engineering Master's Workforce: Leveraging NLP Techniques to Understand Employer Demands and Student Goals"
-  * Created a Python-based workflow to manage DuckDB-based database to analyze over 5 million jobs spanning 2007-2025
-  * Implemented Jupyter notebooks to extract job postings' qualification information, tasks and responsibilities, skills and knowledge, and technologies required
-  * Currently applying open-source large language models (LLMs) to add flexibility and granularity to job posting extractions
+* June 2024 – May 2025: **Graduate Research Assistant for Graduate & Professional Studies**
+  * Virginia Tech, Office of the Dean of the College of Engineering, Blacksburg, VA
+  * Supervisor: Dr. Holly Matusovich
+  * Coordinated and hosted Virginia Tech Dissertation Institute (VTDI) for graduate student writing and research skills support
+  * Organized College of Engineering Graduate Student Fall Welcome Fair
+  * Developed and managed 2024-2025 professional development workshop series for graduate students and external fellowship holders
+  * Evaluated programming effectiveness and prepared formative and summative assessment reports for the Dean
+  * Initiated and developed a college-level Canvas Site as a repository for engineering graduate student professional development materials
+  * Developed a peer-mentoring program for external fellowship-holding students, piloting a GPS Student Ambassador Program
+  * Served on 2024 search committee for Assistant Director of Graduate and Professional Studies
+  * Collaborated in developing a scalable computerized process for addressing COE under-enrolled classes for semesterly audits
 
-* January 2024 - July 2024: **Research Assistant**
-  * [Department of Engineering Education](https://enge.vt.edu/), Virginia Tech, Blacksburg, VA
-  * Assisted [NSF Award #2300977](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2300977&HistoricalAwards=false): "Design for Sustainability: How Mental Models of Social-Ecological Systems Shape Engineering Design Decisions"
-  * Developed a novel natural language processing (NLP) methodology for generating qualitative codebooks from large datasets (e.g., students' instructor evaluations)
-  * Co-authored a journal publication in the *International Journal of Qualitative Methods* outlining the extract, embed, cluster, and summarize (EECS) workflow
-  * Contributed to ongoing refinement and improvement of the NLP-based methodology for analyzing qualitative data
-  * Applied open-source LLMs to preserve data security and privacy while maintaining analytical rigor
+* 2024–2025: **Graduate Research Assistant – Designing Technology for Hospital Education**
+  * Virginia Tech, Institute for Creativity, Arts, and Design, Blacksburg, VA
+  * PIs: Dr. Finda Williams and Dr. Sweta Baniya
+  * Supported VT ICAT Virginia Tech Major SEAD Research Grant ($40,000)
+  * Conducted semi-structured interviews with hospital educators and developed a qualitative codebook
+  * Analyzed qualitative journal and interview data; published and wrote conference papers and journal articles
 
-* August 2024 - January 2024: **Research Assistant**
-  * [Department of Engineering Education](https://enge.vt.edu/), Virginia Tech, Blacksburg, VA
-  * Assisted [NSF Award #2217523](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2217523&HistoricalAwards=false): "Collaborative Research: Collaboration in Engineering Student and Practitioner Teams: A Study of Beliefs about Effective Behaviors"
-  * Designed and implemented a pilot study to examine the frequency and prevalence of collaborative behaviors in senior engineering capstone teams
-  * Co-authored a conference paper for the 2024 Capstone Design Conference about why students choose certain collaborative behaviors
-  * Expanded the conference paper into an accepted journal article based on the preliminary findings from the project
-  * Developed foundation for future research on student collaborative decision-making within engineering design contexts
+* 2021–2024: **Graduate Research Assistant – Disaster Resilience and Risk Management**
+  * Virginia Tech, Engineering Education, Blacksburg, VA
+  * Supported [NSF Award #1735139](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1735139). Supervisor: Dr. Marie Paretti; PI: Dr. Robert Weiss
+  * Designed and conducted program-level and course-level assessments including pre/post concept maps and annual interviews
+  * Conducted semi-structured interviews and focus groups, developed qualitative codebooks, and analyzed data
+  * Planned and coordinated graduate student programming for the annual NRT conference 2022-2023
+  * Mentored junior Engineering Education graduate students in research methods, dissertation ideation, and career development
 
-* Fall 2025: **Ethnographic Researcher**
-  * [Cornell University Science & Technology Studies](https://sts.cornell.edu/), Ithaca, NY
-  * Independent ethnographic study of Science Studies Reading Group (SSRG) feedback practices
-  * Conducted 15+ weeks of participant observation examining how different feedback formats (facilitated dialogues, "ping pong" discussions) shape scholarly collaboration and expertise networks
-  * Produced 10,000-word analytical ethnography applying STS frameworks to understand epistemic cultures, knowledge production practices, and organizational dynamics in interdisciplinary research communities
-  * Analyzed conversational patterns, turn-taking behaviors, and collaborative meaning-making in academic workplace settings
-  * Working on methodology paper explicating study and decision-making for contributions to studying workplace knowledge practices in EER
+* 2021–2024: **Graduate Research Assistant – COVID-19 & Climate Change: Mapping the Effects of Compounding Crisis**
+  * Virginia Tech, Center for Coastal Studies, Blacksburg, VA
+  * PIs: Dr. Andrew Katz and Dr. Sweta Baniya
+  * Supported development of an end-to-end method leveraging GPT-3.5 for generating qualitative codebooks from disaster-related social media data
+  * Contributed to interdisciplinary NLP research using transformer-based large language models
+  * Mentored undergraduate students from Urban Planning, Geography, Communications, and Computer Science
 
-* May 2025 - Present: **Principal Investigator, Graduate Student Survey Research**
-  * Multi-institutional, Ithaca, NY
-  * IRB-approved multi-institutional study examining STEM graduate students' GAI use patterns
-  * Designed and distributed Qualtrics survey across a few universities collecting 100+ responses examining nuanced patterns of GAI adoption beyond reductive "cheating" narratives
-  * Applying mixed methods approach combining descriptive statistics, correlation analyses, demographic studies, and planned qualitative interviews
-  * Investigating workplace socialization processes, community norms around GAI use, and shifting definitions of legitimate expertise in graduate education contexts
+* 2021–2024: **Graduate Research Assistant – Towards Digital Justice: Developing a US Citizenship App & Website**
+  * Virginia Tech, Center for Refugee, Migrant, and Displacement Studies, Blacksburg, VA
+  * PIs: Dr. Sweta Baniya and Dr. Katrina Powell
+  * American Council of Learned Societies (ACLS) Digital Justice Seed Grant
+  * Supported community-engaged participatory action research reimagining the U.S. naturalization process through a lens of digital justice
+  * Employed theoretical frameworks of knowledge justice, digital justice, and epistemic integration
+  * Co-designed ICTs with newcomers informed by lived experiences and values of refugee and immigrant communities
+  * Mentored undergraduate students across Computer Science, Psychology, Technical Communications, and Engineering
 
-Professional Experience
+* August 2021 – May 2024: **Critical Displacement Studies Fellow**
+  * Virginia Tech, Center for Refugee, Migrant, and Displacement Studies, Blacksburg, VA
+  * PIs: Dr. Katrina Powell and Dr. Rebecca Hester
+  * National Endowment for the Humanities in partnership with the Social Science Research Council
+  * Collaboratively wrote an open-access *Interdisciplinary and Critical Displacement Studies Reader* building a Critical Displacement Studies methodological research approach
+
+* 2021–2024: **Graduate Research Assistant – Strengthening Virginia's Ability to Provide Migration Support**
+  * Virginia Tech, Center for Refugee, Migrant, and Displacement Studies, Blacksburg, VA
+  * PIs: Dr. Sweta Baniya and Dr. Katrina Powell
+  * 4-VA Collaborative Research Grant in collaboration with JMU, GMU, and VCU
+  * Supported development of a centralized, public database consolidating Resettlement Services for New Americans in Virginia
+
+* 2016–2019: **Undergraduate Research Assistant – Tribomechadynamics Lab**
+  * Rice University, Mechanical Engineering, Houston, TX
+  * Designed and fabricated fixtures including tensile testing tools, trunnions, and drop testing equipment
+  * Conducted surface dimpling tests and data analysis in support of a PhD student's dissertation
+  * Coordinated onboarding of new undergraduate research assistants
+
+Engineering Work Experience
 ======
-* August 2024 - May 2025: **Graduate Assistant to the Director for Special Programs**
-  * [Center for Excellence in Teaching and Learning (CETL)](https://teaching.vt.edu/), Virginia Tech, Blacksburg, VA
-  * Worked with Dr. Tiffany Shoop on various teaching and learning initiatives
-  * Conducted mid-semester feedback sessions across various disciplines, gathering and analyzing student input to help faculty enhance teaching effectiveness and student engagement
-  * Developed and presented a faculty workshop on Interactive Lecturing with approximately 30 attendees, providing resources and strategies for enhancing student engagement in the classroom
-  * Co-led the implementation of the [CIRTL](https://cirtl.vt.edu/) (Center for the Integration of Research, Teaching, and Learning) program at Virginia Tech, researching best practices and developing an institutional implementation strategy for Practitioner and Scholar CIRTL levels leveraging cross-campus resources and partnerships
-  * Helped organize the 17th annual Conference on Higher Education Pedagogy ([CHEP](https://chep.teaching.vt.edu/)), reviewing submissions, coordinating sessions, and developing a custom Python application to automate post-conference booklet creation
-  * Systematically reviewed empirical research on Collaborative Online Interactive Learning (COIL) to assist in faculty training program development and institutional integration
-  * Created resources for faculty including presentations, research compilations, and implementation guides to support teaching excellence and innovation
+* 2019–2020: **Engineer (Multiple Roles)**
+  * ExxonMobil, Houston, TX
+  * *Rotating Facilities Engineer* – Norman Wells, NWT, Canada: responsible for on-the-ground engineering and operations optimization
+  * *Project Engineer, Liza Phase 1 Subsea Pig Launcher*: developed, manufactured, and tested a $3M assembly deployed offshore Guyana
+  * *Subsea Hardware Lead, Central South Dagi*: responsible for design of all subsea hardware for a 14-well tieback offshore Sakhalin, Russia
+  * *Internship Program Coordinator, Upstream Integrated Solutions*: planned and executed internship program for 80 employees
+  * *Subject Matter Expert* in Template Manifolds and Elastomer-Sealed Subsea Gaskets
+  * Designed an enhanced surveillance leak detection tool for potential methanol egress in subsea fields
+  * Scoped the 2018 cathodic protection survey for Mobil Equatorial Guinea using descriptive analytics in JMP
 
-* June 2021 - June 2023: **Global Product Development Engineering**
-  * *General Motors*, Warren, MI
-  * Software Engineer - Software Defined Vehicle
-    * Responsible for developing next-gen software infrastructures and technology for software-defined vehicles
-    * Key implementation role in mobile app development, in-vehicle interfaces, and back-end deployment
-    * Established and applied testing protocols including CI/CD pipelines, automated build processes, and testing mechanisms
-  * Infotainment Technical Program Manager
-    * Part of an integral team to plan, execute, and deliver leading-edge technology to our customers
-    * Worked with global partners, external suppliers, and internal teams to track, drive, support, and report vehicle readiness metrics
-  * Complexity Optimization Engineer
-    * Engaged in measuring, managing strategy, and reducing program hardware and software complexity
-    * Optimized tactics for efficient build combinations and part reuse across programs and vehicle subsystems
-
-* May 2019 - December 2020: **Autonomy Systems Research**
-  * *Caterpillar Inc.*, Peoria, IL and Blacksburg, VA
-  * Software Engineer I
-    * Implemented a control interface for autonomy simulation platform using ROS, teleoperation control, and robot modeling software
-    * Validated and integrated sensor data on large-scale machinery into algorithms for mapping and navigation via complex data structures
-    * Developed CI/CD protocols and workflows for software distribution using Docker, ROS, and the C++ testing framework
-
-Grants & Awards
+Grant Writing Experience
 ======
-* Fall 2025: **Co-Principal Investigator**
-  * **Bridging the Conversational AI Gap: Synthetic Dataset Generation for Engineering Education Dialogue**
-  * NSF CCSS Seed Grant ($4,500), Cornell University - 10-month project
-  * Developing novel methodology for creating synthetic speech datasets preserving conversational phenomena critical to workplace learning research (overlapping speech, strategic pauses, collaborative turn-taking)
-  * Fine-tuning open-source ASR models using 500-1,000 multi-speaker dialogue samples generated via ElevenLabs API to enable large-scale analysis of engineering classroom interactions
-  * Applying synthetic data to study feedback literacy in design studios and facilitated dialogues about research group culture and inclusion
-  * Publicly archiving all synthetic audio, generation parameters, and evaluation results in Cornell CSSR Data & Reproduction Archive for reproducible research across institutions
-  * Positions research program for larger NSF/NIH proposals by demonstrating technical feasibility of computational methods in engineering education research
+* **NSF STEMEdIPRF Postdoctoral Fellowship Proposal** (December 2024)
+  * *Transforming Graduate Education and Systems Perspectives on Interdisciplinary STEM Graduate Development and Programming*
+  * PI: Margaret Webb
+  * Led ideation and conceptual development; collaborated with mentors across universities; completed proposal writing and submission
 
-* Fall 2025: **Co-Facilitator**
-  * **Fulbright Brazil International Collaboration**
-  * Virginia Tech and Brazilian Universities Partnership
-  * Selected by Fulbright Brazil with advisor and VT colleagues for intensive 3-day faculty development program examining GAI adoption in higher education workplace contexts
-  * Presented to 80+ engineering faculty from dozens of Brazilian universities on sociotechnical dimensions of GAI integration: technical fundamentals, assessment transformation, ethics, institutional policy development, faculty-student relationship dynamics
-  * Served as technical expert and instructional designer facilitating cross-cultural dialogue about workplace technology adoption and organizational change
+* **NSF CAREER Award Grant Application** (Summer 2024)
+  * *Theorizing Disaster Rhetorics: A Multi-Country Study for Disaster Response and Crisis Communication*
+  * GRA for PI: Dr. Sweta Baniya
+  * Conducted extensive literature review to inform theoretical framework; collaborated on writing and editing key sections of the proposal
 
-* 2025: **Nominee**, Google PhD Fellowship in Human-Computer Interaction
-  * Nominated by Virginia Tech for national fellowship
-
-* 2025: **Honorable Mention**, NSF Graduate Research Fellowship Program
-  * National Science Foundation
-
-Projects
+Honors & Awards
 ======
-* **Ducky** (Fall 2025)
-  * AI-powered software developer assistant built with Streamlit providing intelligent development support through specialized features for CS 5740: AI Tools for Software Engineers
-  * Developed ReAct-pattern agent system with sandboxed tool execution capabilities, enabling GAI agents to autonomously perform file operations, code editing, and multi-step task completion with security through path validation
-  * Implemented dual interface architecture: rich web interface with Monaco editor integration and CLI interface, supporting persona-based agent behaviors across software development roles (planning, development, QA, operations)
-  * Integrated RAG (Retrieval Augmented Generation) using local sentence-transformers for offline-capable document queries and comprehensive LLM integration with OpenAI-compatible APIs supporting function calling and streaming responses
-  * Built with modern Python tooling including uv for dependency management, demonstrating full-stack development skills including async programming, state management, UI/UX design, and secure tool execution patterns
+* **SEFI Early Career Researcher's Club**, European Society of Engineering Education (2025–2026)
+* **ASEE Graduate Studies Division Best Student Paper Award** – 2nd year in a row (June 2025) [[Award Info](https://sites.asee.org/gsd/division-awards/)]
+  * "Tracking the Evolution of Interdisciplinary Identity-Based Motivation in Engineering Graduate Students: A Longitudinal Case Study" with Dr. Marie C. Paretti
+* **ASEE Graduate Studies Division Best Student Paper Award** (June 2024)
+  * "Understanding Ecosystems of Interdisciplinary Graduate Education through an Ecological Systems Approach" with Dr. Marie C. Paretti
+* **1st Place, VT COE Torgersen Outstanding Dissertation Award**, Virginia Tech (May 2025) [[News](https://news.vt.edu/articles/2025/05/eng-coe-torgersen-research-winners-2025.html)] [[Winners](https://torgersengradaward.vt.domains/2025-winners/)]
+* **Nominated for VT COE Outstanding Doctoral Student**, Virginia Tech (2025)
+* **President's Honor Roll**, Virginia Tech (2021–Present)
+* **Pratt Fellowship for Research Excellence**, Virginia Tech, $2,000 (2021–2022)
+* **Outstanding Capstone Design Project**, Bowman Sustainable Land Development CEE M.S. Program, Virginia Tech (Spring 2023) [[Link](https://lddi.cee.vt.edu/content/)]
+* **President's Honor Roll**, Rice University (2015–2019)
+* **Willy Revolution Award for Outstanding Innovation**: Senior Capstone Award, Rice University (2019) [[Link](https://oedk.rice.edu/Sys/PublicProfile/47555555/1063096)]
+* **Oshman Engineering Design Engineering + Art Competition**, Rice University (2019) [[Link](https://oedk.rice.edu/news/7213404)]
 
-* **Between the Lines** (Fall 2025)
-  * React + TypeScript bookstore e-commerce application developed for CS 5244: Web App Development
-  * Built full-stack e-commerce site using React + TypeScript with Vite, evolving from Figma and static HTML/CSS into a complete bookstore application with shopping cart, category browsing, and checkout functionality
-  * Developed Java servlet backend (MitchBookstoreTransact) running on Tomcat to handle categories, books, and order processing with RESTful API design
-  * Implemented state management using React Context providers (CategoryContext, CartContext, OrderDetailsProvider) with useReducer pattern for cart and order state, including persistent cart state via localStorage
-  * Created component-based architecture with React Router v6 for navigation across six main routes: home, category pages, cart, checkout, and order confirmation
-  * Integrated Formik/Yup for form validation with custom validators for phone numbers and credit cards, ensuring robust client-side validation throughout checkout flow
-
-* **Graduate Courses Analysis Tool** (November 2023 - May 2025) [[Web](https://course-extractor-rior.onrender.com/)], [[Code](https://github.com/mitchg10/course-extractor)]
-  * Full-stack web application for College of Engineering Associate Dean for graduate enrollment patterns
-  * Developed tool extracting structured course data from PDF timetables, identifying underenrolled graduate courses for strategic enrollment analysis and resource allocation decisions
-  * Technology Stack: React/Tailwind frontend, FastAPI backend, PyMuPDF for PDF processing, AWS S3 for production storage
-  * Implemented automated ETL pipeline for processing university course enrollment data at scale with cross-listing identification and data enrichment via VT Timetable API
-  * Containerized application using Docker for reproducible deployment and maintenance
-
-* **Epistemic Climate Analysis in CS Education** (September 2024 - June 2025) [[Code](https://github.com/mitchg10/NLP_FinalProject)]
-  * Sociotechnical analysis of knowledge representation in computer science textbooks using STS frameworks and computational methods
-  * Developed novel methodology analyzing epistemic climate in CS textbooks using large language models, examining how different knowledge types shape students' understanding of legitimate expertise and disciplinary identity
-  * Created comprehensive coding scheme for 12 knowledge types (procedural, conceptual, historical, etc.) grounded in engineering education research and STS literature on epistemic cultures
-  * Implemented retrieval-augmented generation approach for large-scale textbook analysis, demonstrating how computational methods can reveal patterns in how disciplines present and value different forms of knowledge
-  * Generated insights about knowledge hierarchies in undergraduate CS education, revealing sociotechnical dimensions of how textbooks as material artifacts shape epistemic thinking
-  * Published findings at ASEE 2025 Annual Conference
-
-Service
+Fellowships
 ======
-* **Associate Chair, Panelist, & Facilitated Discussion Mediator**, Virginia Tech Graduate Honor System (August 2023 - Present)
-  * Serve as a trained facilitator for academic integrity discussions between faculty and students, mediating resolution of potential honor code violations through structured dialogue
-  * Participate in Review Panels that evaluate evidence and determine outcomes in academic integrity cases, upholding university standards while ensuring fair process
-  * Help educate the graduate community on academic integrity standards, ethical research practices, and honor system processes
-  * Collaborate with diverse stakeholders including faculty, administrators, and students across disciplines to resolve cases annually
-
-* **Graduate Student Search Committee Member**, Department of Graduate and Professional Studies (Summer 2025)
-  * Served on faculty search committee for GHS chair position, evaluating candidates and participating in selection process
-
-* **Mentor, NSF Graduate Research Fellowship Program Applications**, Cornell University (Fall 2025)
-  * Provided application review, feedback, and mentorship to Cornell graduate students applying for NSF GRFP
-
-* **Graduate Ambassador**, Department of Engineering Education (August 2024 - May 2025)
-
-* **Reviewer**, College of Engineering Torgersen Research Excellence Award (May 2025)
-* **Reviewer**, ASEE Annual Conference (May 2024, 2025, 2026)
-* **Reviewer**, International Journal of Qualitative Methods (November 2024 & September 2025)
-* **Reviewer**, Capstone Design Conference (May 2024)
-* **President Emeritus**, Hillel at Virginia Tech (December 2018 - December 2020)
-
-Invited Talks, Workshops, and Presentations
-======
-* (Planned) March 2026: **Workshop**, *Virginia Tech Graduate Instructors*
-  * Initiated and lead a three-student group to organize a workshop for Virginia Tech graduate instructors about GAI course policies
-  * Addressing a critical need through participatory instruction and activities that promote GAI literacy
-  * Received IRB approval to study the workshop's implementation and effectiveness, with plans to publish results
-  * Leveraging networks and existing partnerships with the Graduate Honor System (GHS), the Center for Excellence in Teaching and Learning (CETL), the center for Technology-Enhanced Learning and Online Strategies (TLOS), and departmental leadership to host and market the event
-
-* February 2026: **Guest Lecturer**, *GRAD 5004: Graduate Teaching Assistant Workshop*, Virginia Tech (Dr. Kevin Eager)
-  * "Scholarly Ethics" presentation to in-coming GTAs at Virginia Tech, addressing topics like academic and professional integrity, the VT Undergraduate and Graduate Honor Systems, GTA integrity responsibilities, GAI use, and contemporary literature about cheating
-
-* December 2025: **Guest Lecturer**, *ECE Graduate Student Seminar*, University of Pittsburgh
-  * "AI Research Ethics in Engineering Education" co-presented with Andrew Katz to ECE graduate students examining ethical dimensions of AI research in educational contexts
-
-* November 2025: **Guest Lecturer**, *ME 397/379M Qualitative Research Methods*, University of Texas at Austin (Dr. Maura Borrego)
-  * "Large Language Models in Qualitative Engineering Education Research: Technical Methods and Methodological Considerations"
-  * Examined human vs. machine pattern recognition, current GAI approaches for qualitative research, researcher positionality, translational challenges, and shifting definitions of "intelligence"
-  * Addressed methodological questions about computational approaches to qualitative work and implications for research practice
-  * Instructor feedback: "Students were honestly blown away...for many of them it was the highlight of the semester"
-
-* October 2025: **Invited Presentations**, *Cornell DBER Research Group (2 presentations)*, Cornell University
-  * Presented technical background of large language models, AI history, and sociotechnical applications in engineering education research; demonstrated how computational methods intersect with critical perspectives on workplace learning and expertise
-
-* June 2025: **Conference Presentation**, *2025 ASEE Annual Conference*
-  * "Automated Analysis of Knowledge Types in Computer Science Textbooks: A Natural Language Processing Approach to Understanding Epistemic Climate" - exploring the use of LLMs to evaluate types of knowledge described in computer science textbooks
-  * "Beyond Calculations: Engineering Judgment as Epistemic Cognition in Engineering Education" - arguing for greater psychological interrogation of "engineering judgment"
-
-* May 2025: **Invited Student**, *Board of Visitors*, Virginia Tech
-  * Discussed research on GAI adoption in higher education and ongoing projects examining workplace technology integration with university leadership
-
-* June 2024: **Panelist**, *2024 Capstone Design Conference*
-  * Panel discussion examining teamwork dynamics and collaborative practices in capstone engineering workplace contexts
-
-* June 2024: **Conference Presentation**, *2024 ASEE Annual Conference*
-  * "Reimagining Behavioral Analysis in Engineering Education: A Theoretical Exploration of Reasoned Action Approach" - examining decision-making in engineering student workplace teams
-
-* June 2024: **Conference Poster**, *2024 Capstone Design Conference*
-  * "Why do capstone students choose to perform behaviors? Differing prevalence in collaborative choices"
-
-* October 2023: **Panelist**, *Virginia Tech Interdisciplinary Capstone (IDC) course*
-  * Discussion of engineering industry workplace practices and career pathways with capstone students
+* **Colorado School of Mines Teaching with Heart Program**, $500 (2024–2025)
+  * Experiential workshops focused on integrating empathy and care into STEM teaching
+* **Roger and Debbie West Student Research Grant**, VT Institute for Creativity, Arts, and Technology, $1,000 (2023–2024)
+  * *Weaving Weeds: Exploring Human-Plant Relations Through Bio-Fabrication*
+* **Doctoral Student Travel Award**, Society for Social Work Research, $1,500 (2023)
+* **Graduate Student Travel Grant**, ASEE Women in Engineering Division, $1,500 (2023)
+* **NSF Research Traineeship Fellowship – Disaster Resilience**, National Science Foundation in partnership with Virginia Tech (2022–2023)
+* **Travel Grant**, Virginia Tech Graduate and Professional Student Senate, $1,500 (2022–2023)
+* **Travel Grant – Center for Coastal Studies: Disaster Resilience**, Virginia Tech (2022–2023)
+* **Rice Engineering Alumni Association Buckley Sartwelle Scholarship**, $12,000 (2015–2019)
 
 Teaching Experience
 ======
-* August 2021 - June 2023: **Academic Tutor**
-  * Big Brothers Big Sisters of Metropolitan Detroit, Detroit, MI
-  * Helped create and support mission for one-on-one mentoring sessions and academic assistance
-  * Exposure to COVID-19 instruction methods and challenges thereof
+* **Graduate Teaching Assistant** – Intercultural Issues in Professional Writing (ENGL 3834), Virginia Tech (Spring 2024, Fall 2025)
+  * Taught modules on participatory action and community-engaged technical communication and effective conference presentations
+  * Graded weekly discussion posts and mid-semester projects
+
+* **Graduate Teaching Assistant** – Interdisciplinary Research Methods in Disaster Resilience (GRAD 5134), Virginia Tech (2023–2024)
+  * Contributed to course design, syllabus development, and assessment development for interdisciplinary undergraduate and graduate courses
+  * Graded weekly and project assignments with detailed feedback for 25 students
+  * Collaborated with faculty instructors on iterative course improvements
+
+* **Middle and High School Math Teacher**, Harmony Public Schools (December 2020 – June 2021)
+  * Designed lesson plans with active learning pedagogies for in-person and online instruction
+  * Cultivated relationships with 120 students, faculty, and parents
+  * Collaborated with teaching teams to increase use of active learning pedagogies in the math department
+  * Texas Education Agency Teaching Certification: TExES 274 Grades 6-12 Mathematics, Physical Science, and Engineering (276/300)
+
+* **Undergraduate Learning Assistant** – Solids Mechanics, Rice University, Mechanical Engineering (Fall 2017)
+  * Supported recitation sessions and collaborated with faculty on lab material improvements
+
+Invited Talks & Presentations
+======
+* **May 2025**: *"Getting the Most Out of Engineering Conferences and Conference Resources"* – Virginia Tech College of Engineering Graduate and Professional Studies (25 attendees)
+* **April 2025**: *"Poster Presentations for Research Conferences"* – Virginia Tech College of Engineering Graduate and Professional Studies (25 attendees)
+* **February 2025**: *"Understanding Virginia Hospital Educators' Work Practices and Technology Needs"* (with A. Smith) – VT Institute for Creativity, Arts, and Technology (30 attendees)
+* **December 2025**: *"Conference and Poster Planning for Undergraduate Technical Communication Students"* – Dr. Baniya's course (30 attendees)
+* **September 2024**: *"Planning to Apply for Engineering Graduate School Fellowships"* – VT College of Engineering Graduate and Professional Studies (25 attendees)
+* **October 2023**: *"Navigating Engineering Industry: The Job Search and Beyond"* (with M. Gerhardt & L. Schibelius) – Virginia Tech Interdisciplinary Senior Capstone Course (60 attendees)
+* **March 2023**: *"Towards Digital Justice: Participatory Action Research on Structural Barriers to US Citizenship for People Seeking Refuge"* (with S. Baniya & K. Powell) – VT Center for Refugee, Migrant, and Displacement Studies and VA CRMDS Consortium (50 attendees)
+* **February 2023**: *"Towards Digital Justice"* (with S. Baniya, A. East, C. Williams, & K. Powell) – VT Introduction to Displacement Studies Program (25 attendees)
+* **February 2023**: *"Cultural Competence in Hazards and Disaster Research: CONVERGE Training Module Workshop"* (with H. Singh) – NHERI Graduate Student Council [[Video](https://www.youtube.com/watch?v=a4MKgKWjRjM&t=52s)] (50 attendees)
+* **October 2022**: *"Exploring the Professional Identity Development of Displaced Engineering Students"* – Ohio State University ENGE Graduate Student Seminar Exchange [[Event](https://eed.osu.edu/events/2022/11/seminar-series-two-one-virginia-tech-eed-phd-candidates)] (30 attendees)
+* **October 2022**: *"Communicating Interdisciplinary Research"* (with T. Lightner) – VT DRRM Program (20 attendees)
+* **September 2022**: *"Diversity Equity and Inclusion Research in Natural Hazards Engineering"* (with H. Singh) – NHERI Graduate Student Council (70 attendees)
+* **Spring 2022**: *"Engineering Work Abroad"* and *"Culture in Engineering"* – Virginia Tech Rising Sophomore Abroad (RSAP) Program (40 attendees)
+* **March 2020**: *"Engineering Professional Development Workshop: Time Management Skills, Professional Communication, and the Job Hunt"* – Rice University, Mechanical Engineering Department (30 attendees)
+
+Service
+======
+* **Education Research Consultant**, Rice University Engineering Alumni Association (May 2025 – Present)
+* **Committee Member**, Virginia Tech Engineering Outstanding Doctoral Student Award Committee (Spring 2024)
+* **Search Committee Member**, VT Engineering Dean's Search for Assistant Director of Grad Studies (Fall 2024)
+* **Representative & Voting Member**, Virginia Tech Graduate and Professional Student Senate (GPSS) (2023–2024)
+  * Representative for the Department of Engineering Education
+  * Voting Member of the Commission on Faculty Affairs
+* **Best Paper Chair**, ASEE Student Division (2023–2024)
+* **Vice President**, Virginia Tech Chapter of ASEE (ASEE@VT) (2022–2023)
+* **Chair of DEI & President of Social Science Research Group**, Natural Hazards Engineering Research Infrastructure Graduate Student Council (2022–2024)
+* **Volunteer Program Coordinator**, Children's Assessment Center (CAC), Houston, TX (August 2018 – May 2020)
+* **Co-Founder, Mechanical Engineering Undergraduate Advisory Board**, Rice University (2016–2019)
+* **Student Ambassador to Rice Engineering** (2015–2019)
+* **Peer Career and Peer Academic Advisor**, Rice University (2015–2019)
+* **United Way Champion**, ExxonMobil Subsea Engineering Department (2019–2020)
+
+Professional Memberships
+======
+* VT Community of Practice for Professional Development (12/2024 – 5/2025)
+* AAAS/Science Program for Excellence in Science (10/2024 – Present)
+* American Society for Engineering Education (ASEE) – Graduate Studies, Multidisciplinary Engineering, and Student Divisions (8/2021 – Present)
+* Natural Hazards Research Infrastructure Graduate Student Council – DEI and Social Science Research Committees (8/2021 – 5/2024)
+* Rice University Engineering Alumni Association (5/2019 – Present)
+* Society of Petroleum Engineers (8/2021 – Present)
+* Society of Women Engineers (8/2015 – Present)
+* American Society of Mechanical Engineers (8/2015 – Present)
 
 Technical Skills
 ======
-* **Qualitative Methods:** Ethnography, participant observation, semi-structured interviews, grounded theory, symbolic interactionism, ethnomethodology, thematic analysis, discourse and conversational analysis, content analysis
-* **Theoretical Frameworks:** Engineering expertise, sociology of expertise, Science & Technology Studies (STS), epistemic cultures, epistemic thinking, social construction of technology, engineering studies, academic integrity and cheating, human-computer interactions (HCI)
-* **Computational Methods:** Natural language processing, large language models (LLMs), prompt and context engineering, LLMs for qualitative research, retrieval-augmented generation (RAG), agent-based systems, computational text analysis
-* **Programming & Tools:** Python, JavaScript, C++, SQL, React, FastAPI, Docker, Git, Jupyter notebooks, PyTorch, MCP, scikit-learn, HuggingFace Transformers, AI-based programming systems
-* **Mixed Methods:** Survey design (Qualtrics), descriptive statistics, correlation analysis, triangulation of qualitative and quantitative data
-* **Data Management:** DuckDB, MySQL, AWS S3, Azure, version control, reproducible research practices
+* **Research Methods:** Mixed methods, qualitative research, quantitative analysis, participatory action research, semi-structured interviews, focus groups, thematic analysis, ecological systems analysis, longitudinal case study design, survey design
+* **Theoretical Frameworks:** Systems thinking, identity theory, motivation theory, learning theory, ecological systems theory, digital justice, knowledge justice, epistemic cultures
+* **Technical:** Generative AI, natural language processing, GPT-3.5, qualitative data analysis software (NVivo), statistical analysis, JMP, GIS
+
+News
+======
+* **Class of 2025: Six students graduate with Ph.D. from Department of Engineering Education** – Virginia Tech News (June 2025) [[Link](https://news.vt.edu/articles/2025/06/Classof2025DepartmentofEngineeringEducation.html)]
+* **Webb wins 1st place VT College of Engineering Torgersen Outstanding Dissertation Award** – Virginia Tech News (May 2025) [[Link](https://news.vt.edu/articles/2025/05/eng-coe-torgersen-research-winners-2025.html)] [[Winners](https://torgersengradaward.vt.domains/2025-winners/)]
+* **NSF-funded postdocs to research education across disciplines** – Cornell University (2024) [[Link](https://as.cornell.edu/news/nsf-funded-postdocs-research-education-across-disciplines)]
+* **SEAD Grant Stories: Weaving Weeds, Exploring human-plant relationships through bio-fabrication** – VT Institute for Creativity, Arts, and Technology (2023–2024) [[Link](https://icat.vt.edu/projects/supported-research/sead-grants/2023-2024/student/weaving-weeds.html)]
+* **Internships help students understand the needs of refugees and migrants** – Virginia Tech College of Liberal Arts and Human Sciences (2022)
+* **Outstanding Civil Engineering Design Team: Bowman Sustainable Land Development Program Holds Annual Winter Meeting** – Virginia Tech Bowman Sustainable Land Development Civil Engineering News (2023)
+* **Exxon exodus turns floating 'cube' into Internet meme** (mention) – Reuters (2021) [[Link](https://www.reuters.com/business/exxon-exodus-turns-floating-cube-into-internet-meme-2021-10-04/)]
+* **Engineering Design Showcase Willy Revolution Award** – Rice University Oshman Engineering Design Kitchen (Spring 2019) [[Link](https://oedk.rice.edu/news/8792171)]
+* **Engineering Art Competition** – Rice University Oshman Engineering Design Kitchen (Spring 2019) [[Link](https://oedk.rice.edu/news/7213404)]
+
+Professional Development
+======
+* **ASEE Annual Conference** – In-Person Attendee, Reviewer, and Moderator (Summer 2022 – Present)
+* **Frontiers in Education (FIE) Conference**, Uppsala, Sweden – In-Person Attendee and Reviewer (Fall 2022)
+* **Collaborative Network for Engineering and Computing Diversity Conference**, New Orleans, LA – In-Person Attendee (2022)
+* **The Natural Hazards Workshop**, Boulder, CO (UC Boulder CONVERGE Facility) – Virtual Attendee (Spring 2022)
+* **Australasian Association for Engineering Education (AAEE) Conference** – Virtual Attendee and Reviewer (Winter 2021 & 2022)
+* **Natural Hazards Research Infrastructure Graduate Student Council Conference** – Virtual Attendee (2023)
+* **PhD Research (HDR) Symposium** (December 2021)
+* **Virginia Tech Dissertation Institute** – In-Person Attendee (Summer 2024)
+* **Colorado School of Mines Teaching with Heart Program** – Virtual (2024–2025)
+* **Evidence Synthesis Reviews 101**, Virginia Tech Newman Library – Virtual (September 2021)
+
+Relevant Graduate Coursework
+======
+**Engineering Education**
+* ENGE 5214: Issues in Engineering Education
+* ENGE 5224: Discipline-Based Literature in Engineering Education
+* ENGE 5604: Engineering Education Research Methods
+* ENGE 6614: Quantitative Data Analysis in Engineering Education
+* ENGE 6624: Qualitative Data Analysis in Engineering Education
+* ENGE 5514: Applied Design and Assessment of Engineering Education Experiences
+
+**Higher Education and Organizational Theory**
+* EDHE 6304: Theories of Educational Organizations
+* EDHE 6054: College and University Administration
+* EDHE 5314: College Student Development Theory
+
+**Interdisciplinary Studies and Disaster Resilience**
+* GRAD 5034: Interdisciplinary Disaster Resilience
+* GRAD 5134: Research in Disaster Risk Reduction and Management
+* CEE 5264: Sustainable Land Development
+* CEE 5274: Land Development Design Projects
+* MINE 5114: Sustainable Mineral and Energy Resources
+
+**Social Justice and Identity in Education**
+* WGS 5424: Identity, Migration, and Place
+* ENGE 5304: Graduate Student Success in a Multicultural Environment
+
+**Policy and Decision-Making**
+* SPIA 5124: Policy Decision-Making in STEM-H
+
+**Sustainability and Resilience in Engineering**
+* CEE 5114: Advanced Sustainable Systems
+* CEE 5004: Adaptive Reuse & Redevelopment
+* CEE 5204: GIS Applications in Civil Engineering
