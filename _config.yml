@@ -80,14 +80,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'book-chapters'
+  book-chapters:
+    title: 'Book Chapters'
   manuscripts:
-    title: 'manuscripts'
-  conferences:
-    title: 'conference'
+    title: 'Journal Articles'
+  conference:
+    title: 'Conference Papers'
   thesis:
-    title: 'thesis'
+    title: 'Dissertation'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/
