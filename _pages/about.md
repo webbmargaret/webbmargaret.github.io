@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Hi! I'm Maggie. I'm a Postdoctoral Fellow in Disciplinary-Based Education Research (DBER) at Cornell University. I earned my Ph.D. in Engineering Education research (EER) and M.S. in Civil Engineering from Virginia Tech, and my B.S. in Mechanical Engineering from Rice University. Before graduate school, I worked as an engineer at ExxonMobil and taught middle and high school math (pre-algebra and geometry).
 
-Hi! I'm Mitch. I'm a third-year Ph.D. candidate in Engineering Education at Virginia Tech and simultaneous master's student in Computer Science. I earned his B.S. in Electrical Engineering from Virginia Tech and worked as a software engineer for General Motors in Detroit, Michigan, before returning to graduate school. My research focuses on engineering expertise and generative artificial intelligence (GAI); in particular, how GAI is transforming the way engineering expertise is developed, displayed, recognized, and trusted. My current research examines the use of GAI for qualitative research methods, STEM graduate students’ GAI utilization, and how STEM higher education instructors negotiate and uphold “academic integrity” amid widespread GAI use.
+My research sits at the intersection of systems thinking and organizational change, identity, agency, and motivation and in STEM graduate education — with a particular focus on how students, postdocs, and faculty develop interdisciplinary researcher identities and navigate complex educational ecosystems. I use mixed methods approaches and emerging qualitative analysis methods enabled by GenAI to study experiences across disciplinary and institutional boundaries. I also work on digital justice initiatives in partnership with communities, effective change models in higher education, active learning initiatives and other evidence-based pedagogies, as well as novel research methods in EER.
 
-If you’re interested in the intersection of engineering, education, and emerging technologies, or just want to connect, feel free to reach out!
-
+If you're interested in engineering education research, interdisciplinary graduate education, organizational systems theory, or otherwise, feel free to reach out!
