@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version](/files/Webb CV 2025.pdf){: .btn .btn--primary}
+[Download PDF version](/files/CV Webb 2025.pdf){: .btn .btn--primary}
 
 Research Interests
 ======
