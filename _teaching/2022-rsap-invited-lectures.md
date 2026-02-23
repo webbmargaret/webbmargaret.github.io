@@ -27,4 +27,3 @@ I also developed an assessment framework for RSAP at a time when no formal progr
 - [Engineering Workplaces Slides](https://docs.google.com/presentation/d/1jxCQwFspNu-K23_xTsIa57vtPp6mY2dozMMOHz-nYmg/edit?usp=sharing){:target="_blank"}
 - [Cultures in Engineering Slides](https://docs.google.com/presentation/d/1YGthrUrRP8VJ0icGhalevhFtwi-jV3m9TH3sJnmEwWU/edit?usp=sharing){:target="_blank"}
 - [Assessment Strategies for RSAP](https://docs.google.com/presentation/d/1VTWSfuCg-NgkqhdRDnRgF9qfCFKjr16Tlm2UzrzIJn0/edit?usp=sharing){:target="_blank"}
-- [Miro Community Board](https://miro.com/app/board/uXjVGORUU64=/?share_link_id=64841820367){:target="_blank"} — getting to know you, goals, and reflections

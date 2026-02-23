@@ -18,4 +18,4 @@ Working with faculty, audited existing undergraduate labs against Rice's stated 
 
 **Student Surveys for Continuous Improvement** — Implemented student surveys to serve as ongoing improvement feedback loops aligned with organizational systems practices, treating assessment as a responsive mechanism rather than a terminal event.
 
-**Undergraduate Advisory Board Participation** — Presented the entire curriculum and learning outcomes to students to identify overlaps between courses and potential gaps in preparation, and gathered student feedback on courses they would like to see added based on an overview of ABET requirements — applying systems thinking to educational contexts by sharing curriculum-level understanding with peers.
+**Undergraduate Advisory Board Participation** — Presented updated curriculum and learning outcomes to students to identify overlaps between courses and perceived gaps in preparation, and gathered student feedback on courses they would like to see added based on an overview of ABET requirements — applying systems thinking to educational contexts by sharing curriculum-level understanding with peers.
