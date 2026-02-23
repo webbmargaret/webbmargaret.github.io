@@ -2,9 +2,9 @@
 title: "Curriculum Support and Lab Revision, ABET Reaccreditation"
 collection: teaching
 type: "Curriculum Development and Faculty Support"
-permalink: /teaching/2024-rice-abet-curriculum-support
+permalink: /teaching/2019-rice-abet-curriculum-support
 venue: "Rice University, Mechanical Engineering Department"
-date: 2024-01-01
+date: 2019-01-01
 location: "Houston, TX (Remote)"
 ---
 
