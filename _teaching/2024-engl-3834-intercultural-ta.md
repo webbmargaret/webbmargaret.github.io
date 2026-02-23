@@ -17,6 +17,5 @@ Graduate teaching assistant for an undergraduate technical communication course 
 **Conference Presentations for Technical Communicators** — Module on planning for academic conferences and designing effective research posters, helping students develop professional communication skills for STEM contexts. This included sessions on communicating technical ideas to diverse audiences prior to structured poster judging.
 
 ## Related Work
-
-This teaching experience connects directly to my participatory action research on digital literacy and community technology design with newcomers and hospital educators in Virginia. We have [published on this approach as a pedagogical practice](https://doi.org/10.18260/1-2--43873){:target="_blank"} and are developing an action-oriented course for engineers building on these outcomes.
+This teaching experience connects directly to my participatory action research on digital literacy and community technology design with newcomers and hospital educators in Virginia. 
 
