@@ -22,8 +22,8 @@ complex real-world problems. My work examines three interconnected questions:
 
 *All links go to the [Publications page](https://webbmargaret.github.io/publications/).*
 
----
 
+---
 
 ### Why is it hard for students and professors to work across different fields?
 
