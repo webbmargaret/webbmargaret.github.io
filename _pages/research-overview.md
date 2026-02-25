@@ -21,7 +21,9 @@ complex real-world problems. My work examines three interconnected questions:
 3. How do we actually create change in engineering education?
 
 *All links go to the [Publications page](https://webbmargaret.github.io/publications/).*
+
 ---
+
 
 ### Why is it hard for students and professors to work across different fields?
 
@@ -108,7 +110,7 @@ to adopt it. Change is hard.
   that recognizes them as opportunities for growth. See [*Building Capacity for 
   Instructional Change*](https://webbmargaret.github.io/publication/2026-01-01-building-capacity-for-instructional-change-a-critical-review-and-conceptual-fram) 
   (forthcoming).
-  
+
 - **Practical teaching innovations:** I've also been studying how to teach hands-on 
   engineering courses online without losing the hands-on part — especially important 
   for working professionals who can't be on campus. See [*Strategies for Hybrid, 
