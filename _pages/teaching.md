@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 <div class="teaching-statement-link" style="margin-bottom: 2em;">
-  <a href="{{ base_path }}/files/teaching_statement.pdf" class="btn btn--primary"><i class="fas fa-file-pdf"></i> Download Teaching Statement (PDF)</a>
+  <a href="{{ base_path }}/files/teaching_statement.pdf" class="btn btn--primary"><i class="fas fa-file-pdf"></i> Download Formal Teaching Statement (PDF)</a>
 </div>
 
 ## Teaching Philosophy

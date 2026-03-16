@@ -8,4 +8,4 @@ date: 2023-02-02
 location: "Virtual"
 ---
 
-Co-presented with H. Singh for the NHERI Graduate Student Council, facilitating a CONVERGE training module workshop on the importance of cultural competence in natural hazards and disaster research. The session highlighted ethical and methodological considerations for conducting research with diverse and vulnerable communities. [Recording available.](https://www.youtube.com/watch?v=a4MKgKWjRjM&t=52s)
+Co-presented with H. Singh for the NHERI Graduate Student Council, facilitating a CONVERGE training module workshop on the importance of cultural competence in natural hazards and disaster research. The session highlighted ethical and methodological considerations for conducting research with diverse and vulnerable communities.  
