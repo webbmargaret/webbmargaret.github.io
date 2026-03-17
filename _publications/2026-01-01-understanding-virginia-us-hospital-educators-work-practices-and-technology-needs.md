@@ -1,5 +1,5 @@
 ---
-title: "Accepted: U.S. Hospital Educators' Technology Needs: A Qualitative Study for Developing Action-Oriented Technology"
+title: "U.S. Hospital Educators' Technology Needs: A Qualitative Study for Developing Action-Oriented Technology"
 author: "Webb, M.E.B., Baniya, S., Smith, A., & Williams, I."
 collection: publications
 category: manuscripts
@@ -9,7 +9,7 @@ venue: 'IEEE Transactions on Professional Communication'
 citation: 'Webb, M.E.B., Baniya, S., Smith, A., &amp; Williams, I. (2026). Accepted: Understanding Virginia, U.S. Hospital Educators Work Practices and Technology Needs: A Participatory Qualitative Case Study Exploring AI Integration Opportunities. <i>IEEE Transactions on Professional Communication</i>.'
 # paperurl: ''
 ---
-Use [Google Scholar](https://scholar.google.com/scholar?q=Understanding+Virginia,+U.S.+Hospital+Educators'+Work+Practices+and+Technology+N){:target="_blank"} for full citation
+Use [Google Scholar](https://ieeexplore.ieee.org/document/11435206/authors#authors){:target="_blank"} for full citation
 
 Background: Hospital educators are designated individuals who provide hospitalized K-12 children their schooling during the time of their stay. They play a vital role in maintaining educational continuity for hospitalized children, yet their professional information and communication practices remain understudied in US settings.
 
