@@ -6,7 +6,7 @@ category: manuscripts
 permalink: /publication/2026-01-01-understanding-virginia-us-hospital-educators-work-practices-and-technology-needs
 date: 2026-01-01
 venue: 'IEEE Transactions on Professional Communication'
-citation: 'Webb, M.E.B., Baniya, S., Smith, A., &amp; Williams, I. (2026). Accepted: Understanding Virginia, U.S. Hospital Educators Work Practices and Technology Needs: A Participatory Qualitative Case Study Exploring AI Integration Opportunities. <i>IEEE Transactions on Professional Communication</i>.'
+citation: 'Webb, M.E.B., Baniya, S., Smith, A., &amp; Williams, I. (2026). Understanding Virginia, U.S. Hospital Educators Work Practices and Technology Needs: A Participatory Qualitative Case Study Exploring AI Integration Opportunities. <i>IEEE Transactions on Professional Communication</i>.'
 # paperurl: ''
 ---
 Use [Google Scholar](https://ieeexplore.ieee.org/document/11435206/authors#authors){:target="_blank"} for full citation
