@@ -40,7 +40,7 @@ Book Chapters
   * Baniya, S., Powell, K., Salem, A., **Webb, M.**, Scott, L.
   * Eds. J. Tham & J. Zhang
 
-* **Enacting Digital Justice in Partnership with Displaced Refugee and Immigrant Communities** (In Revisions)
+* **Enacting Digital Justice in Partnership with Displaced Refugee and Immigrant Communities** (Accepted, estimated 2026)
   * *Critical Displacement Studies Reader*, Virginia Tech Publishing
   * Baniya, S., Powell, K., Salem, A., **Webb, M.**, Scott, L., Williams, C., & East, A.
   * Eds. Powell, K., et al.
@@ -59,7 +59,7 @@ Journal Publications
   * *European Journal of Engineering Education* – Special Issue: Interdisciplinary Learning and Transformation of Engineering Education
   * **Webb, M.E.B.** & Paretti, M.
 
-* **Understanding Virginia, U.S. Hospital Educators' Work Practices and Technology Needs: A Participatory Qualitative Case Study Exploring AI Integration Opportunities** (Accepted, March 2026)
+* **Understanding Virginia, U.S. Hospital Educators' Work Practices and Technology Needs: A Participatory Qualitative Case Study Exploring AI Integration Opportunities** 
   * *IEEE Transactions on Professional Communication*
   * **Webb, M.E.B.**, Baniya, S., Smith, A., Williams, I.F.
 
@@ -137,15 +137,15 @@ Peer-Reviewed Conference Publications
   * *Joint Research in Engineering Education Symposium (REES) & Australasian Association for Engineering Education Conference* – Perth, Australia [virtual]
   * Deters, J. R., Menon, M., Paretti, M. C., & **Webb, M.E.B.**
 
-* **Building Capacity for Instructional Change: A Critical Review and Conceptual Framework for Discipline-Based Education Research (DBER) Postdoctoral Professional Development** (In Revision, 2026)
+* **Building Capacity for Instructional Change: A Critical Review and Conceptual Framework for Discipline-Based Education Research (DBER) Postdoctoral Professional Development** (Accepted)
   * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
   * **Webb, M.E.B.**, Coso Strong, A. & Werth, A.
 
-* **Toward Scalable Assessment of Undergraduate Reflective Practice: Comparing Multiple Reflection Quality Codebook Validation Approaches** (In Revision, 2026)
+* **Toward Scalable Assessment of Undergraduate Reflective Practice: Comparing Multiple Reflection Quality Codebook Validation Approaches** (Accepted)
   * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
   * **Webb, M.E.B.**, McColley, C., Alrizqi, M., Manuel Sanders, G., & Werth, A.
 
-* **Strategies for Hybrid, Hands-on Courses in Robotics, Embedded Systems, and IoT** (In Revision, 2026)
+* **Strategies for Hybrid, Hands-on Courses in Robotics, Embedded Systems, and IoT** (Accepted)
   * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
   * Jaramillo, J., **Webb, M.E.B.**, & Coso Strong, A.
 
