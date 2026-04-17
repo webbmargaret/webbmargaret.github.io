@@ -84,9 +84,38 @@
   ],
   "work": [
     {
+      "company": "Cornell University, Office of Inclusive Excellence (OIE), College of Engineering",
+      "position": "Teaching and Learning Consultant, Engineering TA/CA Development Program",
+      "startDate": "2026-05",
+      "endDate": "current",
+      "location": "Ithaca, NY",
+      "summary": "Co-developing and co-facilitating evidence-based training workshops for engineering graduate TAs and undergraduate CAs under Dr. Celia Evans and Dr. Wenjing Luo",
+      "highlights": [
+        "Co-developing and co-facilitating evidence-based, interactive training workshops for engineering graduate Teaching Assistants (TAs) and undergraduate Course Assistants (CAs)",
+        "Co-presenting and supporting logistics for the two-day graduate TA Development program and the Masters/Undergraduate CA Training event each semester",
+        "Conducting microteaching sessions with small groups of TAs during the first two weeks of each semester to support instructional growth and reflective practice",
+        "Participating in a structured professional development series focused on student-centered pedagogy, workshop design, and facilitation skills",
+        "Conducting research on the TA/CA Development Program"
+      ]
+    },
+    {
+      "company": "Cornell University, Office of Inclusive Excellence (OIE), College of Engineering",
+      "position": "Radical Humanity in Research (RHR) Program, Facilitator and Researcher",
+      "startDate": "2025-09",
+      "endDate": "current",
+      "location": "Ithaca, NY",
+      "summary": "Supporting a team-based professional development program for faculty and research groups under Dr. Laura Schoenle, Dr. Alex Werth, and Dr. Alex Coso Strong",
+      "highlights": [
+        "Supporting a team-based professional development program for faculty and their research groups focused on cultivating values-centered, inclusive research cultures",
+        "Facilitating dialogues engaging faculty, graduate students, postdoctoral associates, and undergraduate researchers in co-constructing shared research group values, mutual expectations, and feedback and accountability practices",
+        "Conducting research on the program's impact",
+        "Contributing to grant writing to support program development and expansion"
+      ]
+    },
+    {
       "company": "Cornell University, Department of Biomedical Engineering",
       "position": "Postdoctoral Fellow, Cornell Disciplinary-Based Education Research (CDER)",
-      "startDate": "2025-05",
+      "startDate": "2025-07",
       "endDate": "current",
       "location": "Ithaca, NY",
       "summary": "Conducting DBER research under Dr. Alex Werth and Dr. Alex Coso Strong",
@@ -95,7 +124,7 @@
         "Investigating generative AI's role in automating qualitative assessment of student reflection quality in STEM education courses",
         "Studying Active Learning Initiatives as instructional change models",
         "Supporting research grant writing",
-        "Planning and coordinating an international DBER conference",
+        "Initiating, planning, and implementing a regional Disciplinary-Based Education Research (DBER) conference; built and maintaining NYDBER conference website: https://nydber2026.github.io/nydberconference2026/",
         "Mentoring graduate and undergraduate students in STEM education research"
       ]
     },
@@ -189,8 +218,8 @@
     {
       "company": "ExxonMobil",
       "position": "Engineer (Multiple Roles)",
-      "startDate": "2019-01",
-      "endDate": "2020-12",
+      "startDate": "2019-08",
+      "endDate": "2021-03",
       "location": "Houston, TX",
       "highlights": [
         "Rotating Facilities Engineer to Norman Wells in NWT, Canada: responsible for on-the-ground engineering and operations optimization",
@@ -216,6 +245,17 @@
     }
   ],
   "teaching": [
+    {
+      "institution": "Cornell University, Office of Inclusive Excellence",
+      "role": "Teaching and Learning Consultant, Engineering TA/CA Development Program",
+      "startDate": "2026-05",
+      "endDate": "current",
+      "location": "Ithaca, NY",
+      "highlights": [
+        "Co-developing and co-facilitating evidence-based training workshops for engineering graduate TAs and undergraduate CAs",
+        "Conducting microteaching sessions with small groups of TAs to provide structured, reflective feedback on teaching practice during the first weeks of each semester"
+      ]
+    },
     {
       "institution": "Virginia Tech",
       "role": "Graduate Teaching Assistant – Intercultural Issues in Professional Writing (ENGL 3834)",
@@ -372,6 +412,19 @@
         "award": "ASEE 2025 Graduate Studies Division Best Student Paper Award"
       },
       {
+        "authors": "Smith, A., Webb, M.E.B., Rasberry, N., Baniya, S., & Ogbonnaya-Ogburu, I. F.",
+        "year": 2025,
+        "title": "Designing Technology to Support the Hospital Classroom",
+        "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
+      },
+      {
+        "authors": "Webb, M.E.B., Coso Strong, A. & Werth, A.",
+        "year": 2026,
+        "title": "Generative Stories Generating Research Insight: GenAI-Enabled Research Fiction for Examining Multi-Perspective \"Critical Tensions\" in Scholarly Development",
+        "venue": "Proceedings of the 2026 ASEE Annual Conference & Exposition, St. Lawrence Division",
+        "location": "Cornell University, Ithaca, NY"
+      },
+      {
         "authors": "Webb, M.E.B., Coso Strong, A. & Werth, A.",
         "year": 2026,
         "title": "Building Capacity for Instructional Change: A Critical Review and Conceptual Framework for Discipline-Based Education Research (DBER) Postdoctoral Professional Development",
@@ -396,12 +449,6 @@
         "status": "Accepted"
       },
       {
-        "authors": "Smith, A., Webb, M.E.B., Rasberry, N., Baniya, S., & Ogbonnaya-Ogburu, I. F.",
-        "year": 2025,
-        "title": "Designing Technology to Support the Hospital Classroom",
-        "venue": "Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
-      },
-      {
         "authors": "Baniya, S., Webb, M.E.B., Scott, L., & Powell, K.",
         "year": 2026,
         "title": "Implementing Digital Justice to Support Refugee and Immigrant Communities",
@@ -412,26 +459,26 @@
       {
         "authors": "Webb, M.E.B., Singh, H., Inman, R., Baniya, S. & Katz, A.",
         "year": 2025,
-        "title": "An End-to-End Method for Inductively Generating a Qualitative Codebook with Minimal Human Input: A Comparative Study of GPT-3.5 and Traditional Codebook Generation for Scaling up Qualitative Research on Interconnected Crises",
-        "journal": "IEEE Transactions on Technology and Society"
+        "title": "Advancing Qualitative Analysis in Professional Disaster and Risk Communication: A Comparative Study of an OpenAI ChatGPT 3.5 Model-Enabled Method for Processing Complex Public Discourse",
+        "journal": "International Journal of Disaster Risk Reduction"
       },
       {
         "authors": "Webb, M.E.B. & Paretti, M.",
         "year": 2025,
-        "title": "Exploring Ecological Systems Influences on Engineering Graduate Student Interdisciplinary Scholar Development",
+        "title": "Navigating (Inter)disciplinary systems: ecological systems analysis of engineering graduate students' motivation for interdisciplinary development",
         "journal": "European Journal of Engineering Education",
         "note": "Special Issue: Interdisciplinary Learning and Transformation of Engineering Education"
       },
       {
         "authors": "Webb, M.E.B., Baniya, S., Smith, A., Williams, I.F.",
         "year": 2026,
-        "title": "Understanding Virginia, U.S. Hospital Educators' Work Practices and Technology Needs: A Participatory Qualitative Case Study Exploring AI Integration Opportunities",
+        "title": "U.S. Hospital Educators' Technology Needs: A Qualitative Study for Developing Action-Oriented Technology",
         "journal": "IEEE Transactions on Professional Communication"
       },
       {
         "authors": "Webb, M.E.B., Baniya, S., Powell, K., Rizvi, M., Scott, L., Dromgold-Sermen, M., et al.",
         "year": 2026,
-        "title": "Towards Digital Justice and Consolidated Resettlement Resources for New Americans: Reflections on A Multi-Institutional Virginia Database Initiative",
+        "title": "Reimaging Information Architecture: Community-Centered and Collaborative Digital Infrastructure in Refugee Service Ecosystems",
         "journal": "Computers and Composition",
         "status": "Accepted"
       },
@@ -442,6 +489,21 @@
         "journal": "Journal of Engineering Education",
         "note": "Special Issue on Surrounding Systems' Influences on Engineering Education",
         "status": "In Revision"
+      },
+      {
+        "authors": "Lightner, T.L., Webb, M.E.B., Schilling, M.R.",
+        "year": 2027,
+        "title": "Rethinking Self-Authorship Through Critical Resilience Theory: Supporting Marginalized STEM Graduate Students in Interdisciplinary Spaces",
+        "journal": "Frontiers in Education",
+        "note": "Special Issue on From Gatekeeping to Gatebreaking: Leading Through Sociopolitical Pressures to Reimagine STEMM Ecosystems",
+        "status": "In Progress"
+      },
+      {
+        "authors": "Webb, M.E.B. & Paretti, M.",
+        "year": 2027,
+        "title": "Visualizing Interdisciplinary Scholar Development: A Longitudinal Analysis of Engineering Graduate Students' Identity-Based Motivation Trajectories for Interdisciplinary Research Careers",
+        "journal": "Studies in Graduate and Postdoctoral Education",
+        "status": "In Progress"
       }
     ],
     "book_chapters": [
@@ -455,16 +517,16 @@
       },
       {
         "authors": "Baniya, S., Powell, K., Salem, A., Webb, M., Scott, L., Williams, C., & East, A.",
-        "year": 2025,
+        "year": 2026,
         "title": "Enacting Digital Justice in Partnership with Displaced Refugee and Immigrant Communities",
         "book": "Critical Displacement Studies Reader",
         "editors": "Powell, K., et al. (Eds.)",
         "publisher": "Virginia Tech Publishing",
-        "status": "In Revisions"
+        "status": "Accepted"
       },
       {
         "authors": "Feng, X., Aarnio, H., Webb, M.E.B., Schiebel, J., Hingle, A.",
-        "year": 2026,
+        "year": 2027,
         "title": "The Hidden Curriculum of a PhD: From Getting Started To Getting It Done in Engineering Education Research",
         "book": "International Handbook of Engineering Education Research",
         "status": "In Revisions"
@@ -589,6 +651,13 @@
         "title": "Conference and Poster Planning for Undergraduate Technical Communication Students",
         "event": "Dr. Baniya's Undergraduate Technical Communication and Documentation Course",
         "attendees": 30
+      },
+      {
+        "authors": "Montilla, H., Webb, M.E.B., Herron, C., Dimobi, C.",
+        "date": "2026-04",
+        "title": "Shaping Your Career Path: Virginia Tech College of Engineering Graduate Alumni Panel",
+        "event": "VT College of Engineering Graduate and Professional Studies",
+        "attendees": 45
       }
     ],
     "conference_presentations": [
@@ -638,6 +707,16 @@
     ]
   },
   "awards": [
+    {
+      "title": "VT Department of Engineering Bevlee Watford Outstanding Dissertation Award",
+      "awarder": "Virginia Tech",
+      "date": "2026"
+    },
+    {
+      "title": "Nominated for VT Graduate School Outstanding Dissertation for Social Sciences",
+      "awarder": "Virginia Tech",
+      "date": "2026"
+    },
     {
       "title": "SEFI Early Career Researcher's Club",
       "awarder": "European Society of Engineering Education",
@@ -852,7 +931,7 @@
   ],
   "professional_memberships": [
     { "organization": "VT Community of Practice for Professional Development", "dates": "12/2024 - 5/2025" },
-    { "organization": "AAAS/Science Program for Excellence in Science", "dates": "10/2024 - 10/2024" },
+    { "organization": "AAAS/Science Program for Excellence in Science", "dates": "10/2024 - Present" },
     { "organization": "American Society for Engineering Education (ASEE) - Graduate Studies, Multidisciplinary Engineering, and Student Divisions", "dates": "8/2021 - Present" },
     { "organization": "Natural Hazards Research Infrastructure Graduate Student Council - DEI and Social Science Research Committees", "dates": "8/2021 - 5/2024" },
     { "organization": "Rice University Engineering Alumni Association", "dates": "5/2019 - Present" },

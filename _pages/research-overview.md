@@ -48,6 +48,12 @@ support them. I'm now studying how postdoctoral researchers — who are supposed
 drive innovation from their research — navigate similar tensions in complex educational 
 systems (see [*Beyond Barriers and Supports*](https://webbmargaret.github.io/publication/2026-01-01-beyond-barriers-and-supports-a-systems-interaction-analysis-of-how-microsystems), in review).
 
+This strand also extends to how marginalized students experience interdisciplinary 
+spaces. Ongoing work with colleagues examines how graduate students from underrepresented 
+groups develop resilience and self-authorship when navigating these systems — and what 
+it would take to make those spaces genuinely equitable (see [*Rethinking Self-Authorship 
+Through Critical Resilience Theory*](https://webbmargaret.github.io/publication/2027-01-01-rethinking-self-authorship-through-critical-resilience-theory), in progress).
+
 
 ---
 
@@ -63,7 +69,7 @@ and systems-level analysis.
 
 - **Using GenAI thoughtfully for systems-level analysis:** I've helped develop methods where AI enables the 
   analysis of student reflections and other open responses at massive scale, but 
-  humans stay in control to ensure quality. Critically, scaling up qualitative analysis this way opens doors that were previously impractical — enabling multi-institutional and cross-cultural comparisons, longitudinal studies across larger cohorts, and findings with broader generalizability than traditional qualitative work alone can achieve. Without this kind of scale, systems-level questions about how universities shape student development are nearly impossible to answer rigorously. See [*Advancing Qualitative Analysis in Professional Disaster and Risk Communication*](https://webbmargaret.github.io/publication/2025-01-01-advancing-qualitative-analysis-in-professional-disaster-and-risk-communication-a) and [*Toward Scalable Assessment of Undergraduate Reflective Practice*](https://webbmargaret.github.io/publication/2026-01-01-toward-scalable-assessment-of-undergraduate-reflective-practice-comparing-mult) (forthcoming).
+  humans stay in control to ensure quality. Critically, scaling up qualitative analysis this way opens doors that were previously impractical — enabling multi-institutional and cross-cultural comparisons, longitudinal studies across larger cohorts, and findings with broader generalizability than traditional qualitative work alone can achieve. Without this kind of scale, systems-level questions about how universities shape student development are nearly impossible to answer rigorously. See [*Advancing Qualitative Analysis in Professional Disaster and Risk Communication*](https://webbmargaret.github.io/publication/2025-01-01-advancing-qualitative-analysis-in-professional-disaster-and-risk-communication-a) and [*Toward Scalable Assessment of Undergraduate Reflective Practice*](https://webbmargaret.github.io/publication/2026-01-01-toward-scalable-assessment-of-undergraduate-reflective-practice) (forthcoming).
 
 - **Visualizing complex qualitative data:** Understanding how systems interact over 
   time requires more than written analysis — it requires making invisible patterns 
@@ -73,7 +79,10 @@ and systems-level analysis.
   [dissertation](https://webbmargaret.github.io/publication/2025-01-01-systems-to-transform-interdisciplinary-graduate-education-an-ecological-systems) and extended in an upcoming article in the 
   [*Journal of Engineering Education*](https://webbmargaret.github.io/publication/2026-01-01-beyond-barriers-and-supports-a-systems-interaction-analysis-of-how-microsystems), is now being applied to postdoctoral professional development — where visualizing 
   how postdocs navigate critical tensions across complex academic relationships can 
-  make those patterns legible in ways that can actually inform program design.
+  make those patterns legible in ways that can actually inform program design. An 
+  upcoming article in [*Studies in Graduate and Postdoctoral Education*](https://webbmargaret.github.io/publication/2027-01-01-visualizing-interdisciplinary-scholar-development) extends this 
+  visualization work to trace how students' interdisciplinary motivation trajectories 
+  evolve across the full arc of graduate training (in progress).
 
 - **Community-partnership research:** Instead of researchers designing technology 
   for communities, I work *with* communities — refugees, immigrants, hospital 
@@ -98,7 +107,7 @@ to adopt it. Change is hard.
   education as new experts in their disciplines, but they face tensions — like unclear 
   expectations from the faculty they work with. I've been developing a framework to 
   help them navigate these challenges. See [*Building Capacity for Instructional 
-  Change*](https://webbmargaret.github.io/publication/2026-01-01-building-capacity-for-instructional-change-a-critical-review-and-conceptual-fram) 
+  Change*](https://webbmargaret.github.io/publication/2026-01-01-building-capacity-for-instructional-change-dber-postdoctoral-professional-development) 
   (forthcoming).
 
 - **Critical tensions:** My team has found that productive struggle is necessary for 
@@ -108,8 +117,13 @@ to adopt it. Change is hard.
   Rather than trying to eliminate these tensions, our research helps define what they 
   are and how they can be navigated, as well as how to design professional development 
   that recognizes them as opportunities for growth. See [*Building Capacity for 
-  Instructional Change*](https://webbmargaret.github.io/publication/2026-01-01-building-capacity-for-instructional-change-a-critical-review-and-conceptual-fram) 
-  (forthcoming).
+  Instructional Change*](https://webbmargaret.github.io/publication/2026-01-01-building-capacity-for-instructional-change-dber-postdoctoral-professional-development) 
+  (forthcoming). We've also been developing a method for surfacing these tensions 
+  using research fiction — fictionalized case studies that protect participants' 
+  identities while enabling honest discussion of difficult relational dynamics. 
+  GenAI plays a role here too, helping generate synthetic vignettes that can be 
+  discussed, refined, and used in professional development settings. See 
+  [*Generative Stories Generating Research Insight*](https://webbmargaret.github.io/publication/2026-01-01-generative-stories-generating-research-insight-genai-enabled-research-fiction).
 
 - **Practical teaching innovations:** I've also been studying how to teach hands-on 
   engineering courses online without losing the hands-on part — especially important 
@@ -118,4 +132,3 @@ to adopt it. Change is hard.
   (forthcoming).
 
 ---
-

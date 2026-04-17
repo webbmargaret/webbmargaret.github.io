@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version](/files/CV Webb 2025.pdf){: .btn .btn--primary}
+[Download PDF version](/files/CV Webb 2026.pdf){: .btn .btn--primary}
 
 Research Interests
 ======
@@ -45,7 +45,7 @@ Book Chapters
   * Baniya, S., Powell, K., Salem, A., **Webb, M.**, Scott, L., Williams, C., & East, A.
   * Eds. Powell, K., et al.
 
-* **The Hidden Curriculum of a PhD: From Getting Started To Getting It Done in Engineering Education Research** (In Revisions, estimated 2026)
+* **The Hidden Curriculum of a PhD: From Getting Started To Getting It Done in Engineering Education Research** (In Revisions, estimated 2027)
   * *International Handbook of Engineering Education Research*
   * Feng, X., Aarnio, H., **Webb, M.E.B.**, Schiebel, J., Hingle, A.
 
@@ -59,11 +59,11 @@ Journal Publications
   * *European Journal of Engineering Education* – Special Issue: Interdisciplinary Learning and Transformation of Engineering Education
   * **Webb, M.E.B.** & Paretti, M.
 
-* **Understanding Virginia, U.S. Hospital Educators' Work Practices and Technology Needs: A Participatory Qualitative Case Study Exploring AI Integration Opportunities** 
+* **U.S. Hospital Educators' Technology Needs: A Qualitative Study for Developing Action-Oriented Technology** (March 2026)
   * *IEEE Transactions on Professional Communication*
   * **Webb, M.E.B.**, Baniya, S., Smith, A., Williams, I.F.
 
-* **Towards Digital Justice and Consolidated Resettlement Resources for New Americans: Reflections on A Multi-Institutional Virginia Database Initiative** (Accepted, estimated 2026)
+* **Reimaging Information Architecture: Community-Centered and Collaborative Digital Infrastructure in Refugee Service Ecosystems** (Accepted, estimated 2026)
   * *Computers and Composition*
   * **Webb, M.E.B.**, Baniya, S., Powell, K., Rizvi, M., Scott, L., Dromgold-Sermen, M., et al.
 
@@ -71,8 +71,36 @@ Journal Publications
   * *Journal of Engineering Education* – Special Issue on Surrounding Systems' Influences on Engineering Education
   * **Webb, M.E.B.** & Paretti, M.
 
+* **Rethinking Self-Authorship Through Critical Resilience Theory: Supporting Marginalized STEM Graduate Students in Interdisciplinary Spaces** (In Progress, estimated 2027)
+  * *Frontiers in Education* – Special Issue on From Gatekeeping to Gatebreaking: Leading Through Sociopolitical Pressures to Reimagine STEMM Ecosystems
+  * Lightner, T.L., **Webb, M.E.B.**, Schilling, M.R.
+
+* **Visualizing Interdisciplinary Scholar Development: A Longitudinal Analysis of Engineering Graduate Students' Identity-Based Motivation Trajectories for Interdisciplinary Research Careers** (In Progress, estimated 2027)
+  * *Studies in Graduate and Postdoctoral Education*
+  * **Webb, M.E.B.** & Paretti, M.
+
 Peer-Reviewed Conference Publications
 ======
+* **Generative Stories Generating Research Insight: GenAI-Enabled Research Fiction for Examining Multi-Perspective "Critical Tensions" in Scholarly Development** (2026)
+  * *2026 ASEE Annual Conference & Exposition, St. Lawrence Division* – Cornell University, Ithaca, NY
+  * **Webb, M.E.B.**, Coso Strong, A. & Werth, A.
+
+* **Building Capacity for Instructional Change: A Critical Review and Conceptual Framework for Discipline-Based Education Research (DBER) Postdoctoral Professional Development** (Accepted, 2026)
+  * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
+  * **Webb, M.E.B.**, Coso Strong, A. & Werth, A.
+
+* **Toward Scalable Assessment of Undergraduate Reflective Practice: Comparing Multiple Reflection Quality Codebook Validation Approaches** (Accepted, 2026)
+  * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
+  * **Webb, M.E.B.**, McColley, C., Alrizqi, M., Manuel Sanders, G., & Werth, A.
+
+* **Strategies for Hybrid, Hands-on Courses in Robotics, Embedded Systems, and IoT** (Accepted, 2026)
+  * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
+  * Jaramillo, J., **Webb, M.E.B.**, & Coso Strong, A.
+
+* **Implementing Digital Justice to Support Refugee and Immigrant Communities** (2026)
+  * *2026 CHI Conference on Human Factors in Computing Systems*
+  * Baniya, S., **Webb, M.E.B.**, Scott, L., & Powell, K.
+
 * **Tracking the Evolution of Interdisciplinary Identity-Based Motivation in Engineering Graduate Students: A Longitudinal Case Study** (June 2025) ⭐ *ASEE 2025 Graduate Studies Division Best Student Paper Award*
   * *2025 ASEE Annual Conference & Exposition* – Montreal, Canada
   * **Webb, M.E.B.** & Paretti, M.C.
@@ -137,22 +165,6 @@ Peer-Reviewed Conference Publications
   * *Joint Research in Engineering Education Symposium (REES) & Australasian Association for Engineering Education Conference* – Perth, Australia [virtual]
   * Deters, J. R., Menon, M., Paretti, M. C., & **Webb, M.E.B.**
 
-* **Building Capacity for Instructional Change: A Critical Review and Conceptual Framework for Discipline-Based Education Research (DBER) Postdoctoral Professional Development** (Accepted)
-  * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
-  * **Webb, M.E.B.**, Coso Strong, A. & Werth, A.
-
-* **Toward Scalable Assessment of Undergraduate Reflective Practice: Comparing Multiple Reflection Quality Codebook Validation Approaches** (Accepted)
-  * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
-  * **Webb, M.E.B.**, McColley, C., Alrizqi, M., Manuel Sanders, G., & Werth, A.
-
-* **Strategies for Hybrid, Hands-on Courses in Robotics, Embedded Systems, and IoT** (Accepted)
-  * *2026 ASEE Annual Conference & Exposition* – Charlotte, North Carolina
-  * Jaramillo, J., **Webb, M.E.B.**, & Coso Strong, A.
-
-* **Implementing Digital Justice to Support Refugee and Immigrant Communities** (2026)
-  * *2026 CHI Conference on Human Factors in Computing Systems*
-  * Baniya, S., **Webb, M.E.B.**, Scott, L., & Powell, K.
-
 Blog Posts
 ======
 * **Breaking Silos: Rethinking University Structures to Facilitate Interdisciplinary Engineering Graduate Education** (2024)
@@ -161,14 +173,29 @@ Blog Posts
 
 Research Experience
 ======
-* Present: **Postdoctoral Fellow, Cornell Disciplinary-Based Education Research (CDER)**
+* May 2026 – Present: **Teaching and Learning Consultant, Engineering TA/CA Development Program**
+  * Cornell University, Office of Inclusive Excellence (OIE), College of Engineering, Ithaca, NY
+  * Supervisors: Dr. Celia Evans and Dr. Wenjing Luo
+  * Co-developing and co-facilitating evidence-based, interactive training workshops for engineering graduate Teaching Assistants (TAs) and undergraduate Course Assistants (CAs)
+  * Co-presenting and supporting logistics for the two-day graduate TA Development program and the Masters/Undergraduate CA Training event each semester
+  * Conducting microteaching sessions with small groups of TAs during the first two weeks of each semester to support instructional growth and reflective practice
+  * Conducting research on the TA/CA Development Program
+
+* September 2025 – Present: **Radical Humanity in Research (RHR) Program, Facilitator and Researcher**
+  * Cornell University, Office of Inclusive Excellence (OIE), College of Engineering, Ithaca, NY
+  * Supervisors: Dr. Laura Schoenle, Dr. Alex Werth, and Dr. Alex Coso Strong
+  * Supporting a team-based professional development program for faculty and their research groups focused on cultivating values-centered, inclusive research cultures
+  * Conducting research on the program's impact
+  * Contributing to grant writing to support program development and expansion
+
+* July 2025 – Present: **Postdoctoral Fellow, Cornell Disciplinary-Based Education Research (CDER)**
   * Cornell University, Department of Biomedical Engineering, Ithaca, NY
   * Supervisors: Dr. Alex Werth and Dr. Alex Coso Strong
   * Researching postdoctoral professional development: exploring how structures, systems, and cultures impact postdoctoral associates as scholars and change agents
   * Investigating generative AI's role in automating qualitative assessment of student reflection quality in STEM education courses
   * Studying Active Learning Initiatives as models of instructional change
   * Supporting research grant writing
-  * Planning and coordinating an international Disciplinary-Based Education Research (DBER) conference
+  * Initiating, planning, and implementing a regional Disciplinary-Based Education Research (DBER) conference; built and maintaining [NYDBER conference website](https://nydber2026.github.io/nydberconference2026/)
   * Mentoring graduate and undergraduate students in STEM education research
 
 * June 2024 – May 2025: **Graduate Research Assistant for Graduate & Professional Studies**
@@ -234,7 +261,7 @@ Research Experience
 
 Engineering Work Experience
 ======
-* 2019–2020: **Engineer (Multiple Roles)**
+* 2019–2021: **Engineer (Multiple Roles)**
   * ExxonMobil, Houston, TX
   * *Rotating Facilities Engineer* – Norman Wells, NWT, Canada: responsible for on-the-ground engineering and operations optimization
   * *Project Engineer, Liza Phase 1 Subsea Pig Launcher*: developed, manufactured, and tested a $3M assembly deployed offshore Guyana
@@ -258,6 +285,8 @@ Grant Writing Experience
 
 Honors & Awards
 ======
+* **VT Department of Engineering Bevlee Watford Outstanding Dissertation Award**, Virginia Tech (2026)
+* **Nominated for VT Graduate School Outstanding Dissertation for Social Sciences**, Virginia Tech (2026)
 * **SEFI Early Career Researcher's Club**, European Society of Engineering Education (2025–2026)
 * **ASEE Graduate Studies Division Best Student Paper Award** – 2nd year in a row (June 2025) [[Award Info](https://sites.asee.org/gsd/division-awards/)]
   * "Tracking the Evolution of Interdisciplinary Identity-Based Motivation in Engineering Graduate Students: A Longitudinal Case Study" with Dr. Marie C. Paretti
@@ -287,6 +316,10 @@ Fellowships
 
 Teaching Experience
 ======
+* **Teaching and Learning Consultant, Engineering TA/CA Development Program**, Cornell University, Office of Inclusive Excellence (May 2026 – Present)
+  * Co-developing and co-facilitating evidence-based training workshops for engineering graduate TAs and undergraduate CAs
+  * Conducting microteaching sessions with small groups of TAs to provide structured, reflective feedback on teaching practice
+
 * **Graduate Teaching Assistant** – Intercultural Issues in Professional Writing (ENGL 3834), Virginia Tech (Spring 2024, Fall 2025)
   * Taught modules on participatory action and community-engaged technical communication and effective conference presentations
   * Graded weekly discussion posts and mid-semester projects
@@ -307,6 +340,7 @@ Teaching Experience
 
 Invited Talks & Presentations
 ======
+* **April 2026**: *"Shaping Your Career Path: Virginia Tech College of Engineering Graduate Alumni Panel"* (with H. Montilla, C. Herron, & C. Dimobi) – VT College of Engineering Graduate and Professional Studies (45 attendees)
 * **May 2025**: *"Getting the Most Out of Engineering Conferences and Conference Resources"* – Virginia Tech College of Engineering Graduate and Professional Studies (25 attendees)
 * **April 2025**: *"Poster Presentations for Research Conferences"* – Virginia Tech College of Engineering Graduate and Professional Studies (25 attendees)
 * **February 2025**: *"Understanding Virginia Hospital Educators' Work Practices and Technology Needs"* (with A. Smith) – VT Institute for Creativity, Arts, and Technology (30 attendees)
