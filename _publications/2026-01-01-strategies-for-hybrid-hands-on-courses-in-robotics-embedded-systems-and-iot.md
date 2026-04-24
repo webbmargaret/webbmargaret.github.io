@@ -1,5 +1,5 @@
 ---
-title: "Forthcoming: Strategies for Hybrid, Hands-on Courses in Robotics, Embedded Systems, and IoT"
+title: "Strategies for Hybrid, Hands-on Courses in Robotics, Embedded Systems, and IoT"
 author: "Jaramillo, J., Webb, M.E.B., & Coso Strong, A."
 collection: publications
 category: conference
