@@ -2,7 +2,7 @@
 title: "The Hidden Curriculum of a PhD: From Getting Started To Getting It Done in Engineering Education Research"
 author: "Feng, X., Aarnio, H., Webb, M.E.B., Schiebel, J., & Hingle, A."
 collection: publications
-category: manuscripts
+category: book-chapters
 permalink: /_publications/2027-01-01-hidden-curriculum
 date: 2027-01-01
 venue: 'International Handbook of Engineering Education Research'
