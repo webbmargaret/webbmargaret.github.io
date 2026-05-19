@@ -1,5 +1,5 @@
 ---
-title: "In Revisions: Reimaging Information Architecture: Community-Centered and Collaborative Digital Infrastructure in Refugee Service Ecosystems"
+title: "Reimaging Information Architecture: Community-Centered and Collaborative Digital Infrastructure in Refugee Service Ecosystems"
 author: "Webb, M.E.B., Baniya, S., Powell, K., Rizvi, M., Scott, L., Dromgold-Sermen, M., Kachab, M., & Rissler, G."
 collection: publications
 category: manuscripts

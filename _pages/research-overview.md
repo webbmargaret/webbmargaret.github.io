@@ -71,6 +71,15 @@ and systems-level analysis.
   analysis of student reflections and other open responses at massive scale, but 
   humans stay in control to ensure quality. Critically, scaling up qualitative analysis this way opens doors that were previously impractical — enabling multi-institutional and cross-cultural comparisons, longitudinal studies across larger cohorts, and findings with broader generalizability than traditional qualitative work alone can achieve. Without this kind of scale, systems-level questions about how universities shape student development are nearly impossible to answer rigorously. See [*Advancing Qualitative Analysis in Professional Disaster and Risk Communication*](https://webbmargaret.github.io/publication/2025-01-01-advancing-qualitative-analysis-in-professional-disaster-and-risk-communication-a) and [*Toward Scalable Assessment of Undergraduate Reflective Practice*](https://webbmargaret.github.io/publication/2026-01-01-toward-scalable-assessment-of-undergraduate-reflective-practice) (forthcoming).
 
+  But scaling up GenAI-enabled coding isn't straightforward. Our ongoing work shows 
+  that the type of code being applied matters enormously — surface-level content codes 
+  behave very differently from deeper interpretive codes when automated, and standard 
+  interrater agreement metrics don't always tell the full story. See [*Scaling Reflection 
+  Quality Assessment with GenAI: Code Type, Dataset Balancing, and the Limits of 
+  Interrater Agreement in EER*](https://webbmargaret.github.io/publication/2027-01-01-scaling-reflection-quality-assessment-genai-code-type) 
+  (in progress), which challenges the common assumption that latent codes are simply 
+  "harder" for AI to handle.
+
 - **Visualizing complex qualitative data:** Understanding how systems interact over 
   time requires more than written analysis — it requires making invisible patterns 
   visible. I've developed visualization techniques for longitudinal qualitative data 
@@ -110,15 +119,35 @@ to adopt it. Change is hard.
   Change*](https://webbmargaret.github.io/publication/2026-01-01-building-capacity-for-instructional-change-dber-postdoctoral-professional-development) 
   (forthcoming).
 
-- **Critical tensions:** My team has found that productive struggle is necessary for 
-  postdocs' growth. "Critical tensions" are challenging situations — like when a 
-  postdoc's vision for innovative teaching conflicts with their supervising professor's 
-  expectations — that feel uncomfortable but are actually essential learning moments. 
-  Rather than trying to eliminate these tensions, our research helps define what they 
-  are and how they can be navigated, as well as how to design professional development 
-  that recognizes them as opportunities for growth. See [*Building Capacity for 
-  Instructional Change*](https://webbmargaret.github.io/publication/2026-01-01-building-capacity-for-instructional-change-dber-postdoctoral-professional-development) 
-  (forthcoming). We've also been developing a method for surfacing these tensions 
+- **Critical tensions and how postdocs build agency:** My team has found that 
+  productive struggle is necessary for postdocs' growth. "Critical tensions" are 
+  challenging situations — like when a postdoc's vision for innovative teaching 
+  conflicts with their supervising professor's expectations — that feel uncomfortable 
+  but are actually essential learning moments. Rather than trying to eliminate these 
+  tensions, our research helps define what they are and how they can be navigated, 
+  as well as how to design professional development that recognizes them as 
+  opportunities for growth. See [*Building Capacity for Instructional 
+  Change*](https://webbmargaret.github.io/publication/2026-01-01-building-capacity-for-instructional-change-dber-postdoctoral-professional-development) 
+  (forthcoming).
+
+  Importantly, how a postdoc responds to these tensions — and whether those responses 
+  accumulate into genuine agency — is not just an individual matter. Our research 
+  identifies five archetypical patterns of how postdocs build professional agency 
+  over time, showing that the same person may follow different patterns depending on 
+  their relational and institutional environment. See [*Cycles of Recognition: How 
+  DBER Postdocs Build Professional Agency for Instructional Change with Five 
+  Archetypical Patterns*](https://webbmargaret.github.io/publication/2027-01-01-cycles-of-recognition-dber-postdocs-professional-agency) 
+  (in progress).
+
+  This work also reveals that agency development is not just a property of the 
+  individual postdoc — it emerges from the postdoc-faculty relationship itself. When 
+  both parties learn from each other, productive outcomes follow; when that 
+  bidirectional learning breaks down, labor happens but agency doesn't build. See 
+  [*Beyond the Individual: Bidirectional Learning and Dyadic Agency Development in 
+  DBER Postdoc–Faculty Collaborations for Instructional Change*](https://webbmargaret.github.io/publication/2027-01-01-beyond-the-individual-bidirectional-learning-dyadic-agency) 
+  (in progress).
+
+  We've also been developing a method for surfacing these tensions 
   using research fiction — fictionalized case studies that protect participants' 
   identities while enabling honest discussion of difficult relational dynamics. 
   GenAI plays a role here too, helping generate synthetic vignettes that can be 

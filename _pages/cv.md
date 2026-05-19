@@ -79,6 +79,18 @@ Journal Publications
   * *Studies in Graduate and Postdoctoral Education*
   * **Webb, M.E.B.** & Paretti, M.
 
+* **Cycles of Recognition: How DBER Postdocs Build Professional Agency for Instructional Change with Five Archetypical Patterns** (In Progress, estimated 2027)
+  * *Studies in Graduate and Postdoctoral Education*
+  * **Webb, M.E.B.**, Coso Strong, A., & Werth, A.
+
+* **Beyond the Individual: Bidirectional Learning and Dyadic Agency Development in DBER Postdoc–Faculty Collaborations for Instructional Change** (In Progress, estimated 2027)
+  * *International Journal of STEM Education*
+  * **Webb, M.E.B.**, Coso Strong, A., & Werth, A.
+
+* **Scaling Reflection Quality Assessment with GenAI: Code Type, Dataset Balancing, and the Limits of Interrater Agreement in EER** (In Progress, estimated 2027)
+  * *Studies in Engineering Education*
+  * **Webb, M.E.B.**, McColley, C., Alrizqi, M., Manuel Sanders, G., & Werth, A.
+
 Peer-Reviewed Conference Publications
 ======
 * **Generative Stories Generating Research Insight: GenAI-Enabled Research Fiction for Examining Multi-Perspective "Critical Tensions" in Scholarly Development** (2026)
@@ -340,6 +352,9 @@ Teaching Experience
 
 Invited Talks & Presentations
 ======
+* **June 2026**: *"From Framework to Field: Developing and Applying a Relational Agency Model for DBER Postdoc Professional Development"* – NYDBER Conference, Ithaca, NY (Poster Presentation)
+* **June 2026**: *"Introduction to Critical Tensions and Workshop"* – Cornell University Engineering TA/CA Professional Development Program, Ithaca, NY
+* **May 2026**: *"Introduction to Critical Tensions for OIE Leads"* – Cornell University, Office of Inclusive Excellence, College of Engineering, Ithaca, NY
 * **April 2026**: *"Shaping Your Career Path: Virginia Tech College of Engineering Graduate Alumni Panel"* (with H. Montilla, C. Herron, & C. Dimobi) – VT College of Engineering Graduate and Professional Studies (45 attendees)
 * **May 2025**: *"Getting the Most Out of Engineering Conferences and Conference Resources"* – Virginia Tech College of Engineering Graduate and Professional Studies (25 attendees)
 * **April 2025**: *"Poster Presentations for Research Conferences"* – Virginia Tech College of Engineering Graduate and Professional Studies (25 attendees)

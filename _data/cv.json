@@ -479,9 +479,7 @@
         "authors": "Webb, M.E.B., Baniya, S., Powell, K., Rizvi, M., Scott, L., Dromgold-Sermen, M., et al.",
         "year": 2026,
         "title": "Reimaging Information Architecture: Community-Centered and Collaborative Digital Infrastructure in Refugee Service Ecosystems",
-        "journal": "Computers and Composition",
-        "status": "Accepted"
-      },
+        "journal": "Computers and Composition"      },
       {
         "authors": "Webb, M.E.B. & Paretti, M.",
         "year": 2026,
@@ -503,6 +501,27 @@
         "year": 2027,
         "title": "Visualizing Interdisciplinary Scholar Development: A Longitudinal Analysis of Engineering Graduate Students' Identity-Based Motivation Trajectories for Interdisciplinary Research Careers",
         "journal": "Studies in Graduate and Postdoctoral Education",
+        "status": "In Progress"
+      },
+      {
+        "authors": "Webb, M.E.B., Coso Strong, A. & Werth, A.",
+        "year": 2027,
+        "title": "Cycles of Recognition: How DBER Postdocs Build Professional Agency for Instructional Change with Five Archetypical Patterns",
+        "journal": "Studies in Graduate and Postdoctoral Education",
+        "status": "In Progress"
+      },
+      {
+        "authors": "Webb, M.E.B., Coso Strong, A. & Werth, A.",
+        "year": 2027,
+        "title": "Beyond the Individual: Bidirectional Learning and Dyadic Agency Development in DBER Postdoc–Faculty Collaborations for Instructional Change",
+        "journal": "International Journal of STEM Education",
+        "status": "In Progress"
+      },
+      {
+        "authors": "Webb, M.E.B., McColley, C., Alrizqi, M., Manuel Sanders, G., & Werth, A.",
+        "year": 2027,
+        "title": "Scaling Reflection Quality Assessment with GenAI: Code Type, Dataset Balancing, and the Limits of Interrater Agreement in EER",
+        "journal": "Studies in Engineering Education",
         "status": "In Progress"
       }
     ],
@@ -658,6 +677,28 @@
         "title": "Shaping Your Career Path: Virginia Tech College of Engineering Graduate Alumni Panel",
         "event": "VT College of Engineering Graduate and Professional Studies",
         "attendees": 45
+      },
+      {
+        "authors": "Webb, M.E.B., Coso Strong, A., & Werth, A.",
+        "date": "2026-06-11",
+        "title": "From Framework to Field: Developing and Applying a Relational Agency Model for DBER Postdoc Professional Development",
+        "event": "NYDBER Conference",
+        "location": "Ithaca, NY",
+        "type": "Poster Presentation"
+      },
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2026-06-10",
+        "title": "Introduction to Critical Tensions and Workshop",
+        "event": "Cornell University Engineering TA/CA Professional Development Program",
+        "location": "Ithaca, NY"
+      },
+      {
+        "authors": "Webb, M.E.B.",
+        "date": "2026-05-20",
+        "title": "Introduction to Critical Tensions for OIE Leads",
+        "event": "Cornell University, Office of Inclusive Excellence, College of Engineering",
+        "location": "Ithaca, NY"
       }
     ],
     "conference_presentations": [

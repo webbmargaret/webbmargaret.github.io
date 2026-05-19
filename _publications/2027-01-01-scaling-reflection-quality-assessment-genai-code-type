@@ -1,0 +1,13 @@
+---
+title: "Scaling Reflection Quality Assessment with GenAI: Code Type, Dataset Balancing, and the Limits of Interrater Agreement in EER"
+author: "Webb, M.E.B., McColley, C., Alrizqi, M., Manuel Sanders, G., & Werth, A."
+collection: publications
+category: manuscripts
+permalink: /publication/2027-01-01-scaling-reflection-quality-assessment-genai-code-type
+date: 2027-01-01
+venue: 'Studies in Engineering Education'
+citation: 'Webb, M.E.B., McColley, C., Alrizqi, M., Manuel Sanders, G., & Werth, A. (2027). Scaling Reflection Quality Assessment with GenAI: Code Type, Dataset Balancing, and the Limits of Interrater Agreement in EER. <i>Studies in Engineering Education</i>.'
+# paperurl: ''
+---
+
+This study argues that reliable GenAI-enabled qualitative coding in STEM education research requires distinguishing between semantic (surface-level, content-identifying) and latent (interpretive, abstraction-level) code types, because each demands different validation processes and presents different automation challenges. Using reflective writing assessment in undergraduate engineering courses as a motivating case, we compare multiple codebook validation approaches across code types and examine how dataset balancing and interrater agreement metrics interact with code type to shape automation outcomes. A central finding challenges the prevailing assumption that latent codes are uniformly harder for GenAI to handle — this is an oversimplification that obscures meaningful variation within and across code categories. Findings have implications for researchers seeking to scale qualitative assessment of student reflection in engineering education.
