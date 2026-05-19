@@ -2,7 +2,7 @@
 title: "From Framework to Field: Developing and Applying a Relational Agency Model for DBER Postdoc Professional Development"
 collection: talks
 type: "Conference Poster Presentation"
-permalink: /talks/2026-06-10-critical-tensions-taca-program
+permalink: /talks/2026-06-10-critical-tensions
 venue: "NYDBER Conference"
 date: 2026-06-11
 location: "Ithaca, NY"
