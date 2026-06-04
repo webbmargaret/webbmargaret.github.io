@@ -7,7 +7,7 @@ permalink: /publication/2025-01-01-towards-digital-justice-and-consolidated-rese
 date: 2026-01-01
 venue: 'Computers and Composition'
 citation: 'Webb, M.E.B., Baniya, S., Powell, K., Rizvi, M., Scott, L., Dromgold-Sermen, M., Kachab, M., &amp; Rissler, G. (2026). Reimaging Information Architecture: Community-Centered and Collaborative Digital Infrastructure in Refugee Service Ecosystems. <i>Computers and Composition</i>.'
-# paperurl: ''
+paperurl: 'https://doi.org/10.1016/j.compcom.2026.103011.'
 ---
 Use [Google Scholar](https://scholar.google.com/scholar?q=Towards+Digital+Justice+and+Consolidated+Resettlement+Resources+for+New+American){:target="_blank"} for full citation
 
