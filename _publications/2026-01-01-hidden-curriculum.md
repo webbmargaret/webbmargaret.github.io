@@ -1,5 +1,5 @@
 ---
-title: "The Hidden Curriculum of a PhD: From Getting Started To Getting It Done in Engineering Education Research"
+title: "In Revisions: The Hidden Curriculum of a PhD: From Getting Started To Getting It Done in Engineering Education Research"
 author: "Feng, X., Aarnio, H., Webb, M.E.B., Schiebel, J., & Hingle, A."
 collection: publications
 category: book-chapters

@@ -63,7 +63,7 @@ Journal Publications
   * *IEEE Transactions on Professional Communication*
   * **Webb, M.E.B.**, Baniya, S., Smith, A., Williams, I.F.
 
-* **Reimaging Information Architecture: Community-Centered and Collaborative Digital Infrastructure in Refugee Service Ecosystems** (Accepted, estimated 2026)
+* **Reimaging Information Architecture: Community-Centered and Collaborative Digital Infrastructure in Refugee Service Ecosystems** (June 2026)
   * *Computers and Composition*
   * **Webb, M.E.B.**, Baniya, S., Powell, K., Rizvi, M., Scott, L., Dromgold-Sermen, M., et al.
 
