@@ -131,9 +131,6 @@ complex real-world problems. My work examines three interconnected questions:
 (function() {
 var BASE = 'https://webbmargaret.github.io/publication/';
 
-<!-- ============================================================
-     COLLABORATOR NETWORK
-     ============================================================ -->
 /* ──────────────────────────────────────────
    COLLABORATOR DATA
    Each person has: uni, discipline, papers[]
@@ -181,7 +178,7 @@ var collabs = {
   },
   'Scott': {
     full: 'Layla Scott',
-    uni: 'Virginia Tech', discipline: 'English / Writing Studies',
+    uni: 'Virginia Tech Graduate', discipline: 'English / Writing Studies',
     count: 4, years: [2023,2023,2024,2025],
     papers: [
       { t: 'Incorporating Community Knowledge in Design', s: '2025-01-01-incorporating-community-knowledge-in-design-a-reflective-account-of-designing-te' },
@@ -222,7 +219,7 @@ var collabs = {
   },
   'Menon': {
     full: 'Maya Menon',
-    uni: 'Virginia Tech', discipline: 'Engineering Education',
+    uni: 'Virginia Tech Graduate', discipline: 'Engineering Education',
     count: 3, years: [2022,2023,2023],
     papers: [
       { t: 'Building a Sustainable Interdisciplinary Graduate Program', s: '2022-01-01-building-a-sustainable-university-wide-interdisciplinary-graduate-program-to-add' },
@@ -232,7 +229,7 @@ var collabs = {
   },
   'Feng': {
     full: 'Xiaoqi Feng',
-    uni: 'Aalto University', discipline: 'Engineering / Design Education',
+    uni: 'Aalto University and UT Delft', discipline: 'Engineering / Design Education',
     count: 2, years: [2024,2027],
     papers: [
       { t: 'Finding Common Ground Across Two Institutions', s: '2024-01-01-finding-common-ground-comparing-engineering-and-design-graduate-students-concept' },
@@ -240,7 +237,7 @@ var collabs = {
     ]
   },
   'Aarnio': {
-    full: 'Hanna Aarnio',
+    full: 'Hanna Aarnio and UT Eindhoven',
     uni: 'Aalto University', discipline: 'Engineering Education',
     count: 2, years: [2024,2027],
     papers: [
@@ -277,7 +274,7 @@ var collabs = {
   },
   'Rissler': {
     full: 'Grant Rissler',
-    uni: 'Virginia Tech', discipline: 'Sociology / Community Engagement',
+    uni: 'Virginia Commonwealth University and University of Richmond', discipline: 'Sociology / Community Engagement',
     count: 2, years: [2024,2026],
     papers: [
       { t: 'Towards Digital Justice (2024)', s: '2024-01-01-towards-digital-justice-and-consolidated-resettlement-resources-for-new-american' },
@@ -286,7 +283,7 @@ var collabs = {
   },
   'Singh': {
     full: 'Harman Singh',
-    uni: 'Virginia Tech', discipline: 'Engineering Education',
+    uni: 'Penn State', discipline: 'Engineering Education',
     count: 2, years: [2025,2025],
     papers: [
       { t: 'Advancing Qualitative Analysis in Disaster Communication', s: '2025-01-01-advancing-qualitative-analysis-in-professional-disaster-and-risk-communication-a' },
@@ -303,7 +300,7 @@ var collabs = {
   },
   'Inman': {
     full: 'Rachel Inman',
-    uni: 'Virginia Tech', discipline: 'Engineering Education',
+    uni: 'Virginia Tech Graduate', discipline: 'Engineering Education',
     count: 1, years: [2025],
     papers: [
       { t: 'Advancing Qualitative Analysis in Disaster Communication', s: '2025-01-01-advancing-qualitative-analysis-in-professional-disaster-and-risk-communication-a' },
@@ -311,7 +308,7 @@ var collabs = {
   },
   'Bose': {
     full: 'Baisakhi Bose',
-    uni: 'Virginia Tech', discipline: 'Engineering Education',
+    uni: 'Ohio State University', discipline: 'Engineering Education',
     count: 1, years: [2023],
     papers: [
       { t: 'Graduate Student Perspectives on Gender Equity', s: '2023-01-01-graduate-student-and-postdoctoral-fellow-perspectives-on-advancing-women-and-gen' },
@@ -319,7 +316,7 @@ var collabs = {
   },
   'Jaramillo': {
     full: 'Jonathan Jaramillo',
-    uni: 'Cornell University', discipline: 'Electrical & Computer Engineering',
+    uni: 'Vanderbilt University', discipline: 'Electrical & Computer Engineering',
     count: 1, years: [2026],
     papers: [
       { t: 'Strategies for Hybrid Hands-on Courses', s: '2026-01-01-strategies-for-hybrid-hands-on-courses-in-robotics-embedded-systems-and-iot' },
@@ -335,7 +332,7 @@ var collabs = {
   },
   'Hingle': {
     full: 'Ashish Hingle',
-    uni: 'Cal Poly', discipline: 'Engineering Education',
+    uni: 'California Polytechnic', discipline: 'Computer Engineering',
     count: 1, years: [2027],
     papers: [
       { t: 'Hidden Curriculum of a PhD in EER', s: '2026-01-01-hidden-curriculum' },
@@ -490,9 +487,6 @@ window.rvNetFilter=function(f,btn){
 };
 
 
-<!-- ============================================================
-     KEYWORD BUBBLES
-     ============================================================ -->
 /* ══════════════════════════════════════════
    KEYWORD BUBBLES
    ══════════════════════════════════════════ */
