@@ -11,8 +11,6 @@ author_profile: true
   <a href="{{ base_path }}/files/research_statement.pdf" class="btn btn--primary"><i class="fas fa-file-pdf"></i> Download Research Statement (PDF)</a>
 </div>
 
-## Research Overview
-
 My research focuses on how universities can better prepare engineers to solve 
 complex real-world problems. My work examines three interconnected questions:
 
@@ -84,6 +82,7 @@ complex real-world problems. My work examines three interconnected questions:
      COLLABORATOR NETWORK
      ============================================================ -->
 <div class="rvis-section">
+<h3 style="margin: 0 0 0.25em; font-size: 1em; font-weight: 600;">Collaborator network</h3>
 <p class="rvis-subtitle">Hover a node for details and direct links to shared papers. Drag to rearrange. Node size = number of co-authored papers.</p>
 <div class="rvis-legend">
   <span><i style="background:#2a78d6"></i> 3+ papers</span>
@@ -104,6 +103,7 @@ complex real-world problems. My work examines three interconnected questions:
      KEYWORD BUBBLES
      ============================================================ -->
 <div class="rvis-section">
+<h3 style="margin: 0 0 0.25em; font-size: 1em; font-weight: 600;">Research themes</h3>
 <p class="rvis-subtitle">Hover a bubble for context. Click any bubble to browse related publications. Bubble size reflects prominence across the body of work.</p>
 <div class="rvis-legend">
   <span><i style="background:#2a78d6"></i> Systems &amp; interdisciplinary</span>
