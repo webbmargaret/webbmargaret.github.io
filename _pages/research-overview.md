@@ -131,6 +131,9 @@ complex real-world problems. My work examines three interconnected questions:
 (function() {
 var BASE = 'https://webbmargaret.github.io/publication/';
 
+<!-- ============================================================
+     COLLABORATOR NETWORK
+     ============================================================ -->
 /* ──────────────────────────────────────────
    COLLABORATOR DATA
    Each person has: uni, discipline, papers[]
@@ -177,7 +180,7 @@ var collabs = {
     ]
   },
   'Scott': {
-    full: 'Lacy Scott',
+    full: 'Layla Scott',
     uni: 'Virginia Tech', discipline: 'English / Writing Studies',
     count: 4, years: [2023,2023,2024,2025],
     papers: [
@@ -218,7 +221,7 @@ var collabs = {
     ]
   },
   'Menon': {
-    full: 'Muge Menon',
+    full: 'Maya Menon',
     uni: 'Virginia Tech', discipline: 'Engineering Education',
     count: 3, years: [2022,2023,2023],
     papers: [
@@ -246,8 +249,8 @@ var collabs = {
     ]
   },
   'Salem': {
-    full: 'Angie Salem',
-    uni: 'Virginia Tech', discipline: 'Writing Studies / Community Engagement',
+    full: 'Ahoo Salem',
+    uni: 'Blue Ridge Literacy Center', discipline: 'Writing Studies / Community Engagement',
     count: 2, years: [2023,2024],
     papers: [
       { t: 'Incorporating Community Knowledge in Design', s: '2025-01-01-incorporating-community-knowledge-in-design-a-reflective-account-of-designing-te' },
@@ -255,8 +258,8 @@ var collabs = {
     ]
   },
   'McColley': {
-    full: 'Corrine McColley',
-    uni: 'Cornell University', discipline: 'Biomedical Engineering Education',
+    full: 'Campbell McColley',
+    uni: 'Cornell University', discipline: 'Engineering Education',
     count: 2, years: [2026,2027],
     papers: [
       { t: 'Toward Scalable Assessment of Reflective Practice', s: '2026-01-01-toward-scalable-assessment-of-undergraduate-reflective-practice' },
@@ -273,7 +276,7 @@ var collabs = {
     ]
   },
   'Rissler': {
-    full: 'Greta Rissler',
+    full: 'Grant Rissler',
     uni: 'Virginia Tech', discipline: 'Sociology / Community Engagement',
     count: 2, years: [2024,2026],
     papers: [
@@ -282,7 +285,7 @@ var collabs = {
     ]
   },
   'Singh': {
-    full: 'Himanshu Singh',
+    full: 'Harman Singh',
     uni: 'Virginia Tech', discipline: 'Engineering Education',
     count: 2, years: [2025,2025],
     papers: [
@@ -299,7 +302,7 @@ var collabs = {
     ]
   },
   'Inman': {
-    full: 'Robin Inman',
+    full: 'Rachel Inman',
     uni: 'Virginia Tech', discipline: 'Engineering Education',
     count: 1, years: [2025],
     papers: [
@@ -315,7 +318,7 @@ var collabs = {
     ]
   },
   'Jaramillo': {
-    full: 'Jorge Jaramillo',
+    full: 'Jonathan Jaramillo',
     uni: 'Cornell University', discipline: 'Electrical & Computer Engineering',
     count: 1, years: [2026],
     papers: [
@@ -323,23 +326,23 @@ var collabs = {
     ]
   },
   'Schiebel': {
-    full: 'Jan Schiebel',
-    uni: 'Aalto University', discipline: 'Engineering Education',
+    full: 'Johannes Schiebel',
+    uni: 'Otto-von-Guericke-Universität Magdeburg', discipline: 'Engineering Education',
     count: 1, years: [2027],
     papers: [
       { t: 'Hidden Curriculum of a PhD in EER', s: '2026-01-01-hidden-curriculum' },
     ]
   },
   'Hingle': {
-    full: 'Arden Hingle',
-    uni: 'Virginia Tech', discipline: 'Engineering Education',
+    full: 'Ashish Hingle',
+    uni: 'Cal Poly', discipline: 'Engineering Education',
     count: 1, years: [2027],
     papers: [
       { t: 'Hidden Curriculum of a PhD in EER', s: '2026-01-01-hidden-curriculum' },
     ]
   },
   'Smith': {
-    full: 'Abby Smith',
+    full: 'Alexa Smith',
     uni: 'Virginia Tech', discipline: 'Technical Communication',
     count: 1, years: [2026],
     papers: [
@@ -347,7 +350,7 @@ var collabs = {
     ]
   },
   'Williams': {
-    full: 'Isaiah Williams',
+    full: 'Ihudiya Williams',
     uni: 'Virginia Tech', discipline: 'Technical Communication',
     count: 1, years: [2026],
     papers: [
@@ -486,6 +489,10 @@ window.rvNetFilter=function(f,btn){
   netInit(); Nds[0].fx=NW/2;Nds[0].fy=NH/2;
 };
 
+
+<!-- ============================================================
+     KEYWORD BUBBLES
+     ============================================================ -->
 /* ══════════════════════════════════════════
    KEYWORD BUBBLES
    ══════════════════════════════════════════ */
