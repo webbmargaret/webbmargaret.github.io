@@ -20,10 +20,13 @@ class CORSRequestHandler(http.server.SimpleHTTPRequestHandler):
         self.send_response(200)
         self.end_headers()
 
+class CORSHTTPServer(socketserver.TCPServer):
+    allow_reuse_address = True
+
 PORT = 4000
 Handler = CORSRequestHandler
 
-with socketserver.TCPServer(("127.0.0.1", PORT), Handler) as httpd:
+with CORSHTTPServer(("127.0.0.1", PORT), Handler) as httpd:
     print(f"Serving at http://localhost:{PORT}")
     print("Press Ctrl+C to stop")
     httpd.serve_forever()
