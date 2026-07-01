@@ -189,7 +189,7 @@ var collabs = {
   },
   'Coso Strong': {
     full: 'Alexandra Coso Strong',
-    uni: 'Cornell University', discipline: 'Chemical & Biomolecular Engineering / Engineering Education',
+    uni: 'Cornell University', discipline: 'Chemical & Biomolecular Engineering and Systems Engineering / Engineering Education',
     count: 3, years: [2026,2026,2026],
     papers: [
       { t: 'Building Capacity for Instructional Change', s: '2026-01-01-building-capacity-for-instructional-change-dber-postdoctoral-professional-development' },
@@ -199,7 +199,7 @@ var collabs = {
   },
   'Werth': {
     full: 'Alexandra Werth',
-    uni: 'Cornell University', discipline: 'Biomedical Engineering / Engineering Education',
+    uni: 'Cornell University', discipline: 'Biomedical Engineering / Physics and Engineering Education',
     count: 3, years: [2026,2026,2026],
     papers: [
       { t: 'Building Capacity for Instructional Change', s: '2026-01-01-building-capacity-for-instructional-change-dber-postdoctoral-professional-development' },
@@ -219,7 +219,7 @@ var collabs = {
   },
   'Menon': {
     full: 'Maya Menon',
-    uni: 'Virginia Tech Graduate', discipline: 'Engineering Education',
+    uni: 'Virginia Tech Graduate', discipline: 'Engineering Education and Ed Tech Start-Up Work',
     count: 3, years: [2022,2023,2023],
     papers: [
       { t: 'Building a Sustainable Interdisciplinary Graduate Program', s: '2022-01-01-building-a-sustainable-university-wide-interdisciplinary-graduate-program-to-add' },
@@ -256,7 +256,7 @@ var collabs = {
   },
   'McColley': {
     full: 'Campbell McColley',
-    uni: 'Cornell University', discipline: 'Engineering Education',
+    uni: 'Cornell University', discipline: 'Enviornmental Engineering and Engineering Education',
     count: 2, years: [2026,2027],
     papers: [
       { t: 'Toward Scalable Assessment of Reflective Practice', s: '2026-01-01-toward-scalable-assessment-of-undergraduate-reflective-practice' },
@@ -265,7 +265,7 @@ var collabs = {
   },
   'Alrizqi': {
     full: 'Mohammed Alrizqi',
-    uni: 'Cornell University', discipline: 'Engineering Education',
+    uni: 'Cornell University', discipline: 'Mechanical Engineering and Engineering Education',
     count: 2, years: [2026,2027],
     papers: [
       { t: 'Toward Scalable Assessment of Reflective Practice', s: '2026-01-01-toward-scalable-assessment-of-undergraduate-reflective-practice' },
@@ -283,7 +283,7 @@ var collabs = {
   },
   'Singh': {
     full: 'Harman Singh',
-    uni: 'Penn State', discipline: 'Engineering Education',
+    uni: 'Penn State', discipline: 'Geography and Enviornmental Science',
     count: 2, years: [2025,2025],
     papers: [
       { t: 'Advancing Qualitative Analysis in Disaster Communication', s: '2025-01-01-advancing-qualitative-analysis-in-professional-disaster-and-risk-communication-a' },
@@ -292,7 +292,7 @@ var collabs = {
   },
   'Katz': {
     full: 'Andrew Katz',
-    uni: 'Virginia Tech', discipline: 'Engineering Education',
+    uni: 'Virginia Tech', discipline: 'Engineering Education and Computer Science',
     count: 1, years: [2025],
     papers: [
       { t: 'Advancing Qualitative Analysis in Disaster Communication', s: '2025-01-01-advancing-qualitative-analysis-in-professional-disaster-and-risk-communication-a' },
@@ -300,7 +300,7 @@ var collabs = {
   },
   'Inman': {
     full: 'Rachel Inman',
-    uni: 'Virginia Tech Graduate', discipline: 'Engineering Education',
+    uni: 'Virginia Tech Graduate', discipline: 'Urban Planning',
     count: 1, years: [2025],
     papers: [
       { t: 'Advancing Qualitative Analysis in Disaster Communication', s: '2025-01-01-advancing-qualitative-analysis-in-professional-disaster-and-risk-communication-a' },
@@ -324,7 +324,7 @@ var collabs = {
   },
   'Schiebel': {
     full: 'Johannes Schiebel',
-    uni: 'Otto-von-Guericke-Universität Magdeburg', discipline: 'Engineering Education',
+    uni: 'Otto-von-Guericke-Universität Magdeburg', discipline: 'Data Analytics and Engineering Education',
     count: 1, years: [2027],
     papers: [
       { t: 'Hidden Curriculum of a PhD in EER', s: '2026-01-01-hidden-curriculum' },
