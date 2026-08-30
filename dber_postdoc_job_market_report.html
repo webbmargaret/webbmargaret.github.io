@@ -1,0 +1,1510 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tracking the Postdoc Pipeline — DBER &amp; Engineering Education Job Market, 2007–2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+<style>
+:root {
+  --ink: #1E2A2E;
+  --ink-soft: #4A5A5E;
+  --paper: #EEF0E9;
+  --panel: #E4E7DC;
+  --panel-line: #C7CCB9;
+  --rule: #C3C8B5;
+  --per: #B15C33;
+  --per-soft: #E6C4AE;
+  --per-bg: #F3E4D9;
+  --ee: #1F5B63;
+  --ee-soft: #B9D4D4;
+  --ee-bg: #DCE9E7;
+  --unknown: #8C8F7E;
+  --amber: #C89238;
+  --serif: 'Source Serif 4', Georgia, serif;
+  --sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --mono: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
+  --max-w: 780px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.62;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--ee); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { color: var(--per); }
+
+.c-per { color: var(--per); }
+.c-ee { color: var(--ee); }
+
+/* ---------- Masthead ---------- */
+.masthead {
+  border-bottom: 3px solid var(--ink);
+  background: linear-gradient(180deg, #F4F5EF 0%, var(--paper) 100%);
+  padding: 2.6rem 1.5rem 2rem;
+}
+.masthead-inner { max-width: 980px; margin: 0 auto; }
+.masthead-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.1rem;
+}
+.kicker {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.09em;
+  color: var(--ink-soft);
+  text-transform: uppercase;
+}
+.nav-toggle {
+  display: none;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  background: var(--ink);
+  color: var(--paper);
+  border: none;
+  padding: 0.45rem 0.8rem;
+  cursor: pointer;
+}
+h1 {
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: clamp(2.1rem, 5vw, 3.4rem);
+  line-height: 1.05;
+  margin: 0 0 0.7rem;
+  letter-spacing: -0.01em;
+}
+.dek {
+  font-family: var(--serif);
+  font-size: 1.18rem;
+  font-weight: 400;
+  color: var(--ink-soft);
+  max-width: 640px;
+  margin: 0 0 1.3rem;
+  line-height: 1.5;
+}
+.masthead-meta {
+  font-family: var(--mono);
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+.masthead-meta .dot { color: var(--panel-line); }
+.masthead-meta strong { color: var(--ink); font-weight: 600; }
+
+/* ---------- Layout ---------- */
+.layout {
+  max-width: 980px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 168px 1fr;
+  gap: 2.4rem;
+  padding: 2.6rem 1.5rem 5rem;
+}
+.toc {
+  position: sticky;
+  top: 1.6rem;
+  align-self: start;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  border-left: 2px solid var(--panel-line);
+  padding-left: 0.9rem;
+}
+.toc-label {
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 0.3rem;
+}
+.toc a {
+  color: var(--ink-soft);
+  text-decoration: none;
+  line-height: 1.4;
+}
+.toc a:hover { color: var(--per); }
+
+main { min-width: 0; }
+
+section { margin-bottom: 3.6rem; scroll-margin-top: 1.5rem; }
+section:target h2 { text-decoration: underline wavy var(--amber); text-decoration-thickness: 2px; }
+
+.eyebrow {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--per);
+  margin: 0 0 0.4rem;
+}
+h2 {
+  font-family: var(--serif);
+  font-size: 1.85rem;
+  font-weight: 600;
+  margin: 0 0 0.9rem;
+  line-height: 1.2;
+}
+h3 {
+  font-family: var(--serif);
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 1.7rem 0 0.6rem;
+}
+p { margin: 0 0 1rem; max-width: var(--max-w); }
+p.note {
+  font-size: 0.88rem;
+  color: var(--ink-soft);
+  border-left: 2px solid var(--panel-line);
+  padding-left: 0.9rem;
+}
+.mono { font-family: var(--mono); font-size: 0.9em; background: var(--panel); padding: 0.05em 0.35em; border-radius: 2px; }
+
+/* ---------- Source cards ---------- */
+.source-cards {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.1rem;
+  margin: 1.4rem 0;
+}
+.source-card {
+  border: 1.5px solid var(--ink);
+  padding: 1.3rem 1.3rem 1.1rem;
+  background: var(--panel);
+}
+.source-card.per { border-top: 4px solid var(--per); }
+.source-card.ee { border-top: 4px solid var(--ee); }
+.source-card-head { display: flex; align-items: center; gap: 0.55rem; margin-bottom: 0.2rem; }
+.swatch { width: 11px; height: 11px; display: inline-block; border-radius: 50%; }
+.swatch.per { background: var(--per); }
+.swatch.ee { background: var(--ee); }
+.source-card h3 { margin: 0; font-size: 1.1rem; }
+.source-link {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  margin-bottom: 0.8rem;
+}
+.source-card p { font-size: 0.92rem; max-width: none; }
+.source-card dl { margin: 0.9rem 0 0; padding-top: 0.7rem; border-top: 1px dashed var(--panel-line); }
+.source-card dl div { display: flex; justify-content: space-between; font-size: 0.85rem; padding: 0.18rem 0; }
+.source-card dt { color: var(--ink-soft); }
+.source-card dd { margin: 0; font-family: var(--mono); font-weight: 600; }
+
+/* ---------- Stat strip (hero signature element) ---------- */
+.stat-strip {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1px;
+  background: var(--ink);
+  border: 1.5px solid var(--ink);
+  margin-top: 1.2rem;
+}
+.stat-card {
+  background: var(--paper);
+  padding: 1.1rem 1.1rem 0.9rem;
+  position: relative;
+}
+.stat-value {
+  font-family: var(--mono);
+  font-size: 1.9rem;
+  font-weight: 600;
+  line-height: 1;
+  margin-bottom: 0.3rem;
+}
+.stat-label {
+  font-size: 0.76rem;
+  color: var(--ink-soft);
+  line-height: 1.3;
+  margin-bottom: 0.55rem;
+  min-height: 2.2em;
+}
+.spark-wrap { position: relative; width: 100%; height: 34px; }
+.stat-spark { width: 100%; height: 34px; display: block; }
+
+/* ---------- Charts ---------- */
+.chart-card {
+  background: #fff;
+  border: 1.5px solid var(--ink);
+  padding: 1.3rem 1.3rem 0.8rem;
+  margin: 1.2rem 0 0.5rem;
+  max-width: 100%;
+}
+.chart-card canvas { max-height: 420px; }
+.chart-card.tall canvas { max-height: 560px; }
+.fig-caption {
+  font-size: 0.82rem;
+  font-family: var(--mono);
+  color: var(--ink-soft);
+  max-width: var(--max-w);
+  line-height: 1.5;
+}
+.unk-swatch {
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background: repeating-linear-gradient(45deg, var(--unknown), var(--unknown) 2px, #fff 2px, #fff 4px);
+  vertical-align: middle;
+  border: 1px solid var(--unknown);
+}
+
+.callout {
+  background: var(--panel);
+  border-left: 4px solid var(--amber);
+  padding: 1rem 1.2rem;
+  font-size: 0.94rem;
+  max-width: var(--max-w);
+  margin-top: 1.4rem;
+}
+.callout strong { font-family: var(--mono); }
+
+/* ---------- Uncertainty table ---------- */
+.uncertainty-table {
+  width: 100%;
+  max-width: 100%;
+  border-collapse: collapse;
+  font-size: 0.88rem;
+  margin: 1.2rem 0;
+}
+.uncertainty-table th, .uncertainty-table td {
+  text-align: left;
+  padding: 0.6rem 0.8rem;
+  border-bottom: 1px solid var(--panel-line);
+  vertical-align: top;
+}
+.uncertainty-table th {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-soft);
+  border-bottom: 2px solid var(--ink);
+}
+
+/* ---------- Def list ---------- */
+.def-list { display: flex; flex-wrap: wrap; gap: 0.4rem; max-width: none; }
+.def-list span {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  background: var(--panel);
+  border: 1px solid var(--panel-line);
+  padding: 0.22rem 0.55rem;
+}
+
+/* ---------- Limits list ---------- */
+.limits-list { padding-left: 1.2rem; max-width: var(--max-w); }
+.limits-list li { margin-bottom: 0.9rem; line-height: 1.55; }
+
+/* ---------- Code blocks ---------- */
+.code-block {
+  border: 1.5px solid var(--ink);
+  margin: 1.2rem 0;
+  background: #1E2A2E;
+  max-width: 100%;
+  overflow: hidden;
+}
+.code-head {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 0.55rem 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+.code-title { font-family: var(--mono); font-size: 0.82rem; font-weight: 600; }
+.code-sub { font-family: var(--sans); font-size: 0.74rem; color: #A9B3AE; max-width: 60%; text-align: right; }
+.code-block pre {
+  margin: 0;
+  padding: 1.1rem 1.2rem;
+  overflow-x: auto;
+  max-height: 420px;
+  overflow-y: auto;
+}
+.code-block code {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: #DCE4DD;
+  line-height: 1.55;
+  white-space: pre;
+}
+.link-list { padding-left: 1.2rem; }
+.link-list li { margin-bottom: 0.4rem; font-family: var(--mono); font-size: 0.88rem; }
+
+.footer-note {
+  font-size: 0.82rem;
+  color: var(--ink-soft);
+  border-top: 1px solid var(--panel-line);
+  padding-top: 1rem;
+  margin-top: 1.5rem;
+}
+
+/* Chart.js tooltip look handled in JS; legend swatches */
+.legend-row {
+  display: flex;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  margin-bottom: 0.6rem;
+  color: var(--ink-soft);
+}
+.legend-row span { display: inline-flex; align-items: center; gap: 0.4rem; }
+.legend-row i { width: 10px; height: 10px; display: inline-block; }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 860px) {
+  .layout { grid-template-columns: 1fr; padding-top: 1.6rem; }
+  .toc {
+    position: static;
+    border-left: none;
+    padding-left: 0;
+    display: none;
+    grid-template-columns: 1fr 1fr;
+    display: grid;
+    border: 1.5px solid var(--ink);
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  .toc.open { display: grid; }
+  .nav-toggle { display: inline-block; }
+  .source-cards { grid-template-columns: 1fr; }
+  .stat-strip { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 480px) {
+  .stat-strip { grid-template-columns: 1fr; }
+  .code-sub { max-width: 100%; text-align: left; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
+
+</style>
+</head>
+<body>
+
+<div class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-top">
+      <span class="kicker">A DATA REPORT FOR THE DISCIPLINE-BASED EDUCATION RESEARCH (DBER) COMMUNITY</span>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle contents">§ Contents</button>
+    </div>
+    <h1>Tracking the Postdoc Pipeline</h1>
+    <p class="dek">Fifteen-plus years of job postings from two community-run boards — the <strong class="c-per">PER Jobs</strong> blog and the <strong class="c-ee">Engineering Education</strong> job wiki that are scraped, classified, and read together.</p>
+    <p class="byline">By <a href="https://webbmaggie.com/" target="_blank" rel="noopener">Dr. Margaret Webb</a> <a class="byline-sub" href="https://www.linkedin.com/in/margaret-webb-ph-d-6a9771105" target="_blank" rel="noopener">(LinkedIn)</a>, <a href="https://redes.engineering.cornell.edu/" target="_blank" rel="noopener">Dr. Alexandra Coso Strong</a>, and <a href="https://werth.engineering.cornell.edu/" target="_blank" rel="noopener">Alexandra Werth</a> — Cornell University</p>
+    <div class="masthead-meta">
+      <span>Data through <strong id="metaDataThrough">—</strong></span>
+      <span class="dot">·</span>
+      <span id="metaTotalListings">—</span> listings classified
+      <span class="dot">·</span>
+      <span>Updated <span id="metaUpdated"></span></span>
+    </div>
+  </div>
+</div>
+
+<!-- ============================================================
+     Inter-DBER job-sharing call-to-action band
+     Self-contained: all styles inline via <style>, no dependency
+     on the main report's CSS variables or classes. Safe to paste
+     into any page as-is — just drop this whole block in.
+     ============================================================ -->
+<style>
+  .dber-cta-band {
+    background: #1E2A2E;
+    color: #EEF0E9;
+    border-bottom: 3px solid #C89238;
+    font-family: -apple-system, BlinkMacSystemFont, 'Inter', sans-serif;
+  }
+  .dber-cta-inner {
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 2rem 1.5rem 2.2rem;
+    box-sizing: border-box;
+  }
+  .dber-cta-eyebrow {
+    font-family: 'IBM Plex Mono', 'SFMono-Regular', Consolas, monospace;
+    font-size: 0.72rem;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #C89238;
+    margin: 0 0 0.4rem;
+  }
+  .dber-cta-h2 {
+    font-family: Georgia, 'Source Serif 4', serif;
+    font-weight: 600;
+    font-size: 1.6rem;
+    line-height: 1.2;
+    margin: 0 0 0.8rem;
+    color: #EEF0E9;
+  }
+  .dber-cta-lede {
+    max-width: 720px;
+    color: #C7CCC4;
+    font-size: 0.98rem;
+    line-height: 1.6;
+    margin: 0 0 1.1rem;
+  }
+  .dber-cta-asks {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    gap: 0.7rem;
+    max-width: 780px;
+  }
+  .dber-cta-asks li {
+    font-size: 0.92rem;
+    line-height: 1.5;
+    color: #C7CCC4;
+    padding-left: 1.1rem;
+    border-left: 2px solid #C89238;
+  }
+  .dber-cta-asks strong { color: #EEF0E9; font-weight: 600; }
+</style>
+
+<div class="dber-cta-band">
+  <div class="dber-cta-inner">
+    <p class="dber-cta-eyebrow">A note on why this exists</p>
+    <h2 class="dber-cta-h2">Two boards, still mostly alone</h2>
+    <p class="dber-cta-lede">PER Jobs and the EER wiki are the closest things physics and engineering education have to shared job boards — and they still barely overlap with each other. Most other DBER subfields — biology education, chemistry education, geoscience education, CS education, math education — don't have anything like either one. Postings circulate on listservs, X/Twitter threads, and word of mouth, which means people miss openings simply for being in the wrong subfield's social circle.</p>
+    <ul class="dber-cta-asks">
+      <li><strong>Know a job board for another Discipline-Based Education Research (DBER) subfield?</strong> Tell us — we'll add it to the pipeline and start tracking it here.</li>
+      <li><strong>Don't have one for your field?</strong> The scraper and classifier are built to be forked — point them at a new URL and a new board is a few hours of work, not a few months.</li>
+      <li><strong>Want to go further?</strong> A shared position-type taxonomy across fields — not a merged board, just a common vocabulary — would make it possible to aggregate postings without erasing any community's ownership of its own list.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="layout">
+  <nav class="toc" id="toc">
+    <div class="toc-label">Contents</div>
+    <a href="#overview">§1 Overview</a>
+    <a href="#sources">§2 The Two Boards</a>
+    <a href="#headline">§3 Headline Numbers</a>
+    <a href="#all-listings">§4 All Listings, by Year</a>
+    <a href="#position-types">§5 What Kinds of Jobs</a>
+    <a href="#postdocs">§6 The Postdoc Trend</a>
+    <a href="#share">§7 Postdocs as a Share</a>
+    <a href="#temporary">§8 The Contingency Trend</a>
+    <a href="#institutions">§9 Who's Hiring</a>
+    <a href="#reading">§10 How to Read the Uncertainty</a>
+    <a href="#methodology">§11 Methodology</a>
+    <a href="#limitations">§12 Limitations</a>
+    <a href="#code">§13 Code &amp; Reproducibility</a>
+    <a href="#reuse">§14 Reuse This Data</a>
+  </nav>
+
+  <main>
+
+    <section id="overview">
+      <p class="eyebrow">§1 · Overview</p>
+      <h2>Two blogs, one labor market</h2>
+      <p>Since the mid-2000s, two volunteer-run pages have quietly served as the closest thing discipline-based education research (DBER) and engineering education research (EER) have to a shared job board: the <a href="https://perjobs.blogspot.com/" target="_blank" rel="noopener">PER Jobs blog</a>, covering physics and science education research broadly, and the <a href="http://engineeringeducationlist.pbworks.com/w/page/27578912/Engineering%20Education%20Community%20Resource" target="_blank" rel="noopener">Engineering Education Community Resource wiki</a>, focused on engineering education. Neither site was built for data analysis; they're primarily lists, updated by hand, aimed at people looking for their next position.</p>
+      <p>This report scrapes both, classifies every listing into a position type, and reads the two datasets side by side: what's being posted, how much of it is postdoctoral, how that's shifted since 2011 (EE) / 2007 (PER), and how much of that shift survives once you account for how much of both datasets is genuinely ambiguous or how thin some year-slices are.</p>
+      <p>Every chart below is interactive — hover for exact values, and where a number is an estimate rather than a count, there's a band or whisker showing how much to trust it.</p>
+      <p class="note">This report grew out of a companion critical literature review, <em>Building Capacity for Instructional Change: A Critical Review and Conceptual Framework for Discipline-Based Education Research (DBER) Postdoctoral Professional Development</em> (Webb, Coso Strong, &amp; Werth, presented at the 2026 ASEE Annual Conference &amp; Exposition, Charlotte, NC, Paper #50607). That paper cites this same job-board data to motivate its central argument: growth in DBER postdoctoral positions doesn't by itself guarantee more capacity for instructional change in STEM classrooms — that capacity has to be built relationally, through the tensions and support structures postdocs navigate with faculty collaborators. The paper proposes a conceptual framework for how that happens; this page is the underlying data behind its motivating claims, extended and kept current. (Paper available on request until it's publicly indexed.)</p>
+    </section>
+
+    <section id="sources">
+      <p class="eyebrow">§2 · The Two Boards</p>
+      <h2>What each source covers</h2>
+      <div class="source-cards">
+        <div class="source-card per">
+          <div class="source-card-head">
+            <span class="swatch per"></span>
+            <h3>PER Jobs Blog</h3>
+          </div>
+          <a class="source-link" href="https://perjobs.blogspot.com/" target="_blank" rel="noopener">perjobs.blogspot.com ↗</a>
+          <p>Physics education research, discipline-based education research (DBER) more broadly, and science-education positions. Posts are dated blog entries with a title per listing; some titles bundle abbreviations like <span class="mono">TT</span>, <span class="mono">NTT</span>, <span class="mono">VAP</span> that the classifier has to decode.</p>
+          <dl>
+            <div><dt>Coverage</dt><dd id="perCoverage">—</dd></div>
+            <div><dt>Listings classified</dt><dd id="perTotal">—</dd></div>
+            <div><dt>Classification confidence</dt><dd id="perConfidence">—</dd></div>
+          </dl>
+        </div>
+        <div class="source-card ee">
+          <div class="source-card-head">
+            <span class="swatch ee"></span>
+            <h3>Engineering Education Wiki</h3>
+          </div>
+          <a class="source-link" href="http://engineeringeducationlist.pbworks.com/w/page/27578912/Engineering%20Education%20Community%20Resource" target="_blank" rel="noopener">engineeringeducationlist.pbworks.com ↗</a>
+          <p>Engineering education research and teaching, hosted as a PBworks wiki page rather than a blog. Because wikis are edited in place rather than posted chronologically, this dataset was built by walking every saved <em>revision</em> of the page and diffing the job table between versions.</p>
+          <dl>
+            <div><dt>Coverage</dt><dd id="eeCoverage">—</dd></div>
+            <div><dt>Listings classified</dt><dd id="eeTotal">—</dd></div>
+            <div><dt>Classification confidence</dt><dd id="eeConfidence">—</dd></div>
+          </dl>
+        </div>
+      </div>
+      <p class="note">These two boards serve largely non-overlapping audiences and were not deduplicated against each other for this report — see <a href="#limitations">Limitations</a>.</p>
+    </section>
+
+    <section id="headline">
+      <p class="eyebrow">§3 · Headline Numbers</p>
+      <h2>At a glance</h2>
+      <div class="stat-strip" id="statStrip"></div>
+    </section>
+
+    <section id="all-listings">
+      <p class="eyebrow">§4 · All Listings, by Year</p>
+      <h2>Volume on each board over time</h2>
+      <p>Every classified listing, of every position type, counted by the calendar year it was posted (PER) or first recorded (EER — see <a href="#methodology">Methodology</a> on why EER uses revision date). PER Jobs predates the EER wiki by a few years and has historically run at higher volume; both show a marked decline in listings from the mid-2010s peak.</p>
+      <div class="chart-card">
+        <canvas id="chartAllListings" role="img" aria-label="Grouped bar chart of all listings per year for PER Jobs and EER Job List"></canvas>
+      </div>
+      <p class="fig-caption">Fig. 1 — Total classified listings per year, both sources. 2026 is a partial year (data collected through the dates in §3); shown with reduced opacity.</p>
+    </section>
+
+    <section id="position-types">
+      <p class="eyebrow">§5 · What Kinds of Jobs</p>
+      <h2>Position-type mix, PER vs. EE</h2>
+      <p>Both boards list far more than postdocs — tenure-track searches dominate PER Jobs in raw count, while EE's listings are spread more evenly across tenure-track, postdoc, and administrative/leadership roles. The <span class="unk-swatch"></span> hatched segment of each bar is <strong>Unknown / Other</strong>: listings the keyword classifier couldn't confidently place. Treat categories near that share as approximate.</p>
+      <div class="chart-card tall">
+        <canvas id="chartTypes" role="img" aria-label="Horizontal bar chart comparing position type distributions between PER Jobs and EER Job List"></canvas>
+      </div>
+      <p class="fig-caption">Fig. 2 — Share of listings by position type, each source normalized to its own total. Hover any bar for the raw count.</p>
+    </section>
+
+    <section id="postdocs">
+      <p class="eyebrow">§6 · The Postdoc Trend</p>
+      <h2>Postdoc &amp; research-fellow postings, 2011–2026</h2>
+      <p>Restricting to listings the classifier tagged <strong>Postdoc / Research Fellow</strong>, and starting in 2011 (the first year both boards have data), the combined trend line below is smoothed with a centered 5-year rolling mean. The shaded band is <strong>not</strong> a confidence interval — it's the rolling standard deviation of the underlying yearly counts inside each 5-year window, i.e. how much the raw numbers actually bounce around within that stretch. A wide band means the "trend" is smoothing over real year-to-year volatility, not noise you should ignore.</p>
+      <div class="chart-card">
+        <canvas id="chartPostdocBars" role="img" aria-label="Grouped bar chart of postdoc listings per year, PER vs EE"></canvas>
+      </div>
+      <p class="fig-caption">Fig. 3 — Postdoc listings per year by source.</p>
+      <div class="chart-card">
+        <canvas id="chartPostdocTrend" role="img" aria-label="Combined postdoc positions per year with 5-year rolling average and uncertainty band"></canvas>
+      </div>
+      <p class="fig-caption">Fig. 4 — Combined (PER + EE) postdoc listings per year, with 5-year centered rolling mean ± 1 rolling standard deviation.</p>
+      <div class="callout" id="covidCallout"></div>
+    </section>
+
+    <section id="share">
+      <p class="eyebrow">§7 · Postdocs as a Share</p>
+      <h2>Postdocs as a percentage of all listings</h2>
+      <p>Raw postdoc counts move with total listing volume, which itself has swung a lot (§4). This chart normalizes: what fraction of each year's listings were postdocs, on each board. Because each year's percentage is a proportion estimated from a limited sample of listings, the whisker on each point is a genuine <strong>95% confidence interval</strong> (normal approximation to the binomial), so thin years — few total listings — get visibly wide, honest uncertainty rather than a falsely precise point.</p>
+      <div class="chart-card">
+        <canvas id="chartPostdocShare" role="img" aria-label="Line chart of postdoc share of listings per year with 95 percent confidence intervals"></canvas>
+      </div>
+      <p class="fig-caption">Fig. 5 — Postdoc listings as % of all listings, by year and source. Error bars: 95% CI for a proportion, based on that year's total listing count.</p>
+    </section>
+
+    <section id="temporary">
+      <p class="eyebrow">§8 · The Contingency Trend</p>
+      <h2>Temporary / contingent share of listings</h2>
+      <p>Widening the lens from postdocs alone to a broader "temporary or contingent" bucket — postdocs, visiting/temporary faculty, non-tenure-track instructors and lecturers, teaching fellows, and graduate positions (full definition in §11) — against everything else (tenure-track, full professorships, chairs, staff and administrative roles). Same 95% CI treatment as Fig. 5.</p>
+      <div class="chart-card">
+        <canvas id="chartTempShare" role="img" aria-label="Line chart of temporary and contingent position share per year with 95 percent confidence intervals"></canvas>
+      </div>
+      <p class="fig-caption">Fig. 6 — Temporary/contingent listings as % of all listings, by year and source.</p>
+    </section>
+
+    <section id="institutions">
+      <p class="eyebrow">§9 · Who's Hiring</p>
+      <h2>Top institutions posting EER postdocs</h2>
+      <p>The EER wiki dataset includes a structured institution field, so this ranking is straightforward. The PER Jobs blog does not — titles are free text without a separate institution field — so an equivalent ranking for PER isn't included here rather than guessed at (see <a href="#limitations">Limitations</a>).</p>
+      <div class="chart-card">
+        <canvas id="chartInstitutions" role="img" aria-label="Bar chart of top institutions by EER postdoc listing count"></canvas>
+      </div>
+      <p class="fig-caption">Fig. 7 — Institutions with the most EER postdoc listings, all years combined.</p>
+    </section>
+
+    <section id="reading">
+      <p class="eyebrow">§10 · How to Read the Uncertainty</p>
+      <h2>Three different bands, three different meanings</h2>
+      <p>This report uses uncertainty visualization in three different ways, deliberately not conflated into one generic "error bar," because they answer different questions:</p>
+      <table class="uncertainty-table">
+        <thead><tr><th>Where</th><th>What it shows</th><th>What it means</th></tr></thead>
+        <tbody>
+          <tr><td>Fig. 2 hatched segments</td><td>Share of listings classified <span class="mono">Unknown / Other</span></td><td>Classifier coverage — how much of that bar's total is <em>not</em> confidently placed into any category</td></tr>
+          <tr><td>Fig. 4 shaded band</td><td>Rolling standard deviation around the 5-yr mean</td><td>Volatility — how much raw year-to-year counts vary within the smoothing window</td></tr>
+          <tr><td>Figs. 5 &amp; 6 whiskers</td><td>95% confidence interval for a proportion</td><td>Sampling uncertainty — how precisely a percentage is known given that year's total number of listings</td></tr>
+        </tbody>
+      </table>
+      <p class="note">None of these are error bars in the classical repeated-measurement sense — there was one scrape, not repeated trials. They're the closest statistically honest analogue available for observational count data like this.</p>
+    </section>
+
+    <section id="methodology">
+      <p class="eyebrow">§11 · Methodology</p>
+      <h2>How this was built</h2>
+
+      <h3>1. Scraping</h3>
+      <p>PER Jobs is a Blogspot blog, so the scraper walks its date-grouped post structure page by page, following the "Older Posts" link until it runs out, recording each post's title and the date header above it. The EER wiki is a PBworks page, edited in place rather than posted chronologically — so instead of one scrape, the EER scraper visits <em>every saved revision</em> of the page (over 500 of them) and extracts the job table from each, treating a job's first appearance across revisions as its posting date. This is slower and messier than a blog scrape, but it's the only way to recover history from a wiki that doesn't keep dated posts.</p>
+
+      <h3>2. Date handling</h3>
+      <p>PER Jobs dates come cleanly off the blog's own date headers. EER listings carry two dates: a free-text <span class="mono">posting_date</span> field typed by whoever edited the wiki (inconsistent formats, sometimes partial like <span class="mono">"2018-11"</span> or missing entirely — about 8% of rows) and a <span class="mono">revision_date</span>, the ISO date PBworks recorded when that row first appeared in a saved revision. This report uses <span class="mono">revision_date</span> throughout for EER, since it's complete and consistently formatted; it will occasionally lag the "true" posting date by however long a job sat on the wiki before a revision was saved.</p>
+
+      <h3>3. Classification</h3>
+      <p>Both datasets are classified with the same approach: an ordered list of regular-expression rules, checked top to bottom, first match wins. Postdoc and graduate-student patterns are checked before tenure-track/professor patterns specifically because titles like "Postdoc to TT Position" or mixed pipeline listings need the postdoc signal to win. PER's classifier carries extra patterns tuned to that board's heavy use of abbreviations (<span class="mono">TT</span>, <span class="mono">NTT</span>, <span class="mono">VAP</span>). Anything matching none of the rules falls into <strong>Unknown / Other</strong> — <span id="methodPerConf">—</span> of PER listings, <span id="methodEeConf">—</span> of EER listings.</p>
+
+      <h3>4. "Temporary / contingent" definition</h3>
+      <p>For Figs. 6 and the summary in §12, a listing counts as temporary/contingent if its position type is one of:</p>
+      <p class="def-list" id="tempDefList"></p>
+      <p>Everything else — tenure-track, full/senior professor, department chair/program director, research scientist, staff and administrative roles, journal editors, program officers — is treated as non-contingent. This is one reasonable line to draw, not the only one; professor-of-practice and similarly-titled non-tenure roles that are often functionally permanent are <em>not</em> included here, so this measure likely understates total non-tenure-track employment while giving a clean read on explicitly time-limited positions.</p>
+
+      <h3>5. Uncertainty</h3>
+      <p>See §10 for the three uncertainty treatments used across the figures.</p>
+    </section>
+
+    <section id="limitations">
+      <p class="eyebrow">§12 · Limitations</p>
+      <h2>What this report doesn't do</h2>
+      <ul class="limits-list">
+        <li><strong>No deduplication between boards.</strong> PER and EER were scraped and classified independently; a job cross-posted to both would count twice in any "combined" figure. Based on manual review at the time this project began, overlap between the two boards appeared to be small (a large majority of listings on each board don't appear on the other), but that estimate wasn't recomputed against the current data for this report.</li>
+        <li><strong>2026 is incomplete.</strong> Both scrapes were last run in early April 2026 (see §3), covering roughly the first quarter of that year. Anything involving 2026 — bars, points, or its contribution to the 2022–2026 rolling window in Fig. 4 — will fill in as the year continues; treat it as a floor, not a final count.</li>
+        <li><strong>The classifier is rule-based, not learned.</strong> Regex keyword matching is transparent and auditable (you can read every rule in the source), but it will misfire on unusual phrasing, and "first match wins" ordering means edge cases sometimes land in a defensible-but-debatable category. The <span class="mono">Unknown / Other</span> share (§11) is the honest measure of how often it simply gives up.</li>
+        <li><strong>Institution-level analysis is EE-only.</strong> PER Jobs titles are free text without a structured institution field, so Fig. 7 has no PER equivalent here. Extracting institutions from PER titles would need name-entity extraction beyond this pipeline's scope.</li>
+        <li><strong>Both boards are volunteer-maintained and self-selecting.</strong> Neither is a comprehensive registry of every DBER/EER opening — they reflect what people chose to post, and posting norms (what gets listed, how promptly) may themselves have shifted over 15+ years in ways this data can't separate from real changes in the job market.</li>
+      </ul>
+    </section>
+
+    <section id="code">
+      <p class="eyebrow">§13 · Code &amp; Reproducibility</p>
+      <h2>Scraper &amp; classifier source</h2>
+      <p>Full scripts are linked below and reproduced in part here. Everything here — scraping, classification, statistics, and this page — was built to be re-run: change the classification rules, re-scrape for more recent postings, or point the same pipeline at another job board.</p>
+
+      <div class="code-block">
+        <div class="code-head">
+          <span class="code-title">perjobs_scraper_alljobs.py</span>
+          <span class="code-sub">Blogspot pagination scraper — PER Jobs</span>
+        </div>
+        <pre><code>&quot;&quot;&quot;
+PER Jobs Blog Scraper
+=====================
+Scrapes all job postings from the PER Jobs blog (perjobs.blogspot.com).
+Extracts job titles and posting dates, saves to CSV, and prints summary statistics.
+
+To scrape only a specific label (e.g. postdoc), set LABEL below.
+Leave LABEL as None (or &quot;&quot;) to scrape the full blog (all jobs).
+
+Author(s): Dr. Margaret Webb authorizing and reviewing Claude Code
+Date: April 2026
+&quot;&quot;&quot;
+
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+from datetime import datetime
+import time
+import re
+
+# ---------------------------------------------------------------------------
+# Configuration
+# ---------------------------------------------------------------------------
+
+# Set to a label string (e.g. &quot;postdoc&quot;) to filter, or None for ALL jobs.
+LABEL = None
+
+OUTPUT_FILENAME = &quot;perjobs_listings.csv&quot;
+
+DELAY_SECONDS = 0.5
+
+
+# ---------------------------------------------------------------------------
+# Helpers
+# ---------------------------------------------------------------------------
+
+def parse_date(date_string):
+    &quot;&quot;&quot;
+    Convert &quot;Tuesday, December 2, 2025&quot; → &quot;2025-12-02&quot;.
+    Returns None if parsing fails.
+    &quot;&quot;&quot;
+    try:
+        date_without_day = re.sub(r&#x27;^\w+,\s*&#x27;, &#x27;&#x27;, date_string.strip())
+        parsed_date = datetime.strptime(date_without_day, &quot;%B %d, %Y&quot;)
+        return parsed_date.strftime(&quot;%Y-%m-%d&quot;)
+    except ValueError as e:
+        print(f&quot;Warning: Could not parse date &#x27;{date_string}&#x27;: {e}&quot;)
+        return None
+
+
+def scrape_page(url, session):
+    &quot;&quot;&quot;
+    Scrape a single blog page and return (jobs_list, next_page_url_or_None).
+    Each job dict has keys: title, date.
+    &quot;&quot;&quot;
+    jobs = []
+
+    response = session.get(url)
+    response.raise_for_status()
+
+    soup = BeautifulSoup(response.text, &#x27;html.parser&#x27;)
+
+    current_date = None
+
+    main_content = soup.find(&#x27;div&#x27;, class_=&#x27;blog-posts&#x27;)
+    if main_content:
+        date_sections = main_content.find_all(&#x27;div&#x27;, class_=&#x27;date-outer&#x27;)
+
+        for section in date_sections:
+            date_header = section.find(&#x27;h2&#x27;, class_=&#x27;date-header&#x27;)
+            if date_header:
+                date_span = date_header.find(&#x27;span&#x27;)
+                if date_span:
+                    current_date = parse_date(date_span.get_text())
+
+            post_titles = section.find_all(&#x27;h3&#x27;, class_=&#x27;post-title&#x27;)
+
+            for title_element in post_titles:
+                link = title_element.find(&#x27;a&#x27;)
+                title = link.get_text(strip=True) if link else title_element.get_text(strip=True)
+
+                if title and current_date:
+                    jobs.append({&#x27;title&#x27;: title, &#x27;date&#x27;: current_date})
+
+    # Pagination: find the &quot;Older Posts&quot; link
+    next_page_url = None
+    older_link = soup.find(&#x27;a&#x27;, class_=&#x27;blog-pager-older-link&#x27;)
+    if older_link and older_link.get(&#x27;href&#x27;):
+        next_page_url = older_link.get(&#x27;href&#x27;)
+
+    return jobs, next_page_url
+
+
+# ---------------------------------------------------------------------------
+# Main scrape loop
+# ---------------------------------------------------------------------------
+
+def scrape_all_jobs(label=LABEL, delay_seconds=DELAY_SECONDS):
+    &quot;&quot;&quot;
+    Scrape all job postings from the PER Jobs blog.
+
+    Args:
+        label: If provided, scrape only that label (e.g. &quot;postdoc&quot;).
+               Pass None or &quot;&quot; to scrape the entire blog.
+        delay_seconds: Polite wait between page requests.
+
+    Returns:
+        Pandas DataFrame with columns: title, date
+    &quot;&quot;&quot;
+    if label:
+        base_url = f&quot;https://perjobs.blogspot.com/search/label/{label}&quot;
+        print(f&quot;Scraping PER Jobs blog — label: &#x27;{label}&#x27;&quot;)
+    else:
+        base_url = &quot;https://perjobs.blogspot.com/&quot;
+        print(&quot;Scraping PER Jobs blog — ALL jobs (no label filter)&quot;)
+
+    session = requests.Session()
+    session.headers.update({
+        &#x27;User-Agent&#x27;: &#x27;PERJobsScraper/1.0 (Educational Research Project)&#x27;
+    })
+
+    all_jobs = []
+    current_url = base_url
+    page_count = 0
+
+    print(f&quot;Starting URL: {base_url}&quot;)
+    print(f&quot;Delay between requests: {delay_seconds}s&quot;)
+    print(&quot;-&quot; * 50)
+
+    while current_url:
+        page_count += 1
+        print(f&quot;Scraping page {page_count}: {current_url[:80]}...&quot;)
+
+        try:
+            jobs, next_url = scrape_page(current_url, session)
+            all_jobs.extend(jobs)
+            print(f&quot;  Found {len(jobs)} jobs on this page (Total: {len(all_jobs)})&quot;)
+            current_url = next_url
+            if current_url:
+                time.sleep(delay_seconds)
+
+        except requests.RequestException as e:
+            print(f&quot;Error scraping page: {e}&quot;)
+            break
+
+    print(&quot;-&quot; * 50)
+    print(f&quot;Scraping complete! Found {len(all_jobs)} total jobs.&quot;)
+
+    df = pd.DataFrame(all_jobs)
+    return df
+
+
+# ---------------------------------------------------------------------------
+# Summary
+# ---------------------------------------------------------------------------
+
+def print_summary(df):
+    &quot;&quot;&quot;Print a summary of the scraped job data.&quot;&quot;&quot;
+    print(&quot;\n&quot; + &quot;=&quot; * 60)
+    print(&quot;SUMMARY OF SCRAPED JOB POSTINGS&quot;)
+    print(&quot;=&quot; * 60)
+    print(f&quot;\nTotal jobs found: {len(df)}&quot;)
+
+    if len(df) &gt; 0:
+        df[&#x27;_year&#x27;] = pd.to_datetime(df[&#x27;date&#x27;]).dt.year
+
+        print(&quot;\nDistribution by year:&quot;)
+        print(&quot;-&quot; * 30)
+        for year, count in df[&#x27;_year&#x27;].value_counts().sort_index().items():
+            print(f&quot;  {year}: {count} jobs&quot;)
+
+        print(&quot;\nSample entries:&quot;)
+        print(&quot;-&quot; * 30)
+        for _, row in df.head(5).iterrows():
+            print(f&quot;  [{row[&#x27;date&#x27;]}] {row[&#x27;title&#x27;][:70]}&quot;)
+
+        df.drop(&#x27;_year&#x27;, axis=1, inplace=True)
+
+    print(&quot;\n&quot; + &quot;=&quot; * 60)
+
+
+# ---------------------------------------------------------------------------
+# Entry point
+# ---------------------------------------------------------------------------
+
+def main():
+    df = scrape_all_jobs(label=LABEL, delay_seconds=DELAY_SECONDS)
+
+    print_summary(df)
+
+    df.to_csv(OUTPUT_FILENAME, index=False)
+    print(f&quot;\nData saved to: {OUTPUT_FILENAME}&quot;)
+    print(df.to_string(max_rows=20))
+
+    return df
+
+
+if __name__ == &quot;__main__&quot;:
+    main()
+</code></pre>
+      </div>
+
+      <div class="code-block">
+        <div class="code-head">
+          <span class="code-title">classify_perjobs.py</span>
+          <span class="code-sub">Ordered regex rules — excerpt (postdoc &amp; grad-student rules shown in full; remaining rules follow the same pattern through Tenure-Track, Visiting, Lecturer, Staff, and Unknown/Other)</span>
+        </div>
+        <pre><code>&quot;&quot;&quot;
+Position Type Classifier for PER Jobs Blog Listings
+====================================================
+Reads perjobs_listings.csv and adds a &#x27;position_type&#x27; column
+based on keyword/pattern matching in the &#x27;title&#x27; field.
+
+The PER Jobs blog uses heavy abbreviations (TT, VAP, NTT, FT, PER, DBER)
+so patterns here are tuned specifically to that vocabulary.
+
+Usage:
+    python classify_perjobs.py
+    python classify_perjobs.py --input perjobs_listings.csv --output perjobs_classified.csv
+&quot;&quot;&quot;
+
+import pandas as pd
+import re
+import argparse
+
+
+# ---------------------------------------------------------------------------
+# Classification rules
+# Order matters: rules are checked top-to-bottom and the FIRST match wins.
+# Each rule is (label, list_of_regex_patterns).
+# Patterns are matched case-insensitively against the full title string.
+# ---------------------------------------------------------------------------
+
+RULES = [
+    # --- Postdocs / Research Fellows ---
+    # Must come before TT/professor rules (some titles mix postdoc + TT pipeline)
+    (&quot;Postdoc / Research Fellow&quot;, [
+        r&quot;post[- ]?doc&quot;,
+        r&quot;postdoctoral&quot;,
+        r&quot;post doctoral&quot;,
+        r&quot;\bper postdoc\b&quot;,
+        r&quot;\bdber postdoc\b&quot;,
+        r&quot;stem.*postdoc&quot;,
+        r&quot;research fellow&quot;,         # &quot;PER Research Fellow&quot;, &quot;Teaching Research Fellow&quot;
+        r&quot;gilbreth fellow&quot;,
+        r&quot;i-perf&quot;,
+        r&quot;hhmi.*fellow&quot;,
+        r&quot;zuckerman.*scholar&quot;,
+        r&quot;physics.*teaching.*fellow&quot;,   # e.g. &quot;Physics Teaching Postdoctoral Fellow&quot;
+        r&quot;teaching.*postdoctoral&quot;,
+        r&quot;science.*fellow.*per&quot;,
+        r&quot;per.*fellow&quot;,
+        r&quot;dber.*fellow&quot;,
+    ]),
+
+    # --- Graduate students / PhD positions / Studentships ---
+    (&quot;Graduate Student / PhD Fellowship&quot;, [
+        r&quot;\bphd student\b&quot;,
+        r&quot;\bphd position\b&quot;,
+        r&quot;doctoral fellow(?!ship)&quot;,    # &quot;doctoral fellowship&quot; → could be undergrad; &quot;doctoral fellow&quot; → grad
+        r&quot;doctoral position&quot;,
+        r&quot;graduate research assist&quot;,
+        r&quot;graduate assistantship&quot;,
+        r&quot;\bgrfp\b&quot;,
+        r&quot;nsf.*graduate.*fellow&quot;,
+        r&quot;studentship&quot;,               # common in UK/AU ads
+        r&quot;phd university assistant&quot;,
+        r&quot;per graduate&quot;,
+        r&quot;graduate.*per\b&quot;,
+    ]),
+
+    # ... additional rules continue below for Tenure-Track Faculty,
+    # Visiting/Temporary, Lecturer, Professor of Practice, Staff, and
+    # Unknown/Other — see the full source link below.
+]</code></pre>
+      </div>
+
+      <p class="note">The EER wiki scraper (<span class="mono">eejobs_scraper.py</span>, revision-walking approach described in §11) and the EER classifier (<span class="mono">classify_positions.py</span>) follow the same structure and are available via the source links below.</p>
+
+      <h3>Source links</h3>
+      <ul class="link-list">
+        <li><a href="https://cornell.box.com/s/8azfakdelx8e64rvoru96pb7o2ghaxv5" target="_blank" rel="noopener">EER scraper (eejobs_scraper.py) ↗</a></li>
+        <li><a href="https://cornell.box.com/s/uvkldm851nf9uydckh1extp0dr36azrk" target="_blank" rel="noopener">EER classifier (classify_positions.py) ↗</a></li>
+        <li><a href="https://cornell.box.com/s/vcmg3oak4u0pugxg2gprxu0v4iwzootq" target="_blank" rel="noopener">PER scraper (perjobs_scraper.py) ↗</a></li>
+      </ul>
+    </section>
+
+    <section id="reuse">
+      <p class="eyebrow">§14 · Reuse This Data</p>
+      <h2>For the community</h2>
+      <p>This page, its data, and its code are shared for other DBER/EER researchers, job-seekers, and program builders to use, check, and extend. If you find an error in the classification, a listing that should be reclassified, or want to propose a different "temporary/contingent" definition for §8, that's a legitimate scholarly disagreement — the rules are all above, in plain regex, specifically so they can be argued with.</p>
+      <p class="footer-note">Report generated from scrapes current as of the dates in §3. Source boards: <a href="https://perjobs.blogspot.com/" target="_blank" rel="noopener">perjobs.blogspot.com</a> and <a href="http://engineeringeducationlist.pbworks.com/w/page/27578912/Engineering%20Education%20Community%20Resource" target="_blank" rel="noopener">engineeringeducationlist.pbworks.com</a>.</p>
+    </section>
+
+  </main>
+</div>
+
+<script id="report-data" type="application/json">{"years_all": [2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026], "years_pd": [2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026], "per": {"total": 4450, "all_by_year": [27, 177, 235, 361, 410, 315, 684, 540, 475, 481, 182, 72, 143, 37, 76, 69, 62, 46, 44, 14], "postdoc_by_year": [33, 23, 32, 30, 25, 27, 22, 18, 24, 10, 12, 15, 14, 10, 4, 9], "postdoc_pct_by_year": [8.0, 7.3, 4.7, 5.6, 5.3, 5.6, 12.1, 25.0, 16.8, 27.0, 15.8, 21.7, 22.6, 21.7, 9.1, 64.3], "temp_pct_by_year": [40.2, 39.4, 42.0, 52.4, 55.6, 57.4, 57.7, 52.8, 53.8, 54.1, 48.7, 53.6, 54.8, 56.5, 45.5, 78.6], "confidence_by_year": [96.8, 92.4, 92.8, 94.1, 95.2, 95.8, 95.6, 97.2, 93.0, 86.5, 97.4, 97.1, 98.4, 97.8, 90.9, 100.0], "overall_confidence": 94.0, "types": [{"label": "Tenure-Track Faculty", "n": 1573, "pct": 35.3}, {"label": "NTT / Instructor / Teaching Faculty", "n": 898, "pct": 20.2}, {"label": "Visiting / Temporary Faculty", "n": 536, "pct": 12.0}, {"label": "Postdoc / Research Fellow", "n": 390, "pct": 8.8}, {"label": "Unknown / Other", "n": 269, "pct": 6.0}, {"label": "Lecturer / Senior Lecturer", "n": 217, "pct": 4.9}, {"label": "Other Staff / Administrative", "n": 213, "pct": 4.8}, {"label": "Lab / Facility Staff", "n": 63, "pct": 1.4}, {"label": "Department Chair / Program Director", "n": 54, "pct": 1.2}, {"label": "Faculty Position (Unspecified Rank)", "n": 50, "pct": 1.1}, {"label": "K-12 / High School Teacher", "n": 36, "pct": 0.8}, {"label": "Research Scientist / Staff Researcher", "n": 33, "pct": 0.7}, {"label": "Outreach / Coordinator / Student Services", "n": 29, "pct": 0.7}, {"label": "Journal Editor / Associate Editor", "n": 20, "pct": 0.4}, {"label": "Full / Senior Professor", "n": 16, "pct": 0.4}, {"label": "NSF / Government Program Officer", "n": 12, "pct": 0.3}, {"label": "Instructional Designer / Ed Tech", "n": 11, "pct": 0.2}, {"label": "Graduate Student / PhD Fellowship", "n": 11, "pct": 0.2}, {"label": "Teaching Fellow", "n": 11, "pct": 0.2}, {"label": "Preceptor / Teaching Stream", "n": 8, "pct": 0.2}], "postdoc_pct_moe95": [2.6, 2.9, 1.6, 1.9, 2.0, 2.1, 4.7, 10.0, 6.1, 14.3, 8.2, 9.7, 10.4, 11.9, 8.5, 25.1], "temp_pct_moe95": [4.7, 5.4, 3.7, 4.2, 4.5, 4.4, 7.2, 11.5, 8.2, 16.1, 11.2, 11.8, 12.4, 14.3, 14.7, 21.5], "n_by_year_2011on": [410, 315, 684, 540, 475, 481, 182, 72, 143, 37, 76, 69, 62, 46, 44, 14]}, "ee": {"total": 2291, "all_by_year": [0, 0, 0, 0, 20, 86, 216, 145, 208, 261, 117, 176, 168, 109, 175, 179, 148, 178, 80, 25], "postdoc_by_year": [1, 15, 35, 22, 21, 41, 31, 44, 28, 25, 37, 57, 29, 28, 11, 3], "postdoc_pct_by_year": [5.0, 17.4, 16.2, 15.2, 10.1, 15.7, 26.5, 25.0, 16.7, 22.9, 21.1, 31.8, 19.6, 15.7, 13.8, 12.0], "temp_pct_by_year": [15.0, 22.1, 17.6, 17.9, 17.3, 24.9, 41.9, 44.3, 29.2, 39.4, 29.1, 39.1, 32.4, 23.6, 25.0, 20.0], "confidence_by_year": [85.0, 88.4, 79.6, 73.1, 63.5, 79.7, 92.3, 94.3, 94.6, 93.6, 93.1, 95.5, 93.9, 93.3, 96.2, 96.0], "overall_confidence": 86.7, "types": [{"label": "Tenure-Track Faculty", "n": 586, "pct": 25.6}, {"label": "Postdoc / Research Fellow", "n": 428, "pct": 18.7}, {"label": "Unknown / Other", "n": 305, "pct": 13.3}, {"label": "Other Staff / Administrative", "n": 301, "pct": 13.1}, {"label": "Department Chair / Program Director", "n": 178, "pct": 7.8}, {"label": "Lecturer / Senior Lecturer", "n": 121, "pct": 5.3}, {"label": "Professor of Practice / Teaching Professor", "n": 86, "pct": 3.8}, {"label": "Full / Senior Professor", "n": 67, "pct": 2.9}, {"label": "Instructor / Non-Tenure Teaching Faculty", "n": 67, "pct": 2.9}, {"label": "Research Scientist / Staff Researcher", "n": 43, "pct": 1.9}, {"label": "Instructional Designer / Ed Tech", "n": 23, "pct": 1.0}, {"label": "Journal Editor / Associate Editor", "n": 22, "pct": 1.0}, {"label": "Academic Advisor / Student Services", "n": 20, "pct": 0.9}, {"label": "Visiting / Temporary Faculty", "n": 17, "pct": 0.7}, {"label": "NSF / Government Program Officer", "n": 13, "pct": 0.6}, {"label": "Graduate Student / PhD Fellowship", "n": 9, "pct": 0.4}, {"label": "Lab / Facility Staff", "n": 5, "pct": 0.2}], "top_institutions_postdoc": [{"name": "Georgia Tech", "n": 22}, {"name": "Purdue University", "n": 22}, {"name": "University of Michigan", "n": 20}, {"name": "Cornell University", "n": 15}, {"name": "Arizona State University", "n": 13}, {"name": "Tufts University", "n": 9}, {"name": "Western Michigan University", "n": 8}, {"name": "Penn State", "n": 8}, {"name": "Oregon State University", "n": 7}, {"name": "University of Nebraska", "n": 7}], "top_institutions_all": [{"name": "Purdue University", "n": 69}, {"name": "University of Michigan", "n": 54}, {"name": "Arizona State University", "n": 44}, {"name": "Virginia Tech", "n": 39}, {"name": "Georgia Tech", "n": 37}, {"name": "The Ohio State University", "n": 37}, {"name": "National Science Foundation", "n": 34}, {"name": "University of Washington", "n": 32}, {"name": "University of Georgia", "n": 31}, {"name": "Cornell University", "n": 28}], "postdoc_pct_moe95": [9.6, 8.0, 4.9, 5.8, 4.1, 4.4, 8.0, 6.4, 5.6, 7.9, 6.0, 6.8, 6.4, 5.3, 7.6, 12.7], "temp_pct_moe95": [15.6, 8.8, 5.1, 6.2, 5.1, 5.2, 8.9, 7.3, 6.9, 9.2, 6.7, 7.1, 7.5, 6.2, 9.5, 15.7], "n_by_year_2011on": [20, 86, 216, 145, 208, 261, 117, 176, 168, 109, 175, 179, 148, 178, 80, 25]}, "combined": {"postdoc_by_year": [34, 38, 67, 52, 46, 68, 53, 62, 52, 35, 49, 72, 43, 38, 15, 12], "rolling_mean_5yr": [46.33, 47.75, 47.4, 54.2, 57.2, 56.2, 56.2, 54.0, 50.2, 54.0, 50.2, 47.4, 43.4, 36.0, 27.0, 21.67], "rolling_std_5yr": [18.01, 14.97, 12.99, 13.12, 9.78, 8.73, 8.73, 12.51, 9.78, 13.95, 13.81, 14.74, 20.53, 24.32, 15.77, 14.22]}, "flags": {"per_last_date": "2026-04-03", "ee_last_date": "2026-04-06", "per_partial_years": [2026], "ee_partial_years": [2026], "covid_year": 2020}, "covid_stats": {"pre_2017_2019": 55.7, "in_2020": 35.0, "post_2021_2023": 54.7, "peak_2022": 72.0, "avg_2023_2024": 40.5}, "temp_types_definition": ["Graduate Student / PhD Fellowship", "Instructor / Non-Tenure Teaching Faculty", "Lecturer / Senior Lecturer", "NTT / Instructor / Teaching Faculty", "Postdoc / Research Fellow", "Preceptor / Teaching Stream", "Teaching Fellow", "Visiting / Temporary Faculty"]}</script>
+<script>
+// ============================================================================
+// Setup
+// ============================================================================
+const DATA = JSON.parse(document.getElementById('report-data').textContent);
+
+const COLORS = {
+  per: '#B15C33',
+  perSoft: 'rgba(177, 92, 51, 0.18)',
+  perLine: 'rgba(177, 92, 51, 0.55)',
+  ee: '#1F5B63',
+  eeSoft: 'rgba(31, 91, 99, 0.18)',
+  eeLine: 'rgba(31, 91, 99, 0.55)',
+  ink: '#1E2A2E',
+  inkSoft: '#4A5A5E',
+  unknown: '#8C8F7E',
+  amber: '#C89238',
+  amberSoft: 'rgba(200, 146, 56, 0.22)',
+  grid: 'rgba(30, 42, 46, 0.08)',
+};
+
+Chart.defaults.font.family = "'Inter', sans-serif";
+Chart.defaults.font.size = 12;
+Chart.defaults.color = COLORS.inkSoft;
+
+// ============================================================================
+// Nav toggle (mobile)
+// ============================================================================
+document.getElementById('navToggle').addEventListener('click', () => {
+  document.getElementById('toc').classList.toggle('open');
+});
+
+// ============================================================================
+// Diagonal stripe pattern (for "Unknown / Other" classification-uncertainty bars)
+// ============================================================================
+function stripePattern(color) {
+  const c = document.createElement('canvas');
+  c.width = 8; c.height = 8;
+  const ctx = c.getContext('2d');
+  ctx.fillStyle = 'rgba(255,255,255,0.0)';
+  ctx.fillRect(0, 0, 8, 8);
+  ctx.strokeStyle = color;
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.moveTo(0, 8); ctx.lineTo(8, 0);
+  ctx.moveTo(-2, 2); ctx.lineTo(2, -2);
+  ctx.moveTo(6, 10); ctx.lineTo(10, 6);
+  ctx.stroke();
+  return ctx.createPattern(c, 'repeat');
+}
+
+// ============================================================================
+// Custom Chart.js plugin: error whiskers driven by a per-point `moe` array
+// attached to a dataset (dataset.moe[i] = +/- margin at index i).
+// ============================================================================
+const errorBarsPlugin = {
+  id: 'errorBars',
+  afterDatasetsDraw(chart) {
+    const { ctx } = chart;
+    chart.data.datasets.forEach((dataset, dsIndex) => {
+      if (!dataset.moe) return;
+      const meta = chart.getDatasetMeta(dsIndex);
+      if (meta.hidden) return;
+      const yScale = chart.scales[meta.yAxisID || 'y'];
+      meta.data.forEach((point, i) => {
+        const moe = dataset.moe[i];
+        const yValue = dataset.data[i];
+        if (moe == null || yValue == null) return;
+        const yTop = yScale.getPixelForValue(yValue + moe);
+        const yBottom = yScale.getPixelForValue(Math.max(0, yValue - moe));
+        const x = point.x;
+        ctx.save();
+        ctx.strokeStyle = dataset.borderColor;
+        ctx.lineWidth = 1.3;
+        ctx.beginPath();
+        ctx.moveTo(x, yTop); ctx.lineTo(x, yBottom);
+        ctx.moveTo(x - 4, yTop); ctx.lineTo(x + 4, yTop);
+        ctx.moveTo(x - 4, yBottom); ctx.lineTo(x + 4, yBottom);
+        ctx.stroke();
+        ctx.restore();
+      });
+    });
+  }
+};
+Chart.register(errorBarsPlugin);
+
+// ============================================================================
+// Shared tooltip / grid styling
+// ============================================================================
+const baseTooltip = {
+  backgroundColor: '#1E2A2E',
+  titleFont: { family: "'IBM Plex Mono', monospace", size: 12, weight: '600' },
+  bodyFont: { family: "'IBM Plex Mono', monospace", size: 12 },
+  padding: 10,
+  cornerRadius: 2,
+  displayColors: true,
+  boxPadding: 4,
+};
+
+function baseGrid() {
+  return { color: COLORS.grid, drawTicks: false };
+}
+
+// ============================================================================
+// Sparkline mini-charts (hero stat strip)
+// ============================================================================
+function drawSparkline(canvasId, values, color) {
+  const ctx = document.getElementById(canvasId).getContext('2d');
+  new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: values.map((_, i) => i),
+      datasets: [{
+        data: values,
+        borderColor: color,
+        borderWidth: 1.8,
+        pointRadius: 0,
+        fill: true,
+        backgroundColor: color.replace('rgb', 'rgba').includes('rgba') ? color : color,
+        tension: 0.3,
+      }]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      animation: false,
+      plugins: { legend: { display: false }, tooltip: { enabled: false } },
+      scales: {
+        x: { display: false },
+        y: { display: false },
+      },
+      elements: { point: { radius: 0 } },
+    }
+  });
+}
+
+// ============================================================================
+// Populate text + hero stat strip
+// ============================================================================
+(function populateHeader() {
+  const perLast = DATA.flags.per_last_date;
+  const eeLast = DATA.flags.ee_last_date;
+  const latest = perLast > eeLast ? perLast : eeLast;
+  document.getElementById('metaDataThrough').textContent = latest;
+  document.getElementById('metaTotalListings').textContent =
+    (DATA.per.total + DATA.ee.total).toLocaleString();
+  document.getElementById('metaUpdated').textContent = 'July 2026';
+
+  // Source cards
+  const perYears = DATA.years_all.filter((y, i) => DATA.per.all_by_year[i] > 0);
+  const eeYears = DATA.years_all.filter((y, i) => DATA.ee.all_by_year[i] > 0);
+  document.getElementById('perCoverage').textContent =
+    `${Math.min(...perYears)}–${Math.max(...perYears)}`;
+  document.getElementById('eeCoverage').textContent =
+    `${Math.min(...eeYears)}–${Math.max(...eeYears)}`;
+  document.getElementById('perTotal').textContent = DATA.per.total.toLocaleString() + ' listings';
+  document.getElementById('eeTotal').textContent = DATA.ee.total.toLocaleString() + ' listings';
+  document.getElementById('perConfidence').textContent = DATA.per.overall_confidence + '%';
+  document.getElementById('eeConfidence').textContent = DATA.ee.overall_confidence + '%';
+  document.getElementById('methodPerConf').textContent = DATA.per.overall_confidence + '% of';
+  document.getElementById('methodEeConf').textContent = DATA.ee.overall_confidence + '% of';
+
+  // Temp definition chips
+  const chipHost = document.getElementById('tempDefList');
+  DATA.temp_types_definition.forEach(t => {
+    const span = document.createElement('span');
+    span.textContent = t;
+    chipHost.appendChild(span);
+  });
+
+  // COVID callout
+  const cs = DATA.covid_stats;
+  document.getElementById('covidCallout').innerHTML =
+    `<strong>On the COVID dip:</strong> combined postdoc listings averaged ` +
+    `<strong>${cs.pre_2017_2019}/yr</strong> in 2017–2019, dropped to ` +
+    `<strong>${cs.in_2020}</strong> in 2020, then recovered to an average of ` +
+    `<strong>${cs.post_2021_2023}/yr</strong> in 2021–2023 — including a peak of ` +
+    `<strong>${cs.peak_2022}</strong> in 2022 — before easing to ` +
+    `<strong>${cs.avg_2023_2024}/yr</strong> in 2023–2024. Read this against Fig. 4's ` +
+    `shaded band: the 2020 dip and 2022 peak both sit at the edge of or outside the ` +
+    `surrounding rolling-window variability, so they look like real swings rather than noise.`;
+
+  // ---- Hero stat strip ----
+  const strip = document.getElementById('statStrip');
+  const combinedAll = DATA.years_all.map((y, i) => DATA.per.all_by_year[i] + DATA.ee.all_by_year[i]);
+  const combinedPD = DATA.combined.postdoc_by_year;
+  const peakIdx = combinedPD.indexOf(Math.max(...combinedPD));
+  const peakYear = DATA.years_pd[peakIdx];
+
+  const cards = [
+    {
+      value: (DATA.per.total + DATA.ee.total).toLocaleString(),
+      label: 'Listings classified, both boards combined',
+      spark: combinedAll, color: COLORS.ink, id: 'spark1'
+    },
+    {
+      value: combinedPD.reduce((a, b) => a + b, 0).toLocaleString(),
+      label: 'Postdoc / fellow listings, 2011–2026 combined',
+      spark: combinedPD, color: COLORS.amber, id: 'spark2'
+    },
+    {
+      value: `${combinedPD[peakIdx]} in ${peakYear}`,
+      label: 'Highest single year for combined postdoc listings',
+      spark: combinedPD, color: COLORS.per, id: 'spark3'
+    },
+    {
+      value: `${DATA.per.overall_confidence}% / ${DATA.ee.overall_confidence}%`,
+      label: 'Classifier confidence — PER / EER (share not "Unknown/Other")',
+      spark: DATA.per.confidence_by_year.map(v => v ?? 0), color: COLORS.ee, id: 'spark4'
+    },
+  ];
+
+  cards.forEach(c => {
+    const div = document.createElement('div');
+    div.className = 'stat-card';
+    div.innerHTML = `
+      <div class="stat-value">${c.value}</div>
+      <div class="stat-label">${c.label}</div>
+      <div class="spark-wrap"><canvas class="stat-spark" id="${c.id}"></canvas></div>
+    `;
+    strip.appendChild(div);
+  });
+  cards.forEach(c => drawSparkline(c.id, c.spark, c.color));
+})();
+
+// ============================================================================
+// Fig 1 — All listings by year, grouped bar
+// ============================================================================
+(function chartAllListings() {
+  const years = DATA.years_all;
+  const partial = { per: DATA.flags.per_partial_years, ee: DATA.flags.ee_partial_years };
+  const perColors = years.map(y => partial.per.includes(y) ? 'rgba(177,92,51,0.45)' : COLORS.per);
+  const eeColors = years.map(y => partial.ee.includes(y) ? 'rgba(31,91,99,0.45)' : COLORS.ee);
+
+  new Chart(document.getElementById('chartAllListings'), {
+    type: 'bar',
+    data: {
+      labels: years,
+      datasets: [
+        { label: 'PER Jobs (all listings)', data: DATA.per.all_by_year, backgroundColor: perColors, borderRadius: 1, maxBarThickness: 18 },
+        { label: 'EER Job List (all listings)', data: DATA.ee.all_by_year, backgroundColor: eeColors, borderRadius: 1, maxBarThickness: 18 },
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top', align: 'start', labels: { boxWidth: 10, usePointStyle: true, pointStyle: 'rect' } },
+        tooltip: { ...baseTooltip },
+      },
+      scales: {
+        x: { grid: { display: false }, ticks: { font: { family: "'IBM Plex Mono', monospace", size: 10 } } },
+        y: { grid: baseGrid(), title: { display: true, text: 'Listings', font: { size: 11 } } },
+      }
+    }
+  });
+})();
+
+// ============================================================================
+// Fig 2 — Position type distribution comparison (horizontal bar, %)
+// ============================================================================
+(function chartTypes() {
+  const CATS = [
+    { key: 'Tenure-Track Faculty', per: ['Tenure-Track Faculty'], ee: ['Tenure-Track Faculty'] },
+    { key: 'NTT / Instructor / Teaching Faculty', per: ['NTT / Instructor / Teaching Faculty'], ee: ['Instructor / Non-Tenure Teaching Faculty'] },
+    { key: 'Visiting / Temporary Faculty', per: ['Visiting / Temporary Faculty'], ee: ['Visiting / Temporary Faculty'] },
+    { key: 'Postdoc / Research Fellow', per: ['Postdoc / Research Fellow'], ee: ['Postdoc / Research Fellow'] },
+    { key: 'Lecturer / Senior Lecturer', per: ['Lecturer / Senior Lecturer'], ee: ['Lecturer / Senior Lecturer'] },
+    { key: 'Professor of Practice / Teaching Prof.', per: [], ee: ['Professor of Practice / Teaching Professor'] },
+    { key: 'Other Staff / Administrative', per: ['Other Staff / Administrative'], ee: ['Other Staff / Administrative'] },
+    { key: 'Department Chair / Program Director', per: ['Department Chair / Program Director'], ee: ['Department Chair / Program Director'] },
+    { key: 'Full / Senior Professor', per: ['Full / Senior Professor'], ee: ['Full / Senior Professor'] },
+    { key: 'Research Scientist / Staff Researcher', per: ['Research Scientist / Staff Researcher'], ee: ['Research Scientist / Staff Researcher'] },
+    { key: 'Unknown / Other', per: ['Unknown / Other'], ee: ['Unknown / Other'] },
+  ];
+
+  function lookup(list, labels) {
+    let pct = 0, n = 0;
+    labels.forEach(l => {
+      const row = list.find(r => r.label === l);
+      if (row) { pct += row.pct; n += row.n; }
+    });
+    return { pct: Math.round(pct * 10) / 10, n };
+  }
+
+  const perVals = [], eeVals = [], perN = [], eeN = [];
+  CATS.forEach(c => {
+    const p = lookup(DATA.per.types, c.per);
+    const e = lookup(DATA.ee.types, c.ee);
+    perVals.push(p.pct); eeVals.push(e.pct);
+    perN.push(p.n); eeN.push(e.n);
+  });
+
+  const ctx = document.getElementById('chartTypes').getContext('2d');
+  const perStripe = stripePattern(COLORS.per);
+  const eeStripe = stripePattern(COLORS.ee);
+  const perColors = CATS.map((c, i) => c.key === 'Unknown / Other' ? perStripe : COLORS.per);
+  const eeColors = CATS.map((c, i) => c.key === 'Unknown / Other' ? eeStripe : COLORS.ee);
+
+  new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: CATS.map(c => c.key),
+      datasets: [
+        { label: 'PER Jobs', data: perVals, backgroundColor: perColors, borderColor: COLORS.per, borderWidth: 1, extraN: perN, maxBarThickness: 16 },
+        { label: 'EER Job List', data: eeVals, backgroundColor: eeColors, borderColor: COLORS.ee, borderWidth: 1, extraN: eeN, maxBarThickness: 16 },
+      ]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      plugins: {
+        legend: { position: 'top', align: 'start', labels: { boxWidth: 10, usePointStyle: true, pointStyle: 'rect' } },
+        tooltip: {
+          ...baseTooltip,
+          callbacks: {
+            label: (ctx) => {
+              const n = ctx.dataset.extraN[ctx.dataIndex];
+              return ` ${ctx.dataset.label}: ${ctx.raw}% (n=${n})`;
+            }
+          }
+        }
+      },
+      scales: {
+        x: { grid: baseGrid(), title: { display: true, text: '% of source total', font: { size: 11 } } },
+        y: { grid: { display: false }, ticks: { font: { size: 11 } } },
+      }
+    }
+  });
+})();
+
+// ============================================================================
+// Fig 3 — Postdoc listings per year, grouped bar (PER vs EE)
+// ============================================================================
+(function chartPostdocBars() {
+  new Chart(document.getElementById('chartPostdocBars'), {
+    type: 'bar',
+    data: {
+      labels: DATA.years_pd,
+      datasets: [
+        { label: 'PER Jobs postdocs', data: DATA.per.postdoc_by_year, backgroundColor: COLORS.per, borderRadius: 1, maxBarThickness: 20 },
+        { label: 'EER Job List postdocs', data: DATA.ee.postdoc_by_year, backgroundColor: COLORS.ee, borderRadius: 1, maxBarThickness: 20 },
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top', align: 'start', labels: { boxWidth: 10, usePointStyle: true, pointStyle: 'rect' } },
+        tooltip: baseTooltip,
+      },
+      scales: {
+        x: { grid: { display: false }, ticks: { font: { family: "'IBM Plex Mono', monospace", size: 10 } } },
+        y: { grid: baseGrid(), title: { display: true, text: 'Postdoc listings', font: { size: 11 } } },
+      }
+    }
+  });
+})();
+
+// ============================================================================
+// Fig 4 — Combined postdoc trend, raw bars + 5yr rolling mean +/- std band
+// ============================================================================
+(function chartPostdocTrend() {
+  const mean = DATA.combined.rolling_mean_5yr;
+  const std = DATA.combined.rolling_std_5yr;
+  const upper = mean.map((m, i) => Math.round((m + std[i]) * 10) / 10);
+  const lower = mean.map((m, i) => Math.max(0, Math.round((m - std[i]) * 10) / 10));
+
+  new Chart(document.getElementById('chartPostdocTrend'), {
+    data: {
+      labels: DATA.years_pd,
+      datasets: [
+        {
+          type: 'bar', label: 'Combined postdoc listings (raw)', data: DATA.combined.postdoc_by_year,
+          backgroundColor: 'rgba(30,42,46,0.14)', borderRadius: 1, maxBarThickness: 22, order: 3
+        },
+        {
+          type: 'line', label: '_lower', data: lower, borderWidth: 0, pointRadius: 0,
+          fill: false, order: 2, tension: 0.35,
+        },
+        {
+          type: 'line', label: '5-yr rolling mean ± 1 std (band)', data: upper, borderWidth: 0, pointRadius: 0,
+          backgroundColor: COLORS.amberSoft, fill: '-1', order: 1, tension: 0.35,
+        },
+        {
+          type: 'line', label: '5-yr rolling mean', data: mean, borderColor: COLORS.amber, borderWidth: 2.5,
+          pointRadius: 2.5, pointBackgroundColor: COLORS.amber, fill: false, order: 0, tension: 0.35,
+        },
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: {
+          position: 'top', align: 'start',
+          labels: {
+            boxWidth: 10, usePointStyle: true,
+            filter: (item) => !item.text.startsWith('_')
+          }
+        },
+        tooltip: baseTooltip,
+      },
+      scales: {
+        x: { grid: { display: false }, ticks: { font: { family: "'IBM Plex Mono', monospace", size: 10 } } },
+        y: { grid: baseGrid(), title: { display: true, text: 'Postdoc listings (combined)', font: { size: 11 } } },
+      }
+    }
+  });
+})();
+
+// ============================================================================
+// Fig 5 — Postdoc % of listings, with 95% CI whiskers
+// ============================================================================
+(function chartPostdocShare() {
+  new Chart(document.getElementById('chartPostdocShare'), {
+    type: 'line',
+    data: {
+      labels: DATA.years_pd,
+      datasets: [
+        {
+          label: 'PER Jobs', data: DATA.per.postdoc_pct_by_year, moe: DATA.per.postdoc_pct_moe95,
+          borderColor: COLORS.per, backgroundColor: COLORS.per, pointRadius: 3.5, pointBackgroundColor: COLORS.per,
+          borderWidth: 2, tension: 0.25,
+        },
+        {
+          label: 'EER Job List', data: DATA.ee.postdoc_pct_by_year, moe: DATA.ee.postdoc_pct_moe95,
+          borderColor: COLORS.ee, backgroundColor: COLORS.ee, pointRadius: 3.5, pointBackgroundColor: COLORS.ee,
+          borderWidth: 2, tension: 0.25,
+        },
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top', align: 'start', labels: { boxWidth: 10, usePointStyle: true } },
+        tooltip: {
+          ...baseTooltip,
+          callbacks: {
+            label: (ctx) => {
+              const moe = ctx.dataset.moe[ctx.dataIndex];
+              return ` ${ctx.dataset.label}: ${ctx.raw}% ± ${moe} pts (95% CI)`;
+            }
+          }
+        }
+      },
+      scales: {
+        x: { grid: { display: false }, ticks: { font: { family: "'IBM Plex Mono', monospace", size: 10 } } },
+        y: { grid: baseGrid(), title: { display: true, text: '% of listings', font: { size: 11 } }, min: 0 },
+      }
+    }
+  });
+})();
+
+// ============================================================================
+// Fig 6 — Temporary/contingent % of listings, with 95% CI whiskers
+// ============================================================================
+(function chartTempShare() {
+  new Chart(document.getElementById('chartTempShare'), {
+    type: 'line',
+    data: {
+      labels: DATA.years_pd,
+      datasets: [
+        {
+          label: 'PER Jobs', data: DATA.per.temp_pct_by_year, moe: DATA.per.temp_pct_moe95,
+          borderColor: COLORS.per, backgroundColor: COLORS.per, pointRadius: 3.5, pointBackgroundColor: COLORS.per,
+          borderWidth: 2, tension: 0.25,
+        },
+        {
+          label: 'EER Job List', data: DATA.ee.temp_pct_by_year, moe: DATA.ee.temp_pct_moe95,
+          borderColor: COLORS.ee, backgroundColor: COLORS.ee, pointRadius: 3.5, pointBackgroundColor: COLORS.ee,
+          borderWidth: 2, tension: 0.25,
+        },
+      ]
+    },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'top', align: 'start', labels: { boxWidth: 10, usePointStyle: true } },
+        tooltip: {
+          ...baseTooltip,
+          callbacks: {
+            label: (ctx) => {
+              const moe = ctx.dataset.moe[ctx.dataIndex];
+              return ` ${ctx.dataset.label}: ${ctx.raw}% ± ${moe} pts (95% CI)`;
+            }
+          }
+        }
+      },
+      scales: {
+        x: { grid: { display: false }, ticks: { font: { family: "'IBM Plex Mono', monospace", size: 10 } } },
+        y: { grid: baseGrid(), title: { display: true, text: '% of listings', font: { size: 11 } }, min: 0, max: 100 },
+      }
+    }
+  });
+})();
+
+// ============================================================================
+// Fig 7 — Top institutions, EER postdocs
+// ============================================================================
+(function chartInstitutions() {
+  const rows = DATA.ee.top_institutions_postdoc;
+  new Chart(document.getElementById('chartInstitutions'), {
+    type: 'bar',
+    data: {
+      labels: rows.map(r => r.name),
+      datasets: [{ label: 'EER postdoc listings', data: rows.map(r => r.n), backgroundColor: COLORS.ee, borderRadius: 1, maxBarThickness: 22 }]
+    },
+    options: {
+      indexAxis: 'y',
+      responsive: true,
+      plugins: { legend: { display: false }, tooltip: baseTooltip },
+      scales: {
+        x: { grid: baseGrid(), title: { display: true, text: 'Postdoc listings, all years', font: { size: 11 } } },
+        y: { grid: { display: false }, ticks: { font: { size: 11 } } },
+      }
+    }
+  });
+})();
+
+</script>
+</body>
+</html>
