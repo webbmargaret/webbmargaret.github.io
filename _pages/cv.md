@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download PDF version](/files/CV Webb 2026.pdf){: .btn .btn--primary}
+[Download PDF version](/Users/margaretwebb/Documents/webbmargaret.github.io/files/CV_26_27.pdf){: .btn .btn--primary}
 
 Research Interests
 ======
