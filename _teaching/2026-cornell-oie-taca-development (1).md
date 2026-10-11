@@ -35,6 +35,27 @@ Rather than designing around these friction moments, my approach **builds them i
 - Designing **structured reflection prompts** for microteaching debriefs that ask TAs to name a friction moment, describe their response, and identify the support they sought
 - Framing the program as preparation for navigating difficulty — not just skill acquisition — so that when tensions arise during the semester, TAs/CAs have language and strategies ready
 
+## Evidence of Effectiveness
+
+**Microteaching Sessions (Fall 2026, n = 9 graduate TAs in sessions I facilitated)**
+
+| Post-session survey item | Strongly Agree / Agree |
+|---|---|
+| The session fulfilled its stated objectives | 9 of 9 (6 strongly agree) |
+| The session provided valuable feedback on my teaching | 9 of 9 (8 strongly agree) |
+| The session gave me more ideas I can use | 9 of 9 (7 strongly agree) |
+| The session should be offered next year | 8 of 9 |
+
+Asked what their facilitator did well, TAs most often named the climate and the quality of feedback — that I "broke the ice quickly," "created a warm environment," and "made sure everyone got feedback." The survey also included the critical-tensions reflection prompt described above, and TAs' answers show the framework doing its work: new TAs named friction moments such as running out of time, a polling tool failing mid-lesson, or worrying their topic wouldn't land — and described how they responded in the moment (troubleshooting, checking understanding with more questions, adding an analogy). The most common suggestion — more than seven minutes per teaching segment and smaller groups — is informing next year's session design.
+
+**Group Dynamics and Processes Workshop (Graduate TA and Undergraduate CA Trainings)**
+
+I co-designed and facilitated the case-based Group Dynamics and Processes session for both the graduate TA intensive and the CA training. Participants analyzed realistic group-work scenarios (e.g., a dominating team member, free-riding in a multi-week lab project, a neurodivergent student struggling with the pace of their group) and practiced strategies such as rotating roles, structured round-robins, and second-chance voting.
+
+- **Knowledge check:** On an embedded concept question about why intentional team processes improve group performance, **88% of graduate TAs (65 of 74)** and **90% of undergraduate CAs (66 of 73)** selected the correct answer. Scenario-based items showed more varied responses, which we used to identify strategies needing more explicit modeling.
+- **Participant feedback (57 open-ended responses):** TAs and CAs most valued the case studies, the concrete strategy handout, and the interactive role practice. One TA explained that the interactive component "made it easy for me to imagine how I could incorporate what I learned into my own teaching"; a CA preparing to run a multi-week lab project called it "very relevant to what decisions I will have to make."
+- **Responding to critical feedback:** Some CAs found parts of the session repetitive or less relevant to office-hours roles, and a few found the slides too lecture-heavy. For the next cycle, we are shortening the lecture portion, differentiating scenarios by CA role (lab, recitation, office hours), and expanding time for worked solutions — applying the same continuous-improvement loop I ask TAs to use in their own teaching.
+
 ## Research on the Program
 
 I am also conducting research on the TA/CA Development Program as a site for studying how emerging educators develop teaching agency through relational structures. Research questions guiding this work include:
